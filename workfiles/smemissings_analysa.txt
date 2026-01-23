@@ -1,0 +1,6277 @@
+abastit	abastit+Err/Lex+V+TV+Inf	0,000000
+abastit	abastit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+abiturienta	abiturieanta+N+Err/Orth+Sg+Nom	0,000000
+
+adápter	adápter+?	inf
+
+ađagottur	áhta+N+Err/Orth+Cmp/SgGen+Cmp#gottur+N+Sg+Nom	0,000000
+ađagottur	ađa+N+Cmp/SgNom+Cmp#gottur+N+Sg+Nom	0,000000
+
+agibeaidoallu	ahki+N+Cmp/SgGen+Cmp#beaivi+N+Cmp/Sh+Cmp#doallu+N+Sg+Nom	0,000000
+agibeaidoallu	agibeaivi+N+Cmp/Sh+Cmp#doallu+N+Sg+Nom	0,000000
+
+aginis	aginis+?	inf
+
+agrologa	agrologa+?	inf
+
+aiggirdit	aiggirdit+?	inf
+
+aigostaga	aigostaga+?	inf
+
+aigostahkii	aigostahkii+?	inf
+
+aisttanmearka	aisttanmearka+?	inf
+
+akásia	akásia+?	inf
+
+akrobatiija	akrobatiija+?	inf
+
+akšunista	aktionista+N+Err/Orth+Sg+Nom	0,000000
+
+alaserttet	alas+N+Cmp/SgNom+Cmp#erttet+N+Sg+Nom	0,000000
+
+albmaláhkai	albma ládje+v2+Err/MissingSpace+Adv	0,000000
+
+alfabeahtalaš	alfabeahtalaš+?	inf
+
+alfabeahtta	alfabeahtta+?	inf
+
+alibuš	allat+A+Der/Comp+A+Der/Dimin+A+Attr	0,000000
+alibuš	allat+A+Der/Comp+A+Der/Dimin+A+Sg+Nom	0,000000
+
+alin	alin+?	inf
+
+alkoholakeahtes	alkohola+N+Err/DerSub+Der/geahtes+A+Attr	0,000000
+
+alladas	alladas+?	inf
+
+alladasballu	alladasballu+?	inf
+
+allagasa	allagasa+?	inf
+
+allavuoimmálaš	allat+A+Cmp/Attr+Cmp#vuoibmi+N+Der/lasj+A+Attr	0,000000
+allavuoimmálaš	allat+A+Cmp/Attr+Cmp#vuoibmi+N+Der/lasj+A+Sg+Nom	0,000000
+
+allergeeni	allergeeni+?	inf
+
+allergihkkár	allergihkkár+?	inf
+
+allergiseret	allergiseret+?	inf
+
+alliánsa	alliánsa+?	inf
+
+alligáhtor	alligáhtor+?	inf
+
+almmáštahkes	almmáštahkes+?	inf
+
+almmosvuoigatvuođalaš	almmosvuoigatvuođalaš+?	inf
+
+almmosvuoigatvuohta	almmosvuoigatvuohta+?	inf
+
+alpasaddat	alpasaddat+?	inf
+
+alppas	alppas+?	inf
+
+alppastit	alppastit+?	inf
+
+amanuensa	amanueansa+N+Err/Orth+Sg+Nom	0,000000
+
+amfiteáhter	amfiteáhter+?	inf
+
+ammatmes	ammatmes+?	inf
+
+ammoniáhkka	ammoniáhkka+?	inf
+
+amplituda	amplituda+?	inf
+
+amuleahtta	amuleahtta+?	inf
+
+analfabeahtta	analfabeahtta+?	inf
+
+anáhahkes	anáhahkes+?	inf
+
+anánas	ananas+N+Err/Orth-a-á+Sg+Nom	0,000000
+
+anginá	anginá+?	inf
+
+anoda	anoda+?	inf
+
+anorektihkkár	anorektihkkár+?	inf
+
+ansikta	ansikta+?	inf
+
+antibiohtta	antibiohtta+?	inf
+
+antikvariáhtta	antikvariáhtta+?	inf
+
+antilohppa	anti+N+Cmp/SgNom+Cmp#loahppa+N+Err/Orth+Sg+Nom	0,000000
+
+antipáhtalaš	antipáhtalaš+?	inf
+
+antisosiálalaš	antisosiálalaš+?	inf
+
+apáhtalaš	apáhtalaš+?	inf
+
+apmasaččat	apmasaččat+?	inf
+
+aprillahilbošeapmi	aprillahilbošeapmi+N+Err/Lex+Sg+Nom	0,000000
+
+arat	arat+?	inf
+
+arená	arená+?	inf
+
+aristokráhtta	aristokráhtta+?	inf
+
+aromá	aromá+?	inf
+
+artišohkká	artišohkká+?	inf
+
+artrosa	artrosa+?	inf
+
+arvvotvuohta	arvvotvuohta+?	inf
+
+asessor	asessor+?	inf
+
+askesa	askesa+?	inf
+
+askor	askor+?	inf
+
+asosiálalaš	asosiálalaš+?	inf
+
+asteroida	asteroida+?	inf
+
+ateljea	ateljea+?	inf
+
+attašea	attašea+?	inf
+
+audiovisuálalaš	audiovisuálalaš+?	inf
+
+auskulteret	auskulteret+?	inf
+
+autobiográfalaš	autobiográfalaš+?	inf
+
+autoriteara	autoriteara+?	inf
+
+avoseahtta	avoseahtta+?	inf
+
+avvidit	avvidit+?	inf
+
+ábárrot	ábárrot+?	inf
+
+áberávkkostit	áberávkkostit+?	inf
+
+áberuvvá	áhpi+N+Cmp/SgGen+Err/Orth+Cmp#ruvvá+N+Sg+Acc	0,000000
+áberuvvá	áhpi+N+Cmp/SgGen+Err/Orth+Cmp#ruvvá+N+Sg+Gen	0,000000
+áberuvvá	áhpi+N+Cmp/SgGen+Err/Orth+Cmp#ruvvá+N+Sg+Nom	0,000000
+
+ábet	ábet+?	inf
+
+ádjánuššat	ádjánuššat+?	inf
+
+ádjášguovttos	áddjá+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+ádjášguovttos	áddjá+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+ádjášguovttos	áddjá+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+ádjášguovttos	áddjá+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+ádjášguovttos	áddjá+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+ádjášguovttos	áddjá+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+ádjášguovttos	ádjáš+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+ádjášguovttos	ádjáš+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+ádjášguovttos	ádjáš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+ádjášguovttos	ádjáš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+ádjášguovttos	ádjáš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+ádjášguovttos	ádjáš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+áđamusvuohta	áđamusvuohta+?	inf
+
+águrká	águrká+?	inf
+
+áhcagaddat	áhcagaddat+?	inf
+
+áhčeheapme	áhčiheapme+A+Err/Orth+Sg+Nom	0,000000
+
+áhčešguovttos	áhčeš guovttos+Err/MissingSpace+N+Coll+Sg+Loc	0,000000
+áhčešguovttos	áhčeš guovttos+Err/MissingSpace+N+Coll+Sg+Nom	0,000000
+áhčešguovttos	áhčežat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+áhčešguovttos	áhčežat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+áhčikeahttái	áhčči+N+Err/DerSub+Der/keahtta+Adv+Err/Orth	0,000000
+
+áhkáhuš	áhkáhuš+?	inf
+
+áhkkobealle	áhkku+N+Err/Orth+Cmp/SgNom+Cmp#bealle+N+Sg+Nom	0,000000
+áhkkobealle	áhkkubealle+N+Err/Orth+Sg+Nom	0,000000
+
+áhkkubašguovttos	áhkkut+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+áhkkubašguovttos	áhkkut+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+áhkkubašguovttos	áhkkut+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+áhkkubašguovttos	áhkkut+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+áhkkubašguovttos	áhkkubaš+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+áhkkubašguovttos	áhkkubaš+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+áhkkubašguovttos	áhkkubaš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+áhkkubašguovttos	áhkkubaš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+áhpásmahttosat	áhpásmahttosat+?	inf
+
+áhpen	áhpen+?	inf
+
+áhput	áhput+?	inf
+
+áhtesmielalaš	áhtesmielalaš+?	inf
+
+áhtesteaddji	áhtesteaddji+?	inf
+
+áhtestit	áhtestit+?	inf
+
+áhttor	áhttor+?	inf
+
+áibanit	áibanit+?	inf
+
+áibmobaloŋŋa	áibmu+N+Cmp/SgNom+Cmp#balloŋŋa+N+Err/Orth+Sg+Acc	0,000000
+áibmobaloŋŋa	áibmu+N+Cmp/SgNom+Cmp#balloŋŋa+N+Err/Orth+Sg+Gen	0,000000
+áibmobaloŋŋa	áibmu+N+Cmp/SgNom+Cmp#balloŋŋa+N+Err/Orth+Sg+Nom	0,000000
+
+áibmodieđalaš	áibmodieđalaš+?	inf
+
+áibmoláktajeaddji	áibmoláktajeaddji+?	inf
+
+áibmudit	áibmudit+?	inf
+
+áiccakeahttái	áicat+V+TV+VAbess+Err/Orth	0,000000
+áiccakeahttái	áicca+N+Err/DerSub+Der/keahtta+Adv+Err/Orth	0,000000
+
+áiccanas	áiccanas+?	inf
+
+áidnabárás	áidnabárás+?	inf
+
+áidnariegádan	áidnariegádan+?	inf
+
+áiga	áigá+Err/Orth-a-á+Adv	0,000000
+
+áigasaš	áigásaš+A+Err/Orth-a-á+Attr	0,000000
+áigasaš	áigásaš+A+Err/Orth-a-á+Sg+Nom	0,000000
+
+áigádas	áigádas+?	inf
+
+áigáibuktit	áigáibuktit+?	inf
+
+áigeheivvolaš	áigeheivvolaš+?	inf
+
+áiggádii	áiggádii+?	inf
+
+áiggegolan	áiggegolan+?	inf
+
+áiggirdit	áiggirdit+?	inf
+
+áiggolaš	áiggolaš+?	inf
+
+áigodatinfluensa	áigodat+N+Cmp/SgGen+Cmp#influeansa+N+Err/Orth+Sg+Nom	0,000000
+áigodatinfluensa	áigodat+N+Cmp/SgNom+Cmp#influeansa+N+Err/Orth+Sg+Nom	0,000000
+áigodatinfluensa	áigodatinflueansa+N+Err/Orth+Sg+Nom	0,000000
+
+áigostahkii	áigostahkii+?	inf
+
+áiguvaš	áiguvaš+?	inf
+
+áilegas	áilegas+?	inf
+
+áimmahas	áimmahas+?	inf
+
+áinnádahttit	áinnádahttit+?	inf
+
+áinnádit	áinnádit+?	inf
+
+áitalus	áitalus+?	inf
+
+áitaruššat	áitaruššat+?	inf
+
+áittahallat	áitta+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Pl+Nom	0,000000
+áittahallat	áitta+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Acc+PxSg2	0,000000
+áittahallat	áitta+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Gen+PxSg2	0,000000
+áittahallat	áitta+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Nom+PxSg2	0,000000
+
+áittus	áittus+?	inf
+
+ájašit	ájašit+?	inf
+
+ájáhahkes	ájáhahkes+?	inf
+
+ákčáhallat	ákčáhallat+?	inf
+
+ákkaras	ákkaras+?	inf
+
+ákkirduvvat	ákkirduvvat+?	inf
+
+ákšostallat	ákšostallat+?	inf
+
+álástallat	álástallat+?	inf
+
+álbmet	álbmet+?	inf
+
+álddohuvvat	áldu+N+Cmp/SgGen+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+
+áldduiduvvat	áldduiduvvat+?	inf
+
+álggohas	álggohas+?	inf
+
+álgguviđá	álgguviđá+?	inf
+
+álgoálggos	álgoálggus+Err/Orth+Adv	0,000000
+
+álgosaldo	álgu+N+Cmp/SgNom+Cmp#sáldo+N+Err/Orth-a-á+Sg+Acc	0,000000
+álgosaldo	álgu+N+Cmp/SgNom+Cmp#sáldo+N+Err/Orth-a-á+Sg+Gen	0,000000
+álgosaldo	álgu+N+Cmp/SgNom+Cmp#sáldo+N+Err/Orth-a-á+Sg+Nom	0,000000
+
+álgoviđábákti	álgoviđábákti+?	inf
+
+álkket	álkidit+Err/Orth+V+TV+Imprt+ConNeg	0,000000
+álkket	álkidit+Err/Orth+V+TV+Imprt+Sg2	0,000000
+álkket	álkidit+Err/Orth+V+TV+Ind+Prs+ConNeg	0,000000
+álkket	álkit+Err/Orth+Adv	0,000000
+
+álledastit	álledastit+?	inf
+
+állil	állil+?	inf
+
+álmmáiduvvat	álmmáiduvvat+?	inf
+
+áloládje	álo ládje+v1+Err/MissingSpace+Adv	0,000000
+
+álosmit	álosmit+?	inf
+
+álostahkii	álostahkii+?	inf
+
+álpái	álpái+?	inf
+
+álppástit	álppástit+?	inf
+
+áluiduvvat	áluiduvvat+?	inf
+
+ámmozan	ámmozan+Interj+Err/Lex	0,000000
+
+ánoldat	ánoldat+?	inf
+
+ánoldatgávpi	ánoldatgávpi+?	inf
+
+ánssáškeahttái	ánssášit+V+TV+VAbess+Err/Orth	0,000000
+
+ánuhahkes	ánuhahkes+?	inf
+
+ápmelaš	ápmelaš+?	inf
+
+árggar	árggar+?	inf
+
+árjalaš	árjalaš+?	inf
+
+árjádit	árjádit+?	inf
+
+árjjidit	árjjidit+?	inf
+
+árkket	árkket+?	inf
+
+árko	árko+?	inf
+
+árku	árku+?	inf
+
+árpašuhkes	árpašuhkes+?	inf
+
+árpašustit	árpašustit+?	inf
+
+árpmoškuššat	árpmoškuššat+?	inf
+
+árraagis	árrat+A+Cmp/Attr+Cmp#ahki+N+Sg+Loc	0,000000
+árraagis	árrat+A+Cmp/Attr+Cmp#ahki+N+Sg+Acc+PxSg3	0,000000
+árraagis	árrat+A+Cmp/Attr+Cmp#ahki+N+Sg+Gen+PxSg3	0,000000
+
+árraguoddi	árrat+A+Cmp/Attr+Cmp#guoddit+V+TV+Der/NomAg+N+Sg+Acc	0,000000
+árraguoddi	árrat+A+Cmp/Attr+Cmp#guoddit+V+TV+Der/NomAg+N+Sg+Gen	0,000000
+árraguoddi	árrat+A+Cmp/Attr+Cmp#guoddit+V+TV+Der/NomAg+N+Sg+Nom	0,000000
+árraguoddi	árrat+A+Cmp/Attr+Cmp#guoddit+V+TV+PrsPrc	0,000000
+árraguoddi	árrat+A+Cmp/Attr+Cmp#guoddi+N+NomAg+Sg+Acc	0,000000
+árraguoddi	árrat+A+Cmp/Attr+Cmp#guoddi+N+NomAg+Sg+Gen	0,000000
+árraguoddi	árrat+A+Cmp/Attr+Cmp#guoddi+N+NomAg+Sg+Nom	0,000000
+
+árramuddu	árrat+A+Cmp/Attr+Cmp#muddu+N+Sg+Nom	0,000000
+
+árravuođđosuopma	árrat+A+Cmp/Attr+Cmp#vuođđu+N+Cmp/SgNom+Cmp#suopma+N+Sg+Nom	0,000000
+
+árrásaddat	árrásaddat+?	inf
+
+ártnjihit	ártnjihit+?	inf
+
+ártnut	ártnut+?	inf
+
+árváduslaš	árváduslaš+?	inf
+
+árveš	árveš+?	inf
+
+árvudit	árvudit+?	inf
+
+árvvoštit	árvvoštit+Err/Lex+V+TV+Inf	0,000000
+árvvoštit	árvvoštit+Err/Lex+V+TV+Ind+Prs+Pl1	0,000000
+árvvoštit	árvvoštit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+árvvoštit	árvvoštit+Err/Lex+V+TV+Ind+Prt+Sg2	0,000000
+
+áskarat	áskarat+?	inf
+
+áskár	áskár+?	inf
+
+áster	áster+?	inf
+
+ástmátihkkár	ástmátihkkár+?	inf
+
+átnjal	átnjal+?	inf
+
+átnudit	átnudit+?	inf
+
+átnuvaš	átnuvaš+?	inf
+
+áttán	áttán+?	inf
+
+ávjodoalaheapme	ávjodoalaheapme+?	inf
+
+ávli	ávli+?	inf
+
+ávva	ávva+?	inf
+
+ávžohallat	ávžu+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Pl+Nom	0,000000
+ávžohallat	ávžu+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Acc+PxSg2	0,000000
+ávžohallat	ávžu+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Gen+PxSg2	0,000000
+ávžohallat	ávžu+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Nom+PxSg2	0,000000
+
+badjebadjálagaid	badje-badjálagaid+Err/MissingHyph+Adv	0,000000
+
+badjebadjelii	badje-badjelii+Err/MissingHyph+Adv	0,000000
+
+badjebázalaš	badjebázalaš+?	inf
+
+badjeleksponeret	badjeleksponeret+?	inf
+
+badjelriikkalaš	badjelriikkalaš+?	inf
+
+bađamaŋil	bađamaŋil+?	inf
+
+bađvvut	bađvvut+?	inf
+
+bagebahkka	bagebahkka+?	inf
+
+baggadit	baggadit+?	inf
+
+baháguren	baháguren+?	inf
+
+bahájuonastallat	bahájuonastallat+?	inf
+
+baháláhkai	bahá ládje+v2+Err/MissingSpace+Adv	0,000000
+
+bahččudit	bahččudit+?	inf
+
+bahkkedallat	bahkkedallat+?	inf
+
+bahohallat	bahohallat+?	inf
+
+baholasvuohta	baholasvuohta+?	inf
+
+bahonassan	bahonassan+?	inf
+
+báhttái	báhttái+?	inf
+
+bahttát	bahttát+?	inf
+
+baigat	baigat+?	inf
+
+baiget	baiget+?	inf
+
+baiggahas	baiggahas+?	inf
+
+baikaluhttit	baikaluhttit+?	inf
+
+baikaluvvat	baikaluvvat+?	inf
+
+baikkahuvvat	baika+N+Cmp/SgGen+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+
+bajáhaddat	bajidit+Err/Orth+V+TV+Der/adda+V+Inf	0,000000
+
+bajálaštit	bajálaštit+?	inf
+
+bajáldas	bajáldas+?	inf
+
+bajásaga	bajásaga+?	inf
+
+bajostallat	bajostallat+?	inf
+
+bajus	bajus+?	inf
+
+bajuštit	bajuštit+?	inf
+
+balánseret	balánseret+?	inf
+
+balddástuvvat	balddástuvvat+?	inf
+
+balleriidna	balleriidna+?	inf
+
+baloŋŋa	balloŋŋa+N+Err/Orth+Sg+Acc	0,000000
+baloŋŋa	balloŋŋa+N+Err/Orth+Sg+Gen	0,000000
+baloŋŋa	balloŋŋa+N+Err/Orth+Sg+Nom	0,000000
+
+balsáma	balsam+N+Err/Orth+Sg+Acc	0,000000
+balsáma	balsam+N+Err/Orth+Sg+Gen	0,000000
+balsáma	balsam+N+Err/Orth+Sg+Nom	0,000000
+
+balssadat	balssadat+?	inf
+
+balvvádahttit	balvvádahttit+?	inf
+
+bargoáŋgir	bargoáŋgir+?	inf
+
+baritovdna	baritovdna+?	inf
+
+barjasaddat	barjasaddat+?	inf
+
+barját	barját+?	inf
+
+barji	barji+?	inf
+
+barlásta	barlásta+?	inf
+
+barona	barona+?	inf
+
+barra	bárra+N+Err/Orth+Sg+Nom	0,000000
+
+baruhastalit	baruhastalit+?	inf
+
+barut	barut+?	inf
+
+basakeahttái	bassat+V+TV+VAbess+Err/Orth	0,000000
+
+basálta	basálta+?	inf
+
+baskánit	baskánit+?	inf
+
+baskásii	baskásii+?	inf
+
+baskásis	baskásis+?	inf
+
+bassástallat	bassástallat+?	inf
+
+bassilaš	bassilaš+?	inf
+
+baškit	baškit+?	inf
+
+batnáloddat	batnáloddat+?	inf
+
+bažekeahttái	bahčit+V+TV+VAbess+Err/Orth	0,000000
+
+bábirdit	bábirdit+Err/Lex+V+TV+Inf	0,000000
+bábirdit	bábirdit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+báddádit	báddádit+?	inf
+
+bádjálas	bádjálas+?	inf
+
+báđašit	báđašit+?	inf
+
+báđvái	báđvái+?	inf
+
+bággejahkes	bággejahkes+?	inf
+
+bággoluopmudit	bággoluopmudit+?	inf
+
+báhccadit	báhccadit+?	inf
+
+báhccáhit	báhccáhit+?	inf
+
+báhčagat	báhčagat+?	inf
+
+báhčimassii	báhčimassii+?	inf
+
+báhkasgierdil	báhkasgierdil+?	inf
+
+báhkkagierdil	báhkkagierdil+?	inf
+
+bahkkahávdda	bahkkahávdda+?	inf
+
+báhkkaválles	báhkkaválles+?	inf
+
+báhpukáffe	báhpu+N+Err/Orth+Cmp/SgNom+Cmp#káffe+N+Sg+Nom	0,000000
+
+báhtit	báhtit+?	inf
+
+báigalit	báigalit+?	inf
+
+báigasit	báigasit+?	inf
+
+báiggas	báiggas+?	inf
+
+báiggádit	báiggádit+?	inf
+
+báigguhit	báigguhit+?	inf
+
+báigit	báigit+?	inf
+
+báikegasvázzi	báiki+N+Cmp/SgNom+Cmp#gaska+N+Cmp/Sh+Err/Orth+Cmp#vázzit+V+IV+Der/NomAg+N+Sg+Acc	0,000000
+báikegasvázzi	báiki+N+Cmp/SgNom+Cmp#gaska+N+Cmp/Sh+Err/Orth+Cmp#vázzit+V+IV+Der/NomAg+N+Sg+Gen	0,000000
+báikegasvázzi	báiki+N+Cmp/SgNom+Cmp#gaska+N+Cmp/Sh+Err/Orth+Cmp#vázzit+V+IV+Der/NomAg+N+Sg+Nom	0,000000
+báikegasvázzi	báiki+N+Cmp/SgNom+Cmp#gaska+N+Cmp/Sh+Err/Orth+Cmp#vázzit+V+IV+PrsPrc	0,000000
+báikegasvázzi	báiki+N+Cmp/SgNom+Cmp#gaska+N+Cmp/Sh+Err/Orth+Cmp#vázzi+N+NomAg+Sg+Acc	0,000000
+báikegasvázzi	báiki+N+Cmp/SgNom+Cmp#gaska+N+Cmp/Sh+Err/Orth+Cmp#vázzi+N+NomAg+Sg+Gen	0,000000
+báikegasvázzi	báiki+N+Cmp/SgNom+Cmp#gaska+N+Cmp/Sh+Err/Orth+Cmp#vázzi+N+NomAg+Sg+Nom	0,000000
+
+báikkástallat	báikkástallat+?	inf
+
+báinnadas	báinnadas+?	inf
+
+báinniidit	báinniidit+?	inf
+
+báittanas	báittanas+?	inf
+
+bálččas	bálččas+?	inf
+
+bálččat	bálččat+?	inf
+
+bálddajohtti	bálda+N+Cmp/SgGen+Cmp#johtit+V+IV+Der/NomAg+N+Sg+Acc	0,000000
+bálddajohtti	bálda+N+Cmp/SgGen+Cmp#johtit+V+IV+Der/NomAg+N+Sg+Gen	0,000000
+bálddajohtti	bálda+N+Cmp/SgGen+Cmp#johtit+V+IV+Der/NomAg+N+Sg+Nom	0,000000
+bálddajohtti	bálda+N+Cmp/SgGen+Cmp#johtit+V+IV+PrsPrc	0,000000
+bálddajohtti	bálda+N+Cmp/SgGen+Cmp#johtti+N+NomAg+Sg+Acc	0,000000
+bálddajohtti	bálda+N+Cmp/SgGen+Cmp#johtti+N+NomAg+Sg+Gen	0,000000
+bálddajohtti	bálda+N+Cmp/SgGen+Cmp#johtti+N+NomAg+Sg+Nom	0,000000
+
+bálddestit	bálddestit+?	inf
+
+bálggadallat	bálggadallat+?	inf
+
+bálggár	bálggár+?	inf
+
+bálgosbeaivi	bálggus+N+Cmp/SgGen+Cmp#beaivi+N+Sg+Nom	0,000000
+
+bállalit	bállalit+?	inf
+
+bálo	bálo+?	inf
+
+bálonbuvssat	bálonbuvssat+?	inf
+
+bálsá	bálsá+?	inf
+
+bálta	bálta+?	inf
+
+bálvu	bálvu+?	inf
+
+bánehas	bánehas+?	inf
+
+bánnoláhppo	bánnoláhppo+?	inf
+
+bántidit	bántidit+?	inf
+
+báŋket	báŋket+?	inf
+
+bárddesmuorra	bárddesmuorra+?	inf
+
+báret	báret+?	inf
+
+bárggáhallat	bárggáhallat+Err/Lex+V+TV+Inf	0,000000
+
+bárraha	bárraha+?	inf
+
+bárššagit	bárššagit+?	inf
+
+bárvat	bárvat+?	inf
+
+bárvvanas	bárvvanas+?	inf
+
+básker	básker+?	inf
+
+básládje	básládje+?	inf
+
+básnaga	básnaga+?	inf
+
+bássi	bássi+?	inf
+
+báttoštallat	báttoštallat+?	inf
+
+bávtasit	bávtasit+?	inf
+
+bávttesisgeaidnu	bákti+N+Cmp/SgGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#geaidnu+N+Sg+Nom	0,000000
+
+bázadahkes	bázadahkes+?	inf
+
+bázáiduvvat	bázáiduvvat+?	inf
+
+báža	báža+?	inf
+
+bážanas	bážanas+?	inf
+
+bážekeahttái	báhčit+V+TV+VAbess+Err/Orth	0,000000
+
+beahcebohttu	beahci+N+Cmp/SgNom+Cmp#bohttu+N+Sg+Nom	0,000000
+
+beaidadahkes	beaidadahkes+?	inf
+
+beaidái	beaidái+?	inf
+
+beaisaluvvat	beaisaluvvat+?	inf
+
+beaittašit	beaittašit+?	inf
+
+beaittus	beaittus+?	inf
+
+beaitu	beaitu+?	inf
+
+beaiveviissaid	beaivi+N+Cmp/SgNom+Cmp#viisa+v1+N+Pl+Acc	0,000000
+beaiveviissaid	beaivi+N+Cmp/SgNom+Cmp#viisa+v1+N+Pl+Gen	0,000000
+
+beaivut	beaivut+?	inf
+
+beajihit	beajihit+?	inf
+
+beakkus	beakkus+?	inf
+
+bealatvuohta	bealátvuohta+N+Err/Orth-a-á+Sg+Nom	0,000000
+
+bealdovajálgeahtesrássi	bealdovajálgeahtesrássi+?	inf
+
+bealgguhit	bealgguhit+?	inf
+
+bealjeheapmi	beallji+N+Der/Car+A+Sg+Nom+Err/Orth	0,000000
+bealjeheapmi	bealjeheapme+A+Sg+Nom+Err/Orth	0,000000
+
+bealjehuddat	bealjehuddat+?	inf
+
+bealládit	bealládit+?	inf
+
+bealleallat	bealleallat+?	inf
+
+beallečieru	beallečieru+?	inf
+
+beallejitnosii	beallejitnosii+?	inf
+
+bealleskužilčiegahas	bealleskužilčiegahas+?	inf
+
+bealleviega	bealleviega+?	inf
+
+bealljádastit	bealljádastit+?	inf
+
+bealljeskaddarassii	bealljeskaddarassii+?	inf
+
+bealta	bealta+?	inf
+
+bearebeare	bearebeare+?	inf
+
+bearskalat	bearskalat+?	inf
+
+bearta	bearta+?	inf
+
+beasadahkes	beasadahkes+?	inf
+
+beaskkahas	beaskkahas+?	inf
+
+beassadallalas	beassadit+V+TV+Der/alla+V+Der/las+A+Attr	0,000000
+beassadallalas	beassadit+V+TV+Der/alla+V+Der/las+A+Sg+Nom	0,000000
+
+beassas	beassas+?	inf
+
+beassasaddat	beassasaddat+?	inf
+
+beassasit	beassasit+?	inf
+
+beassáiduvvat	beassáiduvvat+?	inf
+
+beassil	beassil+?	inf
+
+beastta	beastta+?	inf
+
+beasttagávpi	beasttagávpi+?	inf
+
+beaškkanas	beaškkanas+?	inf
+
+beavskut	beavskut+?	inf
+
+beavvaruššat	beavvaruššat+?	inf
+
+beazáiduvvat	beazáiduvvat+?	inf
+
+becce	becce+?	inf
+
+begonia	begonia+?	inf
+
+beistet	beistet+?	inf
+
+beivvehallat	beivvehallat+?	inf
+
+beivvodit	beivvodit+?	inf
+
+bensen	bensen+?	inf
+
+berjjo	berjjo+?	inf
+
+berráhit	berráhit+?	inf
+
+beságovko	beságovko+?	inf
+
+bevkkon	bevkkon+?	inf
+
+bevkolas	bevkolas+?	inf
+
+bevnnostaga	bevnnostaga+?	inf
+
+bevrrohallat	bevrrohallat+?	inf
+
+bevskolas	bevskolas+?	inf
+
+biblioteahkka	biblioteahkka+?	inf
+
+bibmuivuohta	bibmuivuohta+?	inf
+
+biccardahttit	biccardahttit+?	inf
+
+biddet	biddet+?	inf
+
+bieđaidit	bieđaidit+?	inf
+
+bieđggistit	bieđggistit+?	inf
+
+bieggaluddat	bieggaluddat+?	inf
+
+bieggaoaivvat	bieggaoaivvat+?	inf
+
+biehtárvahkku	biehtárvahkku+?	inf
+
+biekkamus	biekkamus+?	inf
+
+bierbidit	bierbidit+?	inf
+
+biertaluddat	biertaluddat+?	inf
+
+biertaluhkes	biertaluhkes+?	inf
+
+bierttuhit	bierttuhit+?	inf
+
+bierzi	bierzi+?	inf
+
+bierzut	bierzut+?	inf
+
+bierzzas	bierzzas+?	inf
+
+biestalahkes	biestalahkes+?	inf
+
+bigeolju	bigeolju+?	inf
+
+bigeret	bigeret+?	inf
+
+bigon	bigon+?	inf
+
+bihtta	bihttá+N+Err/Orth-a-á+Sg+Nom	0,000000
+
+biipagárremas	biipagárremas+?	inf
+
+biippanas	biippanas+?	inf
+
+bijakeahttái	bidjat+V+TV+VAbess+Err/Orth	0,000000
+
+bikkoruopma	bikkoruopma+?	inf
+
+biktu	biktu+?	inf
+
+bilbbahit	bilbbahit+?	inf
+
+bilccas	bilccas+?	inf
+
+bilci	bilci+?	inf
+
+bilkošit	bilkošit+?	inf
+
+billanit	billanit+?	inf
+
+billašuhkes	billašuhkes+?	inf
+
+billástallat	billástallat+?	inf
+
+billohuvvat	billu+N+Cmp/SgGen+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+billohuvvat	billu+N+Cmp/SgNom+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+
+bincalat	bincalat+?	inf
+
+binna	binná+N+Err/Orth-a-á+Sg+Acc	0,000000
+binna	binná+N+Err/Orth-a-á+Sg+Gen	0,000000
+binna	binná+N+Err/Orth-a-á+Sg+Nom	0,000000
+
+binnahaš	binnahaš+?	inf
+
+binnimustá	binnimustá+?	inf
+
+biŋgu	biŋgu+?	inf
+
+biotohppa	biotohppa+?	inf
+
+birahallat	birahallat+?	inf
+
+birgemassii	birgemassii+?	inf
+
+birggetbeaivi	birggetbeaivi+?	inf
+
+birggetvahkku	birggetvahkku+?	inf
+
+birggostallat	birggostallat+Err/Lex+V+TV+Inf	0,000000
+
+birggostit	birggostit+?	inf
+
+birolágan	biro+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+birolágan	biro+N+Cmp/SgNom+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+birolágan	biro+N+Der/laakan+A+v1+Attr	0,000000
+birolágan	biro+N+Der/laakan+A+v1+Sg+Acc+Err/Orth-nom-acc	0,000000
+birolágan	biro+N+Der/laakan+A+v1+Sg+Gen+Err/Orth-nom-gen	0,000000
+birolágan	biro+N+Der/laakan+A+v1+Sg+Nom	0,000000
+
+biroláhkai	biro ládje+v2+Err/MissingSpace+Adv	0,000000
+
+birpi	birpi+?	inf
+
+birračeahpálaga	birračeahpálaga+?	inf
+
+birrajorbalas	birrajorbalas+?	inf
+
+birravuojáhat	birravuojáhat+?	inf
+
+birskalat	birskalat+?	inf
+
+birššuhit	birššuhit+?	inf
+
+birtaluvvat	birtaluvvat+?	inf
+
+bisiidit	bisiidit+?	inf
+
+bissestit	bissestit+?	inf
+
+bissokeahtes	bissu+N+Err/DerSub+Der/geahtes+A+Attr	0,000000
+
+bistovla	bistovla+?	inf
+
+bisuheapme	bisuheapme+?	inf
+
+biššan	biššan+?	inf
+
+bitnjat	bitnjat+?	inf
+
+bivastuhkes	bivastuhkes+?	inf
+
+bivuhuvvat	bivvu+N+Cmp/SgGen+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+
+bjárbma	bjárbma+?	inf
+
+blohkkaflöita	blohkkaflöita+?	inf
+
+blokáda	blokáda+?	inf
+
+blonda	blonda+?	inf
+
+boagustahkes	boagustahkes+?	inf
+
+boaimmustit	boaimmustit+?	inf
+
+boaittohagas	boaittohagas+?	inf
+
+boaittohahkii	boaittohahkii+?	inf
+
+boaitu	boaitu+?	inf
+
+boalbáladdat	boalbáladdat+?	inf
+
+boalbiluddat	boalbiluddat+?	inf
+
+boalča	boalča+?	inf
+
+boalčánit	boalčánit+?	inf
+
+boalččagit	boalččagit+?	inf
+
+boalččildit	boalččildit+?	inf
+
+boalčeoaivvat	boalčeoaivvat+?	inf
+
+boaldda	boaldda+?	inf
+
+boanddár	boanddár+?	inf
+
+boarajiekŋa	boara+N+Cmp/SgNom+Cmp#jiekŋa+N+Sg+Nom	0,000000
+
+boarkkašit	boarkkašit+?	inf
+
+boasastit	boasastit+?	inf
+
+boasttoáigge	boastto+A+Cmp/Attr+Cmp#áigi+N+Sg+Gen+Allegro	0,000000
+
+boatkasuvvat	boatkasuvvat+?	inf
+
+boatkkáldat	boatkkáldat+?	inf
+
+boatkkálduvvat	boatkkálduvvat+?	inf
+
+bocce	bocce+?	inf
+
+bodnjájahkes	bodnjájahkes+?	inf
+
+bođđenláhkai	bođđenláhkai+?	inf
+
+bođuhiid	bođuhiid+?	inf
+
+bogádat	bogádat+?	inf
+
+bohccojeaddjái	bohccojeaddjái+?	inf
+
+bohkkut	bohkat+V+TV+Imprt+Pl1+Err/Orth	0,000000
+bohkkut	bohkit+V+TV+Imprt+Pl1+Err/Orth	0,000000
+bohkkut	bohkkut+Err/Lex+V+TV+Inf	0,000000
+bohkkut	bohkkut+Err/Lex+V+TV+Der/NomAg+N+Pl+Nom	0,000000
+
+bohristit	bohristit+?	inf
+
+bohtaras	bohtaras+?	inf
+
+boisbotneheapme	boisbotniheapme+A+Err/Orth+Sg+Nom	0,000000
+
+boittohagas	boittohagas+?	inf
+
+boittohahkii	boittohahkii+?	inf
+
+bokkagit	bokkagit+?	inf
+
+boksár	boksár+?	inf
+
+bokser	bokser+?	inf
+
+bola	bola+?	inf
+
+bolkolas	bolkolas+?	inf
+
+bollalit	bollalit+?	inf
+
+bolset	bolset+?	inf
+
+boltohit	boltohit+?	inf
+
+bolttohat	bolttohat+?	inf
+
+bonjadahkes	bonjadahkes+?	inf
+
+bonjuhit	bonjuhit+?	inf
+
+bonset	bonset+Err/Lex+V+TV+Der/d+V+Ind+Prs+ConNeg	0,000000
+bonset	bonset+Err/Lex+V+TV+Der/h+V+Ind+Prs+ConNeg	0,000000
+bonset	bonset+Err/Lex+V+TV+Inf	0,000000
+
+borabahá	borabahá+?	inf
+
+boradahkes	boradahkes+?	inf
+
+borahuvvat	bora+N+Cmp/SgGen+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+borahuvvat	bora+N+Cmp/SgNom+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+borahuvvat	borra+N+Cmp/SgGen+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+
+borddáldat	borddáldat+?	inf
+
+borgehallat	borgi+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Pl+Nom	0,000000
+borgehallat	borgi+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Acc+PxSg2	0,000000
+borgehallat	borgi+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Gen+PxSg2	0,000000
+borgehallat	borgi+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Nom+PxSg2	0,000000
+
+borggaslágan	borggas+A+Cmp/SgNom+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+boril	boril+?	inf
+
+borjjadat	borjjadat+?	inf
+
+borjjasdoajáhalli	borjjas+N+Cmp/SgNom+Cmp#doadjit+V+TV+Der/h+V+Der/alla+V+Der/NomAg+N+Sg+Acc	0,000000
+borjjasdoajáhalli	borjjas+N+Cmp/SgNom+Cmp#doadjit+V+TV+Der/h+V+Der/alla+V+Der/NomAg+N+Sg+Gen	0,000000
+borjjasdoajáhalli	borjjas+N+Cmp/SgNom+Cmp#doadjit+V+TV+Der/h+V+Der/alla+V+Der/NomAg+N+Sg+Nom	0,000000
+borjjasdoajáhalli	borjjas+N+Cmp/SgNom+Cmp#doadjit+V+TV+Der/h+V+Der/alla+V+PrsPrc	0,000000
+borjjasdoajáhalli	borjjas+N+Cmp/SgNom+Cmp#doadjit+V+TV+Der/halla+V+PrsPrc	0,000000
+borjjasdoajáhalli	borjjas+N+Cmp/SgNom+Cmp#doajihit+V+TV+Der/alla+V+Der/NomAg+N+Sg+Acc	0,000000
+borjjasdoajáhalli	borjjas+N+Cmp/SgNom+Cmp#doajihit+V+TV+Der/alla+V+Der/NomAg+N+Sg+Gen	0,000000
+borjjasdoajáhalli	borjjas+N+Cmp/SgNom+Cmp#doajihit+V+TV+Der/alla+V+Der/NomAg+N+Sg+Nom	0,000000
+borjjasdoajáhalli	borjjas+N+Cmp/SgNom+Cmp#doajihit+V+TV+Der/alla+V+PrsPrc	0,000000
+
+borjjasluovddástallat	borjjasluovddástallat+?	inf
+
+boršáhit	boršáhit+?	inf
+
+borta	borta+Interj+Err/Lex	0,000000
+
+boskkáiduvvat	boskkáiduvvat+?	inf
+
+bosmmagit	bosmmagit+?	inf
+
+bosset	bosset+?	inf
+
+botanihkkár	botanihkkár+?	inf
+
+botki	botki+?	inf
+
+botkit	botkit+?	inf
+
+botkkahit	botkkahit+?	inf
+
+botnjasuddi	botnjasuddi+?	inf
+
+botnjašuvvat	botnjašuvvat+?	inf
+
+botnjádit	botnjádit+?	inf
+
+botnješguovttos	botnješ guovttos+Err/MissingSpace+N+Coll+Sg+Loc	0,000000
+botnješguovttos	botnješ guovttos+Err/MissingSpace+N+Coll+Sg+Nom	0,000000
+
+bovlet	bovlet+?	inf
+
+bovskalit	bovskalit+?	inf
+
+boziidit	boziidit+?	inf
+
+bozolaš	bozolaš+?	inf
+
+božašit	božašit+?	inf
+
+brihtta	brihtta+?	inf
+
+broma	broma+?	inf
+
+bronkihtta	bronkihtta+?	inf
+
+brutaliteahtta	brutaliteahtta+?	inf
+
+brutála	brutála+?	inf
+
+buccardit	buccardit+?	inf
+
+buccehit	buccehit+?	inf
+
+bufeahtta	bufeahtta+?	inf
+
+buffel	buffel+?	inf
+
+bugon	bugon+?	inf
+
+bugonastit	bugonastit+?	inf
+
+buhcor	buhcor+?	inf
+
+buhčor	buhčor+?	inf
+
+buiddon	buiddon+?	inf
+
+buidet	buidet+?	inf
+
+buikalit	buikalit+?	inf
+
+buikárastit	buikárastit+?	inf
+
+buittahit	buittahit+?	inf
+
+bukkagit	bukkagit+?	inf
+
+bukkil	bukkil+?	inf
+
+bukkuhit	bukkuhit+?	inf
+
+buktagahttit	buktagahttit+?	inf
+
+bulbeahtta	bulbeahtta+?	inf
+
+bulččuhit	bulččuhit+?	inf
+
+bulka	bulka+?	inf
+
+bulkkagit	bulkkagit+?	inf
+
+bulkkas	bulkkas+?	inf
+
+bullagit	bullagit+?	inf
+
+bulljar	bulljar+?	inf
+
+bulssagit	bulssagit+?	inf
+
+bulši	bulši+?	inf
+
+bulššas	bulššas+?	inf
+
+bumbáras	bumbáras+?	inf
+
+bumbulit	bumbulit+?	inf
+
+bumbut	bumbut+?	inf
+
+bumeránska	bumeránska+?	inf
+
+bumpašuvvat	pumpa+v2+N+Cmp/SgNom+Cmp#šuvva+N+Sg+Nom+PxSg2	0,000000
+
+buná	buná+?	inf
+
+buncaruššat	buncaruššat+?	inf
+
+buncuhit	buncuhit+?	inf
+
+bunjanas	bunjanas+?	inf
+
+bunset	bunset+Err/Lex+V+TV+Der/d+V+Ind+Prs+ConNeg	0,000000
+bunset	bunset+Err/Lex+V+TV+Der/h+V+Ind+Prs+ConNeg	0,000000
+bunset	bunset+Err/Lex+V+TV+Inf	0,000000
+
+buoccehit	buoccehit+?	inf
+
+buoguluvvat	buoguluvvat+?	inf
+
+buohcujahki	buohcu+N+Err/Orth+Cmp/SgNom+Cmp#jahki+N+Sg+Nom	0,000000
+
+buohcuvuohtajávkan	buohcuvuođajávkan+Err/Orth-nom-gen+N+Sg+Gen+Allegro	0,000000
+buohcuvuohtajávkan	buohcuvuođajávkan+Err/Orth-nom-gen+N+Sg+Nom	0,000000
+
+buoideluš	buoideluš+?	inf
+
+buoideseal	buoideseal+?	inf
+
+buoiggus	buoiggus+?	inf
+
+buokŋi	buokŋi+?	inf
+
+buokŋudit	buokŋudit+?	inf
+
+buoliheapme	buoleheapme+A+Err/Orth+Sg+Nom	0,000000
+
+buolihuvvat	buoleheapme+A+Err/Orth+Der/huvva+V+IV+Inf	0,000000
+
+buollinjuman	buollit+V+IV+Der/NomAct+N+Cmp/SgNom+Cmp#jupma+N+Sg+Loc+South+Err/Orth	0,000000
+buollinjuman	buollin+N+Cmp/SgNom+Cmp#jupma+N+Sg+Loc+South+Err/Orth	0,000000
+buollinjuman	buollinjupma+N+Sg+Loc+South+Err/Orth	0,000000
+
+buollinstašudvna	buollinstašudvna+?	inf
+
+buorebuččat	buorre+A+Der/Comp+A+Der/Dimin+A+Der/AAdv+Adv	0,000000
+buorebuččat	buorre+A+Der/Comp+A+Der/Dimin+A+Pl+Nom	0,000000
+buorebuččat	buorre+A+Der/Comp+A+Der/Dimin+A+Sg+Acc+PxSg2	0,000000
+buorebuččat	buorre+A+Der/Comp+A+Der/Dimin+A+Sg+Gen+PxSg2	0,000000
+
+buorebuš	buorre+A+Der/Comp+A+Der/Dimin+A+Attr	0,000000
+buorebuš	buorre+A+Der/Comp+A+Der/Dimin+A+Sg+Nom	0,000000
+
+buorggár	buorggár+?	inf
+
+buoriheapme	buoriheapme+?	inf
+
+buorrelunddolaš	buorrelunddolaš+?	inf
+
+buorttos	buorttos+?	inf
+
+buortu	buortu+?	inf
+
+buošáhit	buošáhit+?	inf
+
+buošátvuohta	buošátvuohta+?	inf
+
+buotnjasit	buotnjasit+?	inf
+
+buotvuohta	buotvuohta+?	inf
+
+burestit	burestit+?	inf
+
+burggan	burggan+?	inf
+
+burli	burli+?	inf
+
+burobáhti	burobáhti+?	inf
+
+burohallat	burohallat+Err/Lex+V+TV+Inf	0,000000
+
+burši	burši+?	inf
+
+burta	burta+?	inf
+
+burtu	burtu+?	inf
+
+buvgadit	buvgadit+Err/Lex+V+TV+Inf	0,000000
+buvgadit	buvgadit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+buvnnjiidit	buvnnjiidit+?	inf
+
+buvvi	buvvi+?	inf
+
+byrokráhtta	byrokráhtta+?	inf
+
+byroktáhtalaš	byroktáhtalaš+?	inf
+
+börsa	börsa+?	inf
+
+caggahit	caggahit+?	inf
+
+caggasupmi	caggasupmi+?	inf
+
+cajašit	cajašit+Err/Lex+V+TV+Inf	0,000000
+cajašit	cajašit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+cakkil	cakkil+?	inf
+
+cavggástat	cavggástat+?	inf
+
+cavkkuhit	cavkkuhit+?	inf
+
+cavvásit	cavvásit+?	inf
+
+cavvilaš	cavvilaš+?	inf
+
+cábmašuvvat	cábmašuvvat+?	inf
+
+cáncat	cáncat+?	inf
+
+cánccadit	cánccadit+?	inf
+
+cánccastit	cánccastit+?	inf
+
+cázastat	cázastat+?	inf
+
+ceakkihit	ceakkihit+?	inf
+
+ceavádat	ceavádat+?	inf
+
+ceavválahttit	ceavválahttit+?	inf
+
+ceavválat	ceavválat+?	inf
+
+ceazzi	ceazzi+?	inf
+
+cibá	cibá+?	inf
+
+ciegas	ciegas+?	inf
+
+ciehkudit	ciehkudit+?	inf
+
+ciekkihit	ciekkihit+?	inf
+
+cielaldit	cielaldit+?	inf
+
+cieládallat	cieládallat+?	inf
+
+cielkit	cielkit+?	inf
+
+ciellát	ciellát+?	inf
+
+cihcecižáš	cihcecižáš+?	inf
+
+cikkilmas	cikkilmas+?	inf
+
+cikkin	cikkin+?	inf
+
+cilo	cilo+Interj+Err/Lex	0,000000
+
+cilohallat	cilohallat+?	inf
+
+ciluhit	ciluhit+?	inf
+
+cinnuhit	cinnuhit+Err/Lex+V+TV+Inf	0,000000
+cinnuhit	cinnuhit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+cirgehat	cirgehat+?	inf
+
+cirgestat	cirgestat+?	inf
+
+cirvi	cirvi+?	inf
+
+cirvvas	cirvvas+?	inf
+
+ciskadit	ciskadit+?	inf
+
+cissadahkes	cissadahkes+?	inf
+
+civcca	civcca+?	inf
+
+civnniidallat	civnniidallat+?	inf
+
+civzziidallat	civzziidallat+?	inf
+
+coabmut	coabmut+?	inf
+
+coagehit	coagehit+?	inf
+
+coagimus	coagimus+?	inf
+
+coavccidit	coavccidit+?	inf
+
+cokkaldit	cokkaldit+?	inf
+
+colkat	colkat+?	inf
+
+colkkistit	colkkistit+?	inf
+
+colpi	colpi+?	inf
+
+colppas	colppas+?	inf
+
+covccohat	covccohat+?	inf
+
+cuhlla	cuhlla+?	inf
+
+cuippagit	cuippagit+?	inf
+
+cuippuhit	cuippuhit+?	inf
+
+cullat	cullat+?	inf
+
+cuŋkut	cuŋkut+?	inf
+
+cuobba	cuobba+?	inf
+
+cuobbut	cuobbut+?	inf
+
+cuohpahuvvat	cuohppa+N+Cmp/SgGen+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+
+cuohpaiduvvat	cuohpaiduvvat+?	inf
+
+cuozzái	cuozzái+?	inf
+
+curpmohallat	curpmohallat+?	inf
+
+curregat	curregat+?	inf
+
+cuzan	cuzan+?	inf
+
+cuzašit	cuzašit+?	inf
+
+cuzidit	cuzidit+?	inf
+
+cuzzet	cuzzet+?	inf
+
+čabardit	čabardit+Err/Lex+V+TV+Inf	0,000000
+čabardit	čabardit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+čabočielggas	čabočielggas+?	inf
+
+čađaoainnekeahtes	čađaoainnekeahtes+?	inf
+
+čađavuojáhat	čađđa+N+Cmp/SgGen+Cmp#vuojáhat+N+Sg+Nom	0,000000
+
+čađđanaga	čađđanaga+?	inf
+
+čađđái	čađđái+?	inf
+
+čaffastallat	čaffastallat+?	inf
+
+čagalduhkes	čagalduhkes+?	inf
+
+čagga	čagga+?	inf
+
+čaggadit	čaggadit+?	inf
+
+čaggánit	čaggánit+?	inf
+
+čaggát	čaggát+?	inf
+
+čaggi	čaggi+?	inf
+
+čahkiborga	čahki+N+Err/Orth+Cmp/SgNom+Cmp#borga+N+Sg+Nom	0,000000
+
+čahppagasas	čahppagasas+?	inf
+
+čahppagassii	čahppagassii+?	inf
+
+čahppasii	čahppasii+?	inf
+
+čahppasis	čahppasis+?	inf
+
+čahppat	čahppat+?	inf
+
+čahristit	čahristit+?	inf
+
+čakčafivli	čakčafivli+?	inf
+
+čakčaloaŋka	čakčaloaŋka+?	inf
+
+čakkagit	čakkagit+?	inf
+
+čakkas	čakkas+?	inf
+
+čakkil	čakkil+?	inf
+
+čalbmálagaid	čalbmálagaid+?	inf
+
+čalmmádat	čalmmádat+?	inf
+
+čalmmehisstálostallat	čalmmehisstálostallat+?	inf
+
+čalmmon	čalmmon+?	inf
+
+čalmmustuvvat	čalmmustuvvat+?	inf
+
+čaltát	čaltát+?	inf
+
+čaltet	čaltet+?	inf
+
+čalti	čalti+?	inf
+
+čalttas	čalttas+?	inf
+
+časkádit	časkádit+?	inf
+
+časkkašahkes	časkkašahkes+?	inf
+
+časkkár	časkkár+?	inf
+
+čatnavaš	čatnavaš+?	inf
+
+čavččalágan	čakča+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+čadjidahtti	čadjidahtti+?	inf
+
+čádjádahtti	čádjádahtti+?	inf
+
+čádjádahttin	čádjádahttin+?	inf
+
+čágŋil	čágŋil+?	inf
+
+čáhcálastit	čáhcálastit+?	inf
+
+čáhcebássár	čáhcepássár+N+Err/Lex+Sg+Nom	0,000000
+
+čáhcegáholmmoš	čáhcegaholmmoš+N+Err/Orth-a-á+Sg+Nom	0,000000
+čáhcegáholmmoš	čáhcegáddi+N+Err/Orth-a-á+Cmp/Sh+Cmp#olmmoš+N+Sg+Nom	0,000000
+
+čáhcelabi	čáhcelabi+?	inf
+
+čáhkál	čáhkál+?	inf
+
+čáhpahit	čáhpahit+?	inf
+
+čáhpašit	čáhpašit+?	inf
+
+čáhppe	čáhppe+?	inf
+
+čáhppesfivli	čáhppesfivli+?	inf
+
+čáhpput	cáhpat+Err/Orth+V+TV+Imprt+Pl1+Err/Orth	0,000000
+
+čáhpuhit	čáhpuhit+?	inf
+
+čáján	čáján+?	inf
+
+čáláldat	čáláldat+?	inf
+
+čálástat	čálástat+?	inf
+
+čállat	čállat+?	inf
+
+čállimassii	čállimassii+?	inf
+
+čámsut	čámsut+?	inf
+
+čáŋadahkes	čáŋadahkes+?	inf
+
+čárádas	čárádas+?	inf
+
+čárádit	čárádit+?	inf
+
+čáráhuddat	čáráhuddat+?	inf
+
+čáriidit	čáriidit+?	inf
+
+čárvvasčalmmiid	čárvvasčalmmiid+?	inf
+
+čávddon	čávddon+?	inf
+
+čávdulit	čávdulit+?	inf
+
+čávdut	čávdut+?	inf
+
+čávvohit	čávvohit+?	inf
+
+čeagŋádallat	čeagŋádallat+?	inf
+
+čeahkárit	čeahkárit+?	inf
+
+čeahki	čeahki+?	inf
+
+čeahpášit	čeahpášit+?	inf
+
+čeakta	čeakta+?	inf
+
+čealdi	čealdi+?	inf
+
+čeargadit	čeargadit+?	inf
+
+čearggádallat	čearggádallat+?	inf
+
+čearssagit	čearssagit+?	inf
+
+čearsut	čearsut+?	inf
+
+čearsut	čearsut+?	inf
+
+čeaskkildit	čeaskkildit+?	inf
+
+čeavžasaddat	čeavžasaddat+?	inf
+
+čebá	čebá+?	inf
+
+čehpor	čehpor+?	inf
+
+čehportráhppe	čehportráhppe+N+Err/Lex+Sg+Nom	0,000000
+
+čehttárat	čehttárat+?	inf
+
+čerbmen	čerbmen+?	inf
+
+česke	česke+?	inf
+
+českko	českko+?	inf
+
+českkoldahttit	českkoldahttit+?	inf
+
+čevlodat	čeavlut+V+IV+Der/PassS+V+IV+Der/d+V+Ind+Prs+Pl1	0,000000
+čevlodat	čeavlut+V+IV+Der/PassS+V+IV+Der/d+V+Ind+Prs+Sg2	0,000000
+
+čezešguovttos	čezeš guovttos+Err/MissingSpace+N+Coll+Sg+Loc	0,000000
+čezešguovttos	čezeš guovttos+Err/MissingSpace+N+Coll+Sg+Nom	0,000000
+
+čiđáldahttit	čiđáldahttit+?	inf
+
+čiegaraddjái	čiegaraddjái+?	inf
+
+čiehkagassii	čiehkagassii+?	inf
+
+čiehppagassii	čiehppagassii+?	inf
+
+čiekčil	čiekčil+?	inf
+
+čielggasnaga	čielggasnaga+?	inf
+
+čielggádahttit	čielggádahttit+?	inf
+
+čiergat	čiergat+?	inf
+
+čiergga	čiergga+?	inf
+
+čierrámus	čierrámus+?	inf
+
+čievččadahkes	čievččadahkes+?	inf
+
+čiežadas	čiežadas+?	inf
+
+čiežaoađđibeaivi	čiehča+N+Cmp/SgGen+Cmp#oađđit+V+IV+Der/NomAg+N+Cmp/SgGen+Cmp#beaivi+N+Sg+Nom	0,000000
+čiežaoađđibeaivi	čiehča+N+Cmp/SgGen+Cmp#oađđit+V+IV+Der/NomAg+N+Cmp/SgNom+Cmp#beaivi+N+Sg+Nom	0,000000
+čiežaoađđibeaivi	čiehča+N+Cmp/SgGen+Cmp#oađđi+N+NomAg+Cmp/SgGen+Cmp#beaivi+N+Sg+Nom	0,000000
+čiežaoađđibeaivi	čiehča+N+Cmp/SgGen+Cmp#oađđi+N+NomAg+Cmp/SgNom+Cmp#beaivi+N+Sg+Nom	0,000000
+
+čihččetlohjahkásaš	čihččetlohjahkásaš+?	inf
+
+čikŋalit	čikŋalit+Err/Lex+V+TV+Inf	0,000000
+čikŋalit	čikŋalit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+čiktimassii	čiktimassii+?	inf
+
+čillagit	čillagit+?	inf
+
+čillahit	čillahit+?	inf
+
+čillánit	čillánit+?	inf
+
+čilsi	čilsi+?	inf
+
+čilssagit	čilssagit+?	inf
+
+čilvudit	čilvudit+?	inf
+
+činit	činit+?	inf
+
+čipperájes	čippe rájes+Err/MissingSpace+Adv	0,000000
+
+čitnudit	čitnudit+?	inf
+
+čivččor	čivččor+?	inf
+
+čivgadit	čivgadit+?	inf
+
+čivrru	čivrru+?	inf
+
+čivrrustuvvat	čivrrustuvvat+?	inf
+
+čivttáhat	čivttáhat+?	inf
+
+čoahkisvuohta	čoahkisvuohta+?	inf
+
+čoahkkelii	čoahkkelii+?	inf
+
+čoahkkelis	čoahkkelis+?	inf
+
+čoahkkit	čoahkkit+?	inf
+
+čoahrrat	čoahrrat+?	inf
+
+čoakčut	coakcut+Err/Orth+V+TV+Inf	0,000000
+čoakčut	coakcut+Err/Orth+V+TV+Der/NomAg+N+Pl+Nom	0,000000
+
+čoakkan	čoakkan+?	inf
+
+čoalbmut	čoalbmut+?	inf
+
+čoalčut	čoalčut+?	inf
+
+čoalmmagit	čoalmmagit+?	inf
+
+čoalta	čoalta+?	inf
+
+čoalttagit	čoalttagit+?	inf
+
+čoaŋki	čoaŋki+?	inf
+
+čoarda	čoarda+?	inf
+
+čoarvehbeal	čoarvehbeal+?	inf
+
+čoarvehbealli	čoarvetbealli+N+Err/Orth+Sg+Nom	0,000000
+
+čoarvvat	čoarvvat+?	inf
+
+čoaskkedit	čoaskkedit+?	inf
+
+čoaskkehit	čoaskkehit+?	inf
+
+čoassa	čoassa+?	inf
+
+čoassat	čoassat+?	inf
+
+čoavččat	čoavččat+?	inf
+
+čoavččot	čoavččot+?	inf
+
+čoavddehahtti	čoavddehahtti+?	inf
+
+čoavjjesishálli	čoavji+N+Cmp/SgGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#hállat+V+TV+Der/NomAg+N+Sg+Acc	0,000000
+čoavjjesishálli	čoavji+N+Cmp/SgGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#hállat+V+TV+Der/NomAg+N+Sg+Gen	0,000000
+čoavjjesishálli	čoavji+N+Cmp/SgGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#hállat+V+TV+Der/NomAg+N+Sg+Nom	0,000000
+čoavjjesishálli	čoavji+N+Cmp/SgGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#hállat+V+TV+PrsPrc	0,000000
+čoavjjesishálli	čoavji+N+Cmp/SgGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#hálli+N+NomAg+Sg+Acc	0,000000
+čoavjjesishálli	čoavji+N+Cmp/SgGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#hálli+N+NomAg+Sg+Gen	0,000000
+čoavjjesishálli	čoavji+N+Cmp/SgGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#hálli+N+NomAg+Sg+Nom	0,000000
+
+čobmasaddat	čobmasaddat+?	inf
+
+čobmasit	čobmasit+?	inf
+
+čođa	čođa+?	inf
+
+čogil	čogil+?	inf
+
+čohkiiduvvat	čohkiiduvvat+?	inf
+
+čohkkesnjuovvi	čoahkkat+A+Cmp/Attr+Cmp#njuovvat+V+TV+Der/NomAg+N+Sg+Acc	0,000000
+čohkkesnjuovvi	čoahkkat+A+Cmp/Attr+Cmp#njuovvat+V+TV+Der/NomAg+N+Sg+Gen	0,000000
+čohkkesnjuovvi	čoahkkat+A+Cmp/Attr+Cmp#njuovvat+V+TV+Der/NomAg+N+Sg+Nom	0,000000
+čohkkesnjuovvi	čoahkkat+A+Cmp/Attr+Cmp#njuovvat+V+TV+PrsPrc	0,000000
+čohkkesnjuovvi	čoahkkat+A+Cmp/Attr+Cmp#njuovvi+N+NomAg+Sg+Acc	0,000000
+čohkkesnjuovvi	čoahkkat+A+Cmp/Attr+Cmp#njuovvi+N+NomAg+Sg+Gen	0,000000
+čohkkesnjuovvi	čoahkkat+A+Cmp/Attr+Cmp#njuovvi+N+NomAg+Sg+Nom	0,000000
+
+čohli	čohli+?	inf
+
+čompa	čompa+?	inf
+
+čompanit	čompanit+?	inf
+
+čomppuhit	čomppuhit+?	inf
+
+čopmalassii	čopma+N+Cmp/SgNom+Cmp#lassa+N+Sg+Ill	0,000000
+
+čopmidit	čopmidit+?	inf
+
+čordnadit	čordnadit+?	inf
+
+čordnagasas	čordnagasas+?	inf
+
+čordnagassii	čordnagassii+?	inf
+
+čordnat	čordnat+?	inf
+
+čordnát	čordnát+?	inf
+
+čordnet	čordnet+?	inf
+
+čorggabut	čorggabut+?	inf
+
+čorostahttit	čorostahttit+Err/Lex+V+TV+Inf	0,000000
+čorostahttit	čorostahttit+Err/Lex+V+TV+Der/NomAg+N+Pl+Nom	0,000000
+
+čososmit	čososmit+?	inf
+
+čovllihit	čovllihit+?	inf
+
+čubbet	čubbet+?	inf
+
+čufidit	čufidit+?	inf
+
+čuhččut	čuhččut+?	inf
+
+čuimmon	čuimmon+?	inf
+
+čujuhuvvat	čujuhuvvat+?	inf
+
+čuntet	čuntet+?	inf
+
+čuobbut	čuobbut+?	inf
+
+čuodjalvuohta	čuodjalvuohta+?	inf
+
+čuođbaluvvat	čuođbaluvvat+?	inf
+
+čuođemađe	čuohti+N+Cmp/SgGen+Err/Orth+Cmp#mađđi+N+Sg+Gen+Allegro	0,000000
+
+čuođenáre	čuohti+N+Cmp/SgGen+Err/Orth+Cmp#nárri+N+Sg+Gen+Allegro	0,000000
+
+čuohkiluvvat	čuohkiluvvat+?	inf
+
+čuojaheapme	čuojaheapmi+N+Sg+Nom+Err/Orth	0,000000
+
+čuojalmas	čuojalmas+?	inf
+
+čuojustus	čuojustus+?	inf
+
+čuokkastit	čuokkastit+?	inf
+
+čuolddačora	čuolda+N+Cmp/SgGen+Cmp#čora+N+Sg+Nom	0,000000
+
+čuolddáhat	čuolddáhat+?	inf
+
+čuolihit	čuolihit+?	inf
+
+čuomasnaga	čuomasnaga+?	inf
+
+čuonamastit	čuotna+N+Cmp/SgGen+Cmp#mastat+V+IV+Der/NomAg+N+Pl+Nom	0,000000
+
+čuopmasit	čuopmasit+?	inf
+
+čuopmárasmuohta	čuopmárasmuohta+?	inf
+
+čuorggáhallat	čuorggáhallat+?	inf
+
+čuorrat	čuorrat+?	inf
+
+čuorri	čuorri+A+Attr+Err/Lex	0,000000
+
+čuorvva	čuorvva+?	inf
+
+čuorvvanas	čuorvvanas+?	inf
+
+čuovgakopieret	čuovgakopieret+?	inf
+
+čuovganeapmai	čuovganeapmi+N+Sg+Ill+Err/Orth-a-á	0,000000
+
+čuovgganas	čuovgganas+?	inf
+
+čuovggasmuvvat	čuovggasmuvvat+?	inf
+
+čuovggašit	čuovggašit+?	inf
+
+čuovuheapme	čuovuheapme+?	inf
+
+čuožžálahttit	čuožžálahttit+?	inf
+
+čuppodit	čuppodit+?	inf
+
+čurtalit	čurtalit+?	inf
+
+čurttástallat	čurttástallat+?	inf
+
+čuvččuhit	čuvččuhit+?	inf
+
+čuvdda	čuvdda+?	inf
+
+čuvodahkes	čuvodahkes+?	inf
+
+čuvvolaš	čuvvolaš+?	inf
+
+dadnái	dadnái+?	inf
+
+daggir	daggir+?	inf
+
+dahkkanit	dahkkanit+?	inf
+
+dahppasis	dahppasis+?	inf
+
+daiddánaga	daiddánaga+?	inf
+
+dakšat	dakšat+?	inf
+
+dalámano	dalá+A+Cmp/Attr+Cmp#mannu+N+Sg+Gen+Allegro+Err/Orth	0,000000
+
+dalkat	dalkat+?	inf
+
+dalkkas	dalkkas+?	inf
+
+dallearka	tallearka+N+Err/Orth+Sg+Nom	0,000000
+
+dalluid	dalluid+?	inf
+
+dalvadit	dalvadit+?	inf
+
+danheakka	danheakka+Interj+Err/Lex	0,000000
+
+danlaga	danlaga+?	inf
+
+dappánaga	dappánaga+?	inf
+
+darffal	darffal+?	inf
+
+darras	darras+?	inf
+
+darvváhus	darvváhus+?	inf
+
+daškkiidit	daškkiidit+?	inf
+
+databáŋku	dáhta+N+Err/Orth+Cmp/SgGen+Cmp#báŋku+N+Sg+Nom	0,000000
+databáŋku	dáhta+N+Err/Orth+Cmp/SgNom+Cmp#báŋku+N+Sg+Nom	0,000000
+
+datačoakkáldat	dáhta+N+Err/Orth+Cmp/SgGen+Cmp#čoakkáldat+N+Sg+Nom	0,000000
+datačoakkáldat	dáhta+N+Err/Orth+Cmp/SgNom+Cmp#čoakkáldat+N+Sg+Nom	0,000000
+
+datafierpmádat	dáhta+N+Err/Orth+Cmp/SgGen+Cmp#fierpmádat+N+Sg+Nom	0,000000
+datafierpmádat	dáhta+N+Err/Orth+Cmp/SgNom+Cmp#fierpmádat+N+Sg+Nom	0,000000
+
+davágeahči	davvi+N+Err/Orth+Cmp/SgNom+Cmp#geahči+N+Sg+Nom	0,000000
+
+davibučča	davvi+N+Der/Comp+A+Der/Dimin+A+Sg+Acc	0,000000
+davibučča	davvi+N+Der/Comp+A+Der/Dimin+A+Sg+Gen	0,000000
+
+davibuččas	davvi+N+Der/Comp+A+Der/Dimin+A+Sg+Loc	0,000000
+
+davibuš	davvi+N+Der/Comp+A+Der/Dimin+A+Attr	0,000000
+davibuš	davvi+N+Der/Comp+A+Der/Dimin+A+Sg+Nom	0,000000
+
+davibužžii	davvi+N+Der/Comp+A+Der/Dimin+A+Sg+Ill	0,000000
+
+davrrihit	davrrihit+?	inf
+
+davrulit	davrulit+?	inf
+
+davrut	davrat+V+TV+Imprt+Pl1+Err/Orth	0,000000
+
+davvenuortalii	davvenuortalii+?	inf
+
+davvenuortalis	davvenuortalis+?	inf
+
+davvenuorttageahči	davvenuorta+N+Cmp/SgGen+Err/Orth+Cmp#geahči+N+Sg+Nom	0,000000
+davvenuorttageahči	davvi+N+Cmp/SgNom+Cmp#nuorta+N+Cmp/SgGen+Err/Orth+Cmp#geahči+N+Sg+Nom	0,000000
+davvenuorttageahči	davvi+N+Cmp/SgNom+Cmp#nuorttageahči+N+Err/Lex+Sg+Nom	0,000000
+
+davveoarjjageahči	davvi+N+Cmp/SgNom+Cmp#oarjjageahči+N+Err/Lex+Sg+Nom	0,000000
+
+davvivuohta	davvivuohta+?	inf
+
+dágget	dágget+?	inf
+
+dáhppu	dáhppu+?	inf
+
+dálolihtarat	dállu+N+Cmp/SgGen+Err/Orth+Cmp#lihtar+N+Pl+Nom	0,000000
+dálolihtarat	dállu+N+Cmp/SgGen+Err/Orth+Cmp#lihtar+N+Sg+Acc+PxSg2	0,000000
+dálolihtarat	dállu+N+Cmp/SgGen+Err/Orth+Cmp#lihtar+N+Sg+Gen+PxSg2	0,000000
+dálolihtarat	dállu+N+Cmp/SgGen+Err/Orth+Cmp#lihtar+N+Sg+Nom+PxSg2	0,000000
+
+dálvvášit	dálvvášit+?	inf
+
+dánddar	dánddar+?	inf
+
+dánddardit	dánddardit+?	inf
+
+dánskkán	dánskkán+?	inf
+
+dáppeboazu	dáppe+Adv+Err/Orth+Cmp#boazu+N+Sg+Nom	0,000000
+
+dárješ	dárješ+?	inf
+
+dárkudit	dárkudit+?	inf
+
+dárpmahit	dárpmahit+?	inf
+
+dárpmehuddat	dárpmehuddat+?	inf
+
+dássašuvvat	dássašuvvat+?	inf
+
+dásselieliekkas	dásselieliekkas+?	inf
+
+dásseseaggi	dásseseaggi+?	inf
+
+dávgašuhttit	dávgašuhttit+?	inf
+
+dávgašuvvat	dávgá+N+Err/Orth+Cmp/SgNom+Cmp#šuvva+N+Sg+Nom+PxSg2	0,000000
+
+dávllastit	dávllastit+?	inf
+
+deabaidit	deabaidit+?	inf
+
+deaddagassii	deaddagassii+?	inf
+
+deaddját	deaddját+?	inf
+
+deafan	deafan+?	inf
+
+deamádahttit	deamádahttit+?	inf
+
+deamsut	deamsut+?	inf
+
+deaŋggastit	deaŋggastit+?	inf
+
+dearašuvvat	dearašuvvat+?	inf
+
+dearidit	dearidit+?	inf
+
+dearpmádat	dearpmádat+?	inf
+
+dearvvasvuođalas	dearvvasvuođalas+?	inf
+
+deaškásit	deaškásit+?	inf
+
+deaškerattat	deaškerattat+?	inf
+
+deatnjásit	deatnjásit+?	inf
+
+deattáhus	deattáhus+?	inf
+
+deavkkas	deavkkas+?	inf
+
+dedikašuvdna	dedikašuvdna+?	inf
+
+deren	deren+?	inf
+
+devalvašuvdna	devalvašuvdna+?	inf
+
+dielektálalaš	dielektálalaš+?	inf
+
+dibaštit	dibaštit+?	inf
+
+dibedámppár	dibedámppár+?	inf
+
+diehtta	diehtta+?	inf
+
+diennánaga	diennánaga+?	inf
+
+dieldnadit	dieldnadit+?	inf
+
+diella	diella+?	inf
+
+dieppeboazu	dieppe+Adv+Err/Orth+Cmp#boazu+N+Sg+Nom	0,000000
+
+dierpmis	dierpmis+?	inf
+
+dierrudit	dierrudit+?	inf
+
+dievddulágan	dievdu+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+dievduvuohta	dievduvuohta+?	inf
+
+difteriija	difteriija+?	inf
+
+diiddadit	diiddadit+?	inf
+
+dikkal	dikkal+?	inf
+
+dilkalit	dilkalit+?	inf
+
+dilkkihit	dilkkihit+?	inf
+
+dilláduvvat	dilláduvvat+?	inf
+
+dilsudit	dilsudit+?	inf
+
+dilsut	dilsut+?	inf
+
+dimaid	dimaid+?	inf
+
+dirbmehit	dirbmehit+?	inf
+
+dirrut	dirrut+?	inf
+
+dirrut	dirrut+?	inf
+
+disputašuvdna	disputašuvdna+?	inf
+
+dišká	dišká+?	inf
+
+diškkán	diškkán+?	inf
+
+divideanta	divideanta+?	inf
+
+divttástus	divttástus+?	inf
+
+doađgasit	doađgasit+?	inf
+
+doađggas	doađggas+?	inf
+
+doađgit	doađgit+?	inf
+
+doahttadit	doahttadit+?	inf
+
+doaimmaiddállu	doaibma+N+Cmp/PlGen+Cmp#dállu+N+Sg+Nom	0,000000
+
+doaivvuhuddat	doaivvuhuddat+?	inf
+
+doajádat	doajádat+?	inf
+
+doaresflöita	doaresflöita+?	inf
+
+doarggatjienain	doarggatjienain+?	inf
+
+doaristit	doaristit+Err/Lex+V+TV+Inf	0,000000
+doaristit	doaristit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+doarjánit	doarjánit+?	inf
+
+doarki	doarki+?	inf
+
+doarkkas	doarkkas+?	inf
+
+doarrásnjuikestat	doaris+N+Cmp/SgGen+Cmp#njuikestat+N+Sg+Nom	0,000000
+doarrásnjuikestat	doaris+A+Cmp/SgGen+Cmp#njuikestat+N+Sg+Nom	0,000000
+
+doavskit	doavskit+?	inf
+
+doavskkašit	doavskkašit+Err/Lex+V+TV+Inf	0,000000
+doavskkašit	doavskkašit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+dohkka	dohkka+?	inf
+
+dohkkestuddat	dohkkestuddat+?	inf
+
+dohkohahkii	dohkohahkii+?	inf
+
+doláhdovle	doláhdovle+?	inf
+
+dole	do+Err/Orth+Adv	0,000000
+
+dolka	dolka+?	inf
+
+dollja	dollja+?	inf
+
+dološmano	doallu+N+Der/Dimin+N+Cmp/SgGen+Cmp#mannu+N+Sg+Gen+Allegro+Err/Orth	0,000000
+dološmano	doallu+N+Der/Dimin+N+Cmp/SgNom+Cmp#mannu+N+Sg+Gen+Allegro+Err/Orth	0,000000
+dološmano	doallu+N+Der/Dimin+N+Cmp/SgNom+Cmp#mannu+N+Sg+Gen+Allegro+Err/Orth	0,000000
+dološmano	dološ+A+Cmp/Attr+Cmp#mannu+N+Sg+Gen+Allegro+Err/Orth	0,000000
+dološmano	dološ+A+Cmp/SgNom+Cmp#mannu+N+Sg+Gen+Allegro+Err/Orth	0,000000
+
+donitsa	donitsa+?	inf
+
+doppeboazu	doppe+Adv+Err/Orth+Cmp#boazu+N+Sg+Nom	0,000000
+
+dorreplaneahtta	dorreplaneahtta+?	inf
+
+dovddoheapme	dovddoheapme+?	inf
+
+dovdeš	dovdeš+?	inf
+
+dovkket	dovkket+?	inf
+
+dovskkástit	dovskkástit+?	inf
+
+dropsa	dropsa+?	inf
+
+duđgái	duđgái+?	inf
+
+duđgguhit	duđgguhit+?	inf
+
+duhkka	duhkka+?	inf
+
+duhkorahkes	duhkorahkes+?	inf
+
+duhppádit	duhppádit+Err/Lex+V+TV+Inf	0,000000
+duhppádit	duhppádit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+duhrra	duhrra+?	inf
+
+duhrratableahtta	duhrratableahtta+?	inf
+
+duipošit	duipošit+?	inf
+
+duiskkastit	duiskkastit+?	inf
+
+dulput	dulput+?	inf
+
+dulvvádat	dulvvádat+?	inf
+
+duŋka	duŋka+?	inf
+
+duođasmuvvat	duođasmuvvat+?	inf
+
+duoggo	duoggo+?	inf
+
+duohččasit	duohččasit+?	inf
+
+duohppil	duohppil+?	inf
+
+duolbbogiehta	duolbbogiehta+?	inf
+
+duole	duole+?	inf
+
+duomismeasvahkku	duomismeasvahkku+?	inf
+
+duonbeallásaš	duonbeallásaš+?	inf
+
+duonu	duonu+?	inf
+
+duorbi	duorbi+?	inf
+
+duoret	duoret+?	inf
+
+duottastit	duottastit+?	inf
+
+duottoheapme	duottoheapme+?	inf
+
+duppaldulkohahtti	duppal+A+Cmp/Attr+Cmp#dulkot+V+TV+Der/h+V+Der/Caus+V+TV+Der/NomAg+N+Sg+Acc	0,000000
+duppaldulkohahtti	duppal+A+Cmp/Attr+Cmp#dulkot+V+TV+Der/h+V+Der/Caus+V+TV+Der/NomAg+N+Sg+Gen	0,000000
+duppaldulkohahtti	duppal+A+Cmp/Attr+Cmp#dulkot+V+TV+Der/h+V+Der/Caus+V+TV+Der/NomAg+N+Sg+Nom	0,000000
+duppaldulkohahtti	duppal+A+Cmp/Attr+Cmp#dulkot+V+TV+Der/h+V+Der/Caus+V+TV+PrsPrc	0,000000
+duppaldulkohahtti	duppal+A+Cmp/SgNom+Cmp#dulkot+V+TV+Der/h+V+Der/Caus+V+TV+Der/NomAg+N+Sg+Acc	0,000000
+duppaldulkohahtti	duppal+A+Cmp/SgNom+Cmp#dulkot+V+TV+Der/h+V+Der/Caus+V+TV+Der/NomAg+N+Sg+Gen	0,000000
+duppaldulkohahtti	duppal+A+Cmp/SgNom+Cmp#dulkot+V+TV+Der/h+V+Der/Caus+V+TV+Der/NomAg+N+Sg+Nom	0,000000
+duppaldulkohahtti	duppal+A+Cmp/SgNom+Cmp#dulkot+V+TV+Der/h+V+Der/Caus+V+TV+PrsPrc	0,000000
+
+durgidit	durgidit+?	inf
+
+durkkagiella	durkkagiella+?	inf
+
+durvvát	durvvát+?	inf
+
+dusen	dusen+?	inf
+
+duskáduvvat	duskáduvvat+?	inf
+
+duššáštuhttit	duššáštuhttit+?	inf
+
+dutnal	dutnal+?	inf
+
+duvlláš	duvlláš+?	inf
+
+eaffa	eaffa+?	inf
+
+eahtat	eahtat+?	inf
+
+eaippárgahttit	eaippárgahttit+?	inf
+
+eaippir	eaippir+?	inf
+
+ealladagat	ealladagat+?	inf
+
+eamiduššat	eamiduššat+?	inf
+
+eamitvuohta	eamitvuohta+?	inf
+
+eamma	eamma+?	inf
+
+eandán	eandán+?	inf
+
+eangalsgiella	eangalsgiella+?	inf
+
+eanna	eanna+?	inf
+
+eanualjávri	eatnu+N+Cmp/SgGen+Err/Orth+Cmp#al+N+Cmp/Sh+Err/CmpSub+Cmp#jávri+N+Sg+Nom	0,000000
+
+eaŋgalslaš	eaŋgalslaš+?	inf
+
+eaŋgalslaš	eaŋgalslaš+?	inf
+
+earasadjai	earasadjai+?	inf
+
+earasajes	eará sajis+Err/Orth+Err/MissingSpace+Adv	0,000000
+
+earáguvllot	earáguvllot+?	inf
+
+earáládje	eará ládje+v1+Err/MissingSpace+Adv	0,000000
+
+earáláhkai	eará ládje+v2+Err/MissingSpace+Adv	0,000000
+
+earáliiggážit	earáliiggážit+?	inf
+
+eareburán	eareburán+?	inf
+
+earistit	earistit+?	inf
+
+earra	earra+?	inf
+
+earretláhkai	earretláhkai+?	inf
+
+eartnjehastit	eartnjehastit+?	inf
+
+eartnjehuvvat	eartnjehuvvat+?	inf
+
+earuhuvvat	earru+N+Cmp/SgGen+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+
+easkkabáliid	easka+N+Cmp/SgGen+Cmp#bálli+N+Pl+Acc	0,000000
+easkkabáliid	easka+N+Cmp/SgGen+Cmp#bálli+N+Pl+Gen	0,000000
+
+easkkanáitalan	easkkanáitalan+?	inf
+
+easkkariegádan	easkkariegádan+?	inf
+
+easttalaš	easttalaš+?	inf
+
+eatnádat	eatnádat+?	inf
+
+eatnáduddat	eatnáduddat+?	inf
+
+eatnádupmi	eatnádupmi+?	inf
+
+eatnáhuvvat	eatnáhuvvat+?	inf
+
+eavvabahta	eavvabahta+?	inf
+
+egešguovttos	egežat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+egešguovttos	egežat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+ehpos	ehpos+?	inf
+
+ehtemastit	ehtemastit+?	inf
+
+eisemáhku	eisemáhku+?	inf
+
+ekográfa	eko+N+Err/Lex+Cmp/SgNom+Cmp#gráfa+N+Sg+Acc	0,000000
+ekográfa	eko+N+Err/Lex+Cmp/SgNom+Cmp#gráfa+N+Sg+Gen	0,000000
+ekográfa	eko+N+Err/Lex+Cmp/SgNom+Cmp#gráfa+N+Sg+Nom	0,000000
+
+ekseret	ekseret+Err/Lex+V+TV+Der/d+V+Ind+Prs+ConNeg	0,000000
+ekseret	ekseret+Err/Lex+V+TV+Der/h+V+Ind+Prs+ConNeg	0,000000
+ekseret	ekseret+Err/Lex+V+TV+Inf	0,000000
+
+ekspluatašuvdna	ekspluatašuvdna+?	inf
+
+ekspluateret	ekspluateret+?	inf
+
+elljuivuohta	elljuivuohta+?	inf
+
+emállja	emállja+?	inf
+
+emmá	emmá+?	inf
+
+emošuvdna	emošuvdna+?	inf
+
+empáhtalaččat	empáhtalaččat+?	inf
+
+empáhtaš	empáhtaš+?	inf
+
+entsyma	entsyma+?	inf
+
+eremihtta	eremihtta+?	inf
+
+eretčuoldi	eretčuoldi+?	inf
+
+eretvádjolit	eretvádjolit+?	inf
+
+erkkebeaivi	erkkebeaivi+?	inf
+
+erkkevahkku	erkkevahkku+?	inf
+
+essot	essot+?	inf
+
+estetihkkár	estetihkkár+?	inf
+
+etnešguovttos	etneš guovttos+Err/MissingSpace+N+Coll+Sg+Loc	0,000000
+etnešguovttos	etneš guovttos+Err/MissingSpace+N+Coll+Sg+Nom	0,000000
+etnešguovttos	etnežat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+etnešguovttos	etnežat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+eváhkko	eváhkku+N+Sg+Nom+Err/Orth	0,000000
+
+eváseahkka	eváseahkka+?	inf
+
+evearsta	evearsta+?	inf
+
+evearstalutnána	evearstalutnána+?	inf
+
+evgunis	evgunis+?	inf
+
+fadnodahkes	fadnodahkes+?	inf
+
+fađastat	fađastat+?	inf
+
+fanus	fanus+?	inf
+
+fardearva	fardearva+?	inf
+
+fardervet	fardervet+?	inf
+
+fasáda	fasáda+?	inf
+
+fáđasit	fáđasit+?	inf
+
+fáhtálas	fáhtálas+?	inf
+
+fálbmut	fálbmut+?	inf
+
+fáner	fáner+?	inf
+
+fárao	fárao+?	inf
+
+fárken	fárken+?	inf
+
+fársa	fársa+?	inf
+
+fártaseappot	fártaseappot+?	inf
+
+fáskkus	fáskkus+?	inf
+
+fáškkon	fáškkon+?	inf
+
+fáttal	fáttal+?	inf
+
+fávdnat	fávdnat+?	inf
+
+fávllabealli	fávllabealle+N+Err/Lex+Sg+Acc	0,000000
+fávllabealli	fávllabealle+N+Err/Lex+Sg+Gen	0,000000
+fávllabealli	fávllabealle+N+Err/Lex+Sg+Nom	0,000000
+
+feambilastit	feambilastit+?	inf
+
+fearffagit	fearffagit+?	inf
+
+fearffas	fearffas+?	inf
+
+fearfi	fearfi+?	inf
+
+fearra	fearra+?	inf
+
+ferija	ferija+?	inf
+
+ferkkohat	ferkkohat+?	inf
+
+fernissa	fernissa+?	inf
+
+ficce	ficce+Interj+Err/Lex	0,000000
+
+fiehtar	fiehtar+?	inf
+
+fiehttofovdna	fiehttofovdna+?	inf
+
+fierbmat	fierbmat+?	inf
+
+fierpmádatlogan	fierpmádat+N+Cmp/SgGen+Cmp#lohka+N+Sg+Loc+South+Err/Orth	0,000000
+fierpmádatlogan	fierpmádat+N+Cmp/SgNom+Cmp#lohka+N+Sg+Loc+South+Err/Orth	0,000000
+
+fievri	fievri+?	inf
+
+fievrradit	fievrradit+?	inf
+
+fihččulit	fihččulit+?	inf
+
+fiidnodat	fiidnodat+?	inf
+
+fildar	fildar+?	inf
+
+fisket	fisket+?	inf
+
+fiš	fiš+?	inf
+
+flamiŋgo	flamiŋgo+?	inf
+
+flámagiella	flámagiella+?	inf
+
+flánel	flánel+?	inf
+
+flohtta	flohtta+?	inf
+
+florá	florá+?	inf
+
+flöita	flöita+?	inf
+
+fránskaláibi	fránska+A+Cmp/SgNom+Err/Orth+Cmp#láibi+N+Sg+Nom	0,000000
+
+fránsos	fransosa+N+Err/Orth+Sg+Gen	0,000000
+fránsos	fransosa+N+Err/Orth+Sg+Nom	0,000000
+
+frimearka	friddjamearka+N+Err/Orth+Sg+Nom	0,000000
+
+fulkkešguovttos	fulkkežat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+fulkkešguovttos	fulkkežat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+fuoi	fuoi+Interj+Err/Lex	0,000000
+
+fuolar	fuolar+?	inf
+
+fuomášahkes	fuomášahkes+?	inf
+
+fuonitvuohta	fuonitvuohta+?	inf
+
+furet	furet+?	inf
+
+fyra	fyra+?	inf
+
+gaccahuvvat	gazza+N+Cmp/SgGen+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+
+gahkkodit	gahkit+V+TV+Der/PassS+V+IV+Der/d+V+Inf	0,000000
+gahkkodit	gahkit+V+TV+Der/PassS+V+IV+Der/d+V+Ind+Prs+Pl1	0,000000
+gahkkodit	gahkit+V+TV+Der/PassS+V+IV+Der/d+V+Ind+Prs+Pl3	0,000000
+gahkkodit	gahkit+V+TV+Der/PassS+V+IV+Der/d+V+Ind+Prt+Sg2	0,000000
+gahkkodit	gahkkat+V+TV+Der/PassS+V+IV+Der/d+V+Inf	0,000000
+gahkkodit	gahkkat+V+TV+Der/PassS+V+IV+Der/d+V+Ind+Prs+Pl3	0,000000
+
+gahpaluvvat	gahpaluvvat+?	inf
+
+gahpircáipi	gahpir+N+Cmp/SgGen+Cmp#cáipi+N+Sg+Nom	0,000000
+
+gaibbahit	gaibbahit+?	inf
+
+gaigŋerbealis	gaigŋirbealis+N+Err/Orth+Sg+Nom	0,000000
+
+gaikkahallat	gaikkahallat+?	inf
+
+gainnihit	gainnihit+?	inf
+
+galbbalágan	galba+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+galddašit	galddašit+?	inf
+
+galmmastupmi	galmmastupmi+?	inf
+
+galššagit	galššagit+?	inf
+
+ganeštuvvat	ganeštuvvat+?	inf
+
+ganistit	ganistit+?	inf
+
+gaŋga	gaŋga+?	inf
+
+gaŋkkoivviid	gaŋkkoivviid+?	inf
+
+gargut	gargut+?	inf
+
+garkit	garkit+?	inf
+
+garkkihit	garkkihit+?	inf
+
+garppihit	garppihit+?	inf
+
+gartnit	gartnit+?	inf
+
+gaskabázaldagas	gaskabázaldagas+?	inf
+
+gaskabázaldahkii	gaskabázaldahkii+?	inf
+
+gavrras	gavrras+?	inf
+
+gavvohávvar	gavvohávvar+?	inf
+
+gavžžagit	gavžžagit+?	inf
+
+gáddadastit	gáddadastit+?	inf
+
+gáddádit	gáddádit+?	inf
+
+gáddebirrá	gáddebirrá+?	inf
+
+gáddut	gáddit+V+TV+Imprt+Pl1+Err/Orth	0,000000
+gáddut	gáddu+N+Sg+Acc+Err/Orth+PxSg2	0,000000
+gáddut	gáddu+N+Sg+Gen+Err/Orth+PxSg2	0,000000
+gáddut	gáddu+N+Sg+Nom+Err/Orth+PxSg2	0,000000
+
+gádjašuvvat	gádja+N+Cmp/SgNom+Cmp#šuvva+N+Sg+Nom+PxSg2	0,000000
+
+gáđvvus	gáđvvus+?	inf
+
+gáfatlaš	gáfatlaš+?	inf
+
+gáhččut	gáhčču+N+Sg+Acc+Err/Orth+PxSg2	0,000000
+gáhččut	gáhčču+N+Sg+Gen+Err/Orth+PxSg2	0,000000
+gáhččut	gáhčču+N+Sg+Nom+Err/Orth+PxSg2	0,000000
+gáhččut	gáhččat+V+IV+Imprt+Pl1+Err/Orth	0,000000
+
+gáhppil	gáhppil+?	inf
+
+gáison	gáison+?	inf
+
+gáissáidbiegga	gáisá+N+Cmp/PlGen+Cmp#bieggat+V+IV+PrsPrc	0,000000
+gáissáidbiegga	gáisá+N+Cmp/PlGen+Cmp#biegga+N+Sg+Nom	0,000000
+
+gáiváruššat	gáiváruššat+?	inf
+
+gálbbenáhstigat	gálbbenahstigat+N+Err/Orth-a-á+Pl+Nom	0,000000
+
+gálbbir	gálbbir+?	inf
+
+gálggosmit	gálggosmit+?	inf
+
+gálgŋadit	gálgŋadit+?	inf
+
+gálgŋat	gálgŋat+?	inf
+
+gállagieasaldat	gállagieasaldat+?	inf
+
+gámbil	gámbil+?	inf
+
+gámodit	gámodit+Err/Lex+V+TV+Inf	0,000000
+gámodit	gámodit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+gándaburli	gándaburli+?	inf
+
+gándabužur	gándabužur+?	inf
+
+gánnáhanvuohta	gánnáhanvuohta+?	inf
+
+gáppo	gáppo+?	inf
+
+gápposmit	gápposmit+?	inf
+
+gárdádit	gárdádit+?	inf
+
+gárggan	gárga+N+Sg+Loc+South+Err/Orth	0,000000
+
+gárggiidus	gárggiidus+?	inf
+
+gáržžet	gáržžit+Err/Orth+Adv	0,000000
+
+gásalágan	gássa+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+gáskkáhas	gáskkáhas+?	inf
+
+gássut	gássut+?	inf
+
+gásuhit	gásuhit+?	inf
+
+gáttabealli	gáttabealle+N+Err/Lex+Sg+Acc	0,000000
+gáttabealli	gáttabealle+N+Err/Lex+Sg+Gen	0,000000
+gáttabealli	gáttabealle+N+Err/Lex+Sg+Nom	0,000000
+
+gáttageahči	gáttageahči+N+Err/Lex+Sg+Nom	0,000000
+
+gáttimuš	gáttimuš+?	inf
+
+gávccátlohjahkásaš	gávccátlohjahkásaš+?	inf
+
+gávccenuppelogát	gávccinuppelogát+A+Ord+Err/Orth+Attr	0,000000
+gávccenuppelogát	gávccinuppelogát+A+Ord+Err/Orth+Sg+Nom	0,000000
+
+gávccenuppelohkái	gávccinuppelohkái+Err/Orth+Num+Sg+Acc	0,000000
+gávccenuppelohkái	gávccinuppelohkái+Err/Orth+Num+Sg+Ill	0,000000
+gávccenuppelohkái	gávccinuppelohkái+Err/Orth+Num+Sg+Nom	0,000000
+
+gávččáhallat	gávččáhallat+?	inf
+
+gávllu	gávllu+?	inf
+
+gávpeládje	gávpeládje+?	inf
+
+gávpogastit	gávpogastit+?	inf
+
+gávppár	gávppár+?	inf
+
+gávvar	gávvar+?	inf
+
+geah	geah+Interj+Err/Lex	0,000000
+
+geahcasit	geahcasit+?	inf
+
+geahccat	geahccat+?	inf
+
+geahnohivuođalassi	geahnohivuođalassi+?	inf
+
+geahpebun	geahpebun+?	inf
+
+geahppadatbeallai	geahppat+A+Der/Comp+A+Err/Orth+Cmp/Attr+Cmp#bealle+N+Sg+Ill+Err/Orth	0,000000
+
+geahppil	geahppil+?	inf
+
+geahpuhaš	geahpuhaš+?	inf
+
+geaidašuvvat	geaidašuvvat+?	inf
+
+geaiduvuohta	geaiduvuohta+?	inf
+
+geaillulágan	geailu+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+gearddalaš	gearddalaš+?	inf
+
+gearddočoarvi	geardu+N+Cmp/SgGen+Err/Orth+Cmp#čoarvi+N+Sg+Nom	0,000000
+
+gearddočoarvvat	gearddočoarvvat+?	inf
+
+gearggasmuvvat	gearggasmuvvat+?	inf
+
+geartnástuvvat	geartnástuvvat+?	inf
+
+geasas	geasástit+Err/Orth-a-á+V+TV+Imprt+ConNeg	0,000000
+geasas	geasástit+Err/Orth-a-á+V+TV+Imprt+Sg2	0,000000
+geasas	geasástit+Err/Orth-a-á+V+TV+Ind+Prs+ConNeg	0,000000
+
+geasáhuvvat	geasáhuvvat+?	inf
+
+geasátbáiki	geasátbáiki+?	inf
+
+geatkulit	geatkulit+?	inf
+
+geatkut	geatkut+?	inf
+
+geavkáhaddat	geavkáhaddat+?	inf
+
+geavllagit	geavllagit+?	inf
+
+geavrragit	geavrragit+?	inf
+
+geavus	geavus+?	inf
+
+geažot	geažot+?	inf
+
+gehmát	gehmát+Err/Lex+V+TV+Der/d+V+Ind+Prs+ConNeg	0,000000
+gehmát	gehmát+Err/Lex+V+TV+Der/h+V+Ind+Prs+ConNeg	0,000000
+gehmát	gehmát+Err/Lex+V+TV+Inf	0,000000
+
+geidošeapmi	geidošeapmi+?	inf
+
+genetihkašvuohta	genetihkašvuohta+?	inf
+
+genotiipa	genotiipa+?	inf
+
+geopolitihkka	geopolitihkka+?	inf
+
+geosentrálalaš	geosentrálalaš+?	inf
+
+getkkoldahttit	getkkoldahttit+?	inf
+
+gežon	gežon+?	inf
+
+giđabeallai	giđabealle+N+Sg+Ill+Err/Orth	0,000000
+giđabeallai	giđđa+N+Cmp/SgGen+Cmp#bealle+N+Sg+Ill+Err/Orth	0,000000
+
+giđalágan	giđđa+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+gieddudit	gieddudit+?	inf
+
+gieđaguhkit	gieđaguhkit+?	inf
+
+gieđalatloatna	giehta+N+Der/lasj+A+Der/Comp+A+Err/Orth+Cmp/Attr+Cmp#loatna+N+Sg+Nom	0,000000
+
+gieđastallat	gieđastallat+?	inf
+
+giehtahbeal	giehtahbeal+?	inf
+
+giehtahbealli	giehtatbealli+N+Err/Orth+Sg+Nom	0,000000
+
+giehtahguhkit	giehtatguhkit+N+Sg+Acc+Err/Orth	0,000000
+giehtahguhkit	giehtatguhkit+N+Sg+Gen+Err/Orth	0,000000
+giehtahguhkit	giehtatguhkit+N+Sg+Nom+Err/Orth	0,000000
+
+gielahuddat	gielahuddat+?	inf
+
+gielbbardit	gielbbardit+Err/Lex+V+TV+Inf	0,000000
+gielbbardit	gielbbardit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+gielkageasi	gielká+N+Err/Orth+Cmp/SgNom+Cmp#geassi+N+Sg+Acc	0,000000
+gielkageasi	gielká+N+Err/Orth+Cmp/SgNom+Cmp#geassi+N+Sg+Gen	0,000000
+
+gielkkástallat	gielkkástallat+?	inf
+
+gielkkástalli	gielkkástalli+?	inf
+
+gielladit	gielladit+?	inf
+
+gierrit	gierrat+V+TV+Imprt+Pl2+Err/Orth	0,000000
+
+giervvardit	giervvardit+?	inf
+
+gieváskahttit	gieváskahttit+?	inf
+
+gihlájaččat	gihlájaččat+?	inf
+
+giidat	giidat+?	inf
+
+giidot	giidot+?	inf
+
+giittehahtti	giittehahtti+?	inf
+
+giivviskuddat	giivviskuddat+?	inf
+
+gildemárjjávahkku	gildemárjjávahkku+?	inf
+
+gilgon	gilgon+?	inf
+
+gilpulit	gilpulit+?	inf
+
+gimssadit	gimssadit+?	inf
+
+giŋgirat	giŋgirat+?	inf
+
+girjegielaiduvvat	girjegielaiduvvat+?	inf
+
+girkát	girkát+?	inf
+
+girkoviššal	girkoviššal+?	inf
+
+girtát	girtát+?	inf
+
+gittaheargi	gittaheargi+?	inf
+
+givdnjuluvvat	givdnjuluvvat+?	inf
+
+givnnjagit	givnnjagit+?	inf
+
+givnnjahas	givnnjahas+?	inf
+
+givnnjahit	givnnjahit+?	inf
+
+givnnjas	givnnjas+?	inf
+
+givssihit	givssihit+?	inf
+
+glaukoma	glaukoma+?	inf
+
+gloria	gloria+?	inf
+
+glutenakeahtes	glutenakeahtes+?	inf
+
+goađáhuvvat	goađáhuvvat+?	inf
+
+goađásteaddji	goađásteaddji+?	inf
+
+goađeluholmmoš	goađeluholmmoš+?	inf
+
+goagŋát	goagŋát+?	inf
+
+goahcu	goahcu+?	inf
+
+goahtut	goahtu+N+Sg+Acc+Err/Orth+PxSg2	0,000000
+goahtut	goahtu+N+Sg+Gen+Err/Orth+PxSg2	0,000000
+goahtut	goahtu+N+Sg+Nom+Err/Orth+PxSg2	0,000000
+
+goaiba	goaiba+?	inf
+
+goaiggistit	goaiggistit+?	inf
+
+goaikkohuvvat	goaikkohuvvat+?	inf
+
+goaippildit	goaippildit+Err/Lex+V+TV+Inf	0,000000
+goaippildit	goaippildit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+goaisttas	goaisttas+?	inf
+
+goalmmátlohjahkásaš	goalmmátlohjahkásaš+?	inf
+
+goalšudit	goalšudit+?	inf
+
+goalvvihit	goalvvihit+?	inf
+
+goamppas	goamppas+?	inf
+
+goamput	goamput+?	inf
+
+goamši	goamši+?	inf
+
+goamššagit	goamššagit+?	inf
+
+goamššas	goamššas+?	inf
+
+goanstadahkkon	goanstadahkkon+?	inf
+
+goanttardit	goanttardit+?	inf
+
+goanzulit	goanzulit+?	inf
+
+goanzut	goanzut+?	inf
+
+goanzzahit	goanzzahit+?	inf
+
+goapmaluvvat	goapmaluvvat+?	inf
+
+goappášge	goappášge+?	inf
+
+goarát	goarát+?	inf
+
+goardagas	goardagas+?	inf
+
+goarddáhat	goarddáhat+?	inf
+
+goargŋgunšaddu	goargŋgunšaddu+?	inf
+
+goarkŋastit	goarkŋastit+?	inf
+
+goarvasit	goarvasit+?	inf
+
+goavššihit	goavššihit+?	inf
+
+gobmarasoaivi	gobmarasoaivi+?	inf
+
+goddevaš	goddevaš+?	inf
+
+goddjet	goddjet+?	inf
+
+godogeiddo	godogeiddo+?	inf
+
+gođáhat	gođáhat+?	inf
+
+gohan	gohan+?	inf
+
+gohmát	gohmát+?	inf
+
+gohmelus	gohmelus+?	inf
+
+goikesaišaddu	goikesaišaddu+?	inf
+
+goikkár	goikkár+?	inf
+
+goirrastuvvat	goirrastuvvat+?	inf
+
+golbmaoktasašvuohta	golbmaoktasašvuohta+?	inf
+
+golddáhat	golddáhat+?	inf
+
+golezastit	golezastit+?	inf
+
+golganit	golganit+?	inf
+
+golluárvvoštallan	gollu+N+Err/Orth+Cmp/SgNom+Cmp#árvvoštallat+V+TV+Der/NomAct+N+Sg+Gen+Allegro	0,000000
+golluárvvoštallan	gollu+N+Err/Orth+Cmp/SgNom+Cmp#árvvoštallat+V+TV+Der/NomAct+N+Sg+Nom	0,000000
+golluárvvoštallan	gollu+N+Err/Orth+Cmp/SgNom+Cmp#árvvoštit+Err/Lex+V+TV+Der/alla+V+Der/NomAct+N+Sg+Gen+Allegro+Err/Orth	0,000000
+golluárvvoštallan	gollu+N+Err/Orth+Cmp/SgNom+Cmp#árvvoštit+Err/Lex+V+TV+Der/alla+V+Der/NomAct+N+Sg+Nom	0,000000
+golluárvvoštallan	gollu+N+Err/Orth+Cmp/SgNom+Cmp#árvvoštallan+N+Sg+Gen+Allegro	0,000000
+golluárvvoštallan	gollu+N+Err/Orth+Cmp/SgNom+Cmp#árvvoštallan+N+Sg+Nom	0,000000
+
+golmmahas	golmmahas+?	inf
+
+golmmanjunat	golbma+Num+Cmp/SgGen+Cmp#njunni+N+Der/t+A+Attr	0,000000
+golmmanjunat	golbma+Num+Cmp/SgGen+Cmp#njunni+N+Der/t+A+Sg+Nom	0,000000
+
+golmmasárgásaš	golmmasárgásaš+?	inf
+
+golpat	golpat+?	inf
+
+golpi	golpi+?	inf
+
+golppan	golppan+?	inf
+
+gomma	gomma+?	inf
+
+goŋggas	goŋggas+?	inf
+
+goŋgguhit	goŋgguhit+?	inf
+
+gorohat	gorohat+?	inf
+
+gorosmit	gorosmit+?	inf
+
+gorvet	gorvet+?	inf
+
+gosttiidit	gosttiidit+?	inf
+
+govččahussii	govččahussii+?	inf
+
+govddástallat	govddastallat+Err/Orth-a-á+V+IV+Inf	0,000000
+
+govdil	govdil+?	inf
+
+govvadit	govvadit+?	inf
+
+gozastit	gozastit+?	inf
+
+grubbá	grubbá+?	inf
+
+guđádastit	guđádastit+?	inf
+
+guđátlohjahkásaš	guđátlohjahkásaš+?	inf
+
+guhkáláhkai	guhká ládje+v2+Err/MissingSpace+Adv	0,000000
+
+guhkegasolmmoš	guhkegasolmmoš+?	inf
+
+guhkibuš	guhkki+A+Der/Comp+A+Der/Dimin+A+Attr	0,000000
+guhkibuš	guhkki+A+Der/Comp+A+Der/Dimin+A+Sg+Nom	0,000000
+
+guhnuštit	guhnuštit+?	inf
+
+guhpádit	guhpádit+?	inf
+
+guirasaddat	guirasaddat+?	inf
+
+guirasit	guirasit+?	inf
+
+guitádallat	guitádallat+?	inf
+
+gulama	gulama+?	inf
+
+gullamassii	gullamassii+?	inf
+
+gulpalit	gulpalit+?	inf
+
+gulusmuttos	gulusmuttos+?	inf
+
+gumis	gumis+?	inf
+
+gumppostit	gumppustit+Err/Orth+V+TV+Inf	0,000000
+gumppostit	gumppustit+Err/Orth+V+TV+Ind+Prs+Pl3	0,000000
+
+gundu	gundu+?	inf
+
+guneštuvvat	guneštuvvat+?	inf
+
+guoccagastit	guoccagastit+?	inf
+
+guodjut	guodjut+?	inf
+
+guođđalit	guođđalit+?	inf
+
+guođilmas	guođilmas+?	inf
+
+guoggánit	guoggánit+?	inf
+
+guoikán	guoikán+?	inf
+
+guoirráldahttit	guoirráldahttit+?	inf
+
+guoirrildit	guoirrildit+?	inf
+
+guolaiduvvat	guolaiduvvat+?	inf
+
+guoláhuvvat	guoláhuvvat+?	inf
+
+guolddudit	guolddudit+?	inf
+
+guolggaiduhttit	guolggaiduhttit+?	inf
+
+guolggaiduvvat	guolggaiduvvat+?	inf
+
+guorbulit	guorbulit+?	inf
+
+guordašuvvat	guordašuvvat+?	inf
+
+guordálas	guordálas+?	inf
+
+guordit	guordit+?	inf
+
+guorpmástit	guorpmástit+?	inf
+
+guosabegiid	guosabegiid+?	inf
+
+guosmma	guosmma+?	inf
+
+guossástahkes	guossástahkes+?	inf
+
+guostat	guostat+?	inf
+
+guottáhat	guottáhat+?	inf
+
+guotteheapme	guotteheapme+?	inf
+
+guottestuddat	guottestuddat+?	inf
+
+guovdaalbmi	guovda+N+Cmp/SgNom+Cmp#albmi+N+Sg+Nom	0,000000
+
+guovdačuokkis	guovda+N+Cmp/SgNom+Cmp#čuokkis+N+Sg+Nom	0,000000
+
+guovdagávpot	guovda+N+Cmp/SgNom+Cmp#gávpot+N+Sg+Nom	0,000000
+
+guovdanormála	guovdanormála+?	inf
+
+guovddáškriminálaboles	guovddáškriminálaboles+?	inf
+
+guovgulit	guovgulit+?	inf
+
+guovgut	guovgut+?	inf
+
+guovttebealis	guovttebealis+?	inf
+
+guovttegearddaš	guovttegearddáš+A+Err/Orth-a-á+Attr	0,000000
+
+guovttegearnjelješ	guovttegearnjelješ+?	inf
+
+guovtteluottat	guokte+Num+Cmp/SgGen+Cmp#luodda+N+Der/t+A+Attr	0,000000
+guovtteluottat	guokte+Num+Cmp/SgGen+Cmp#luodda+N+Der/t+A+Sg+Nom	0,000000
+
+guovttenevvot	guovttenevvot+?	inf
+
+guovtteolat	guokte+Num+Cmp/SgGen+Cmp#olli+N+Der/t+A+Attr	0,000000
+guovtteolat	guokte+Num+Cmp/SgGen+Cmp#olli+N+Der/t+A+Sg+Nom	0,000000
+
+guovtteráđat	guovtteráđat+?	inf
+
+guovttetávttat	guovttetávttat+?	inf
+
+guovttil	guovttil+?	inf
+
+guovttudit	guovttudit+?	inf
+
+gupmut	gupmut+?	inf
+
+gural	gural+?	inf
+
+gurbboldahttit	gurbboldahttit+?	inf
+
+guren	guren+?	inf
+
+gurgi	gurgi+?	inf
+
+gurgulit	gurgulit+?	inf
+
+gurgut	gurgu+N+Sg+Acc+Err/Orth+PxSg2	0,000000
+gurgut	gurgu+N+Sg+Gen+Err/Orth+PxSg2	0,000000
+gurgut	gurgu+N+Sg+Nom+Err/Orth+PxSg2	0,000000
+
+gurgut	gurgu+N+Sg+Acc+Err/Orth+PxSg2	0,000000
+gurgut	gurgu+N+Sg+Gen+Err/Orth+PxSg2	0,000000
+gurgut	gurgu+N+Sg+Nom+Err/Orth+PxSg2	0,000000
+
+gurppoldahttit	gurppoldahttit+?	inf
+
+gurttádat	gurttádat+?	inf
+
+gusavuoigáhkku	gusavuoigáhkku+?	inf
+
+guskkistit	guskkistit+?	inf
+
+gutkosaš	gutkosaš+?	inf
+
+gutnadit	gutnadit+?	inf
+
+gutnástallat	gutnástallat+?	inf
+
+guvčalbmi	guv+N+Err/Lex+Cmp/SgNom+Cmp#čalbmat+V+TV+PrsPrc	0,000000
+guvčalbmi	guv+N+Err/Lex+Cmp/SgNom+Cmp#čalbmi+N+Sg+Nom	0,000000
+
+guvdilit	guv+N+Err/Lex+Cmp/SgNom+Cmp#dilli+N+Pl+Nom	0,000000
+
+guvdnjet	guvdnjet+?	inf
+
+guvge	guvge+?	inf
+
+guvggoldahttit	guvggoldahttit+?	inf
+
+guvnnjuštit	guvnnjuštit+?	inf
+
+guvrrahit	guvrrahit+?	inf
+
+guvrraldahttit	guvrraldahttit+?	inf
+
+hallunisašuvda	hallunisašuvda+?	inf
+
+hamaidit	hamaidit+?	inf
+
+haŋkkáhat	haŋkkáhat+?	inf
+
+harmonihkká	harmonihkká+?	inf
+
+harra	harra+?	inf
+
+haskkádit	haskkádit+?	inf
+
+hattiheapme	hatteheapme+A+Err/Orth+Sg+Nom	0,000000
+
+hattihisvuohta	hatteheapme+A+Err/Orth+Attr+Der/vuota+N+Sg+Nom	0,000000
+
+hádjanit	hádjánit+Err/Orth-a-á+V+IV+Inf	0,000000
+hádjanit	hádjánit+Err/Orth-a-á+V+IV+Ind+Prs+Pl1	0,000000
+hádjanit	hádjánit+Err/Orth-a-á+V+IV+Ind+Prs+Pl3	0,000000
+hádjanit	hádjánit+Err/Orth-a-á+V+IV+Ind+Prt+Sg2	0,000000
+
+hádjasit	hádjasit+?	inf
+
+hággánit	hággánit+?	inf
+
+háhceseatni	háhceseatni+?	inf
+
+háhcoldahttit	háhcoldahttit+?	inf
+
+háhtahas	háhtahas+?	inf
+
+háhttaraš	háhttaraš+?	inf
+
+háhttár	háhttár+?	inf
+
+háhttár	háhttár+?	inf
+
+háiset	háiset+?	inf
+
+háisi	háisi+?	inf
+
+háitit	háitit+Err/Lex+V+TV+Inf	0,000000
+háitit	háitit+Err/Lex+V+TV+Der/NomAg+N+Pl+Nom	0,000000
+
+háittistit	háitit+Err/Lex+V+TV+Der/st+V+Inf	0,000000
+háittistit	háitit+Err/Lex+V+TV+Der/st+V+Ind+Prs+Pl3	0,000000
+
+hálaidahttit	hálaidahttit+?	inf
+
+hálddusdoallan	hálddusdoallan+?	inf
+
+hámimolsun	hápmi+N+Cmp/SgGen+Err/Orth+Cmp#molsut+V+TV+Der/NomAct+N+Sg+Gen+Allegro	0,000000
+hámimolsun	hápmi+N+Cmp/SgGen+Err/Orth+Cmp#molsut+V+TV+Der/NomAct+N+Sg+Nom	0,000000
+hámimolsun	hápmi+N+Cmp/SgGen+Err/Orth+Cmp#molsun+N+Sg+Gen+Allegro	0,000000
+hámimolsun	hápmi+N+Cmp/SgGen+Err/Orth+Cmp#molsun+N+Sg+Nom	0,000000
+
+hánor	hánor+?	inf
+
+háŋggastit	háŋggastit+?	inf
+
+háŋkkastallat	háŋkkastallat+?	inf
+
+hártnáska	hártnáska+?	inf
+
+hárvvuid	hárvvuid+?	inf
+
+háskár	háskár+?	inf
+
+háškaluvvat	háškaluvvat+?	inf
+
+hášket	hášket+?	inf
+
+háškkagit	háškkagit+?	inf
+
+hávohallat	hávohallat+Err/Lex+V+TV+Inf	0,000000
+
+headjuluhttit	headjuluhttit+?	inf
+
+headjuluvvat	headjuluvvat+?	inf
+
+heađástuddaluššat	heađástuddaluššat+?	inf
+
+heahtečuorvva	heahtečuorvvas+N+Err/Orth+Sg+Nom	0,000000
+
+heaikkavahkku	heaikkavahkku+?	inf
+
+heaillehit	heaillehit+?	inf
+
+heajutvuohta	heajutvuohta+?	inf
+
+healaidit	healaidit+?	inf
+
+healbbahas	healbbahas+?	inf
+
+healga	healga+?	inf
+
+healsalit	healsalit+?	inf
+
+healsát	healsát+?	inf
+
+healsi	healsi+?	inf
+
+heamsi	heamsi+?	inf
+
+heaŋgár	heaŋgár+?	inf
+
+heardduheapme	heardduheapme+?	inf
+
+hearggástit	hearggástit+?	inf
+
+heargudit	heargudit+?	inf
+
+hearkudit	hearkudit+?	inf
+
+hearvulit	hearvulit+?	inf
+
+hearvut	hearvut+?	inf
+
+hearvvuhit	hearvvuhit+?	inf
+
+hearvvuš	hearvvuš+?	inf
+
+heavnnefierbmi	heavdni+N+Cmp/SgGen+Err/Orth+Cmp#fierbmi+N+Sg+Nom	0,000000
+
+heavvoráigi	heavvu+N+Err/Orth+Cmp/SgNom+Cmp#ráigat+V+TV+PrsPrc	0,000000
+heavvoráigi	heavvu+N+Err/Orth+Cmp/SgNom+Cmp#ráigi+N+Sg+Nom	0,000000
+
+heđeštit	heđeštit+?	inf
+
+heggeš	heggeš+?	inf
+
+he-hei	he-hei+Interj+Err/Lex	0,000000
+
+hehpoš	hehpoš+?	inf
+
+heijet	heijet+?	inf
+
+heitohuvvat	heitohuvvat+?	inf
+
+hekkel	hekkel+?	inf
+
+helget	helget+?	inf
+
+helset	helset+?	inf
+
+hemelaš	hemelaš+?	inf
+
+henselat	henselat+?	inf
+
+hepatihtta	hepatihtta+?	inf
+
+herbmet	herbmet+?	inf
+
+herbmostuvvat	herbmostuvvat+?	inf
+
+herkket	herkket+?	inf
+
+hervvoldahttit	hervvoldahttit+?	inf
+
+hevrrostit	hevrrostit+?	inf
+
+hiđáš	hiđáš+?	inf
+
+hiđášit	hiđášit+?	inf
+
+hieđuhit	hieđuhit+Err/Lex+V+TV+Inf	0,000000
+hieđuhit	hieđuhit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+hiehtu	hiehtu+?	inf
+
+hihpelat	hihpelat+?	inf
+
+hihpeštuddat	hihpeštuddat+?	inf
+
+hiiset	hiiset+?	inf
+
+hiivvat	hiivvat+?	inf
+
+hilbbut	hilbbut+?	inf
+
+hilculit	hilculit+?	inf
+
+hiljáhallat	hiljáhallat+?	inf
+
+himádit	himádit+?	inf
+
+himpasaddat	himpasaddat+?	inf
+
+himssistit	himssistit+?	inf
+
+hirččohárččohallat	hirččohárččohallat+?	inf
+
+hirpmástuddat	hirpmástuddat+?	inf
+
+hirrerastá	hirrerastá+?	inf
+
+hisset	hisset+?	inf
+
+hivás	hivás+Interj+Err/Lex	0,000000
+
+hivlat	hivlat+?	inf
+
+hivlodat	hivlodat+?	inf
+
+hoahpánit	hoahpánit+?	inf
+
+hoahpos	hoahpos+?	inf
+
+hoahpumus	hoahpumus+?	inf
+
+hoaidu	hoaidu+?	inf
+
+hoaigat	hoaigat+?	inf
+
+hoaikkas	hoaikkas+?	inf
+
+hoaippardit	hoaippardit+?	inf
+
+hoammagákti	hoammá+N+Err/Orth+Cmp/SgNom+Cmp#gákti+N+Sg+Nom	0,000000
+
+hoavastit	hoavastit+?	inf
+
+hoavddastit	hoavddastit+?	inf
+
+hoavkat	hoavkat+?	inf
+
+hoavkkahit	hoavkkahit+?	inf
+
+hoavvi	hoavvi+?	inf
+
+hohoh	hohoh+Interj+Err/Lex	0,000000
+
+hohoi	hohoi+Interj+Err/Lex	0,000000
+
+hoigašuvvat	hoigašuvvat+?	inf
+
+hoitu	hoitu+?	inf
+
+holddet	holddet+?	inf
+
+homagit	homagit+?	inf
+
+homaiduvvat	homaiduvvat+?	inf
+
+horešonta	horešonta+?	inf
+
+hosmeašttir	hosmeašttir+?	inf
+
+huđorii	huđorii+?	inf
+
+huđoris	huđoris+?	inf
+
+huhččái	huhččái+?	inf
+
+huhkká	huhkká+?	inf
+
+huhtihit	huhtihit+?	inf
+
+huikkus	huikkus+?	inf
+
+huksár	huksár+?	inf
+
+huksedaddat	huksedaddat+?	inf
+
+huligána	huligána+?	inf
+
+hummalit	hummalit+?	inf
+
+hurggas	hurggas+?	inf
+
+hurggoldahttit	hurggoldahttit+?	inf
+
+hušká	hušká+?	inf
+
+huškkon	huškkon+?	inf
+
+huvda	huvda+?	inf
+
+huvki	huvki+?	inf
+
+hyena	hyena+?	inf
+
+hymna	hymna+?	inf
+
+hyš	hyš+Interj+Err/Lex	0,000000
+
+idiohtta	idiohtta+?	inf
+
+iehččái	iehččái+?	inf
+
+iešárvvudovdu	iešárvu+N+Cmp/SgGen+Cmp#dovdu+N+Sg+Nom	0,000000
+
+iešdahkkon	iešdahkkon+?	inf
+
+iešdiđolaš	iešdiđolaš+?	inf
+
+iešduddjojuvvon	iešduddjojuvvon+?	inf
+
+iešiežainan	iešiežainan+?	inf
+
+iešluddat	iešluddat+?	inf
+
+iešnávccaid	iešnávccaid+?	inf
+
+iešnjáman	iešnjáman+?	inf
+
+iešnjámat	iešnjámat+?	inf
+
+iešsihkkar	iešsihkkar+?	inf
+
+ieštallat	ieštallat+?	inf
+
+iešvuođaláhki	iešvuođaláhki+?	inf
+
+iežasgáhtten	iežasgáhtten+?	inf
+
+iežágielat	iežágielat+?	inf
+
+ihtalas	ihtalas+?	inf
+
+ihtidit	ihtidit+?	inf
+
+ihttodahkes	ihttodahkes+?	inf
+
+ihtu	ihtu+N+Err/Lex+Sg+Nom	0,000000
+
+iisa	iisa+?	inf
+
+ijahihkku	ijahihkku+?	inf
+
+ildet	ildet+?	inf
+
+ildigalle	ildigalle+?	inf
+
+ilengaccegit	ilengaccegit+?	inf
+
+illáláhkai	illá ládje+v2+Err/MissingSpace+Adv	0,000000
+
+illeviša	illeviša+?	inf
+
+imahallat	imahallat+?	inf
+
+imašmánná	imaš+N+Cmp/SgNom+Cmp#mánná+N+Sg+Nom	0,000000
+imašmánná	imaš+N+Cmp/SgNom+Cmp#mánná+N+Sg+Nom	0,000000
+imašmánná	imaš+A+Cmp/SgNom+Cmp#mánná+N+Sg+Nom	0,000000
+imašmánná	imaš+A+Cmp#mánná+N+Sg+Nom	0,000000
+imašmánná	imaš+A+Cmp/Attr+Cmp#mánná+N+Sg+Nom	0,000000
+imašmánná	imaš+A+Cmp/SgNom+Cmp#mánná+N+Sg+Nom	0,000000
+
+imá	imá+?	inf
+
+imbárii	imbárii+?	inf
+
+imbáris	imbáris+?	inf
+
+imbármáilbmi	imbármáilbmi+?	inf
+
+imešguovttos	imeš guovttos+Err/MissingSpace+N+Coll+Sg+Loc	0,000000
+imešguovttos	imeš guovttos+Err/MissingSpace+N+Coll+Sg+Nom	0,000000
+
+imitašuvdna	imitašuvdna+?	inf
+
+importevra	importevra+?	inf
+
+indiálaš	indiálaš+?	inf
+
+individualiteahtta	individualiteahtta+?	inf
+
+industriijaluvvat	industriijaluvvat+?	inf
+
+influensá	influeansa+N+Err/Orth-a-á+Sg+Nom	0,000000
+
+inkonsekveansa	inkonsekveansa+?	inf
+
+instinkta	instinkta+?	inf
+
+intermezzo	intermezzo+?	inf
+
+intertekstuálalaš	intertekstuálalaš+?	inf
+
+intranstiiva	intranstiiva+?	inf
+
+inttadit	inttadit+?	inf
+
+ipmašiiddahkki	imaš+N+Cmp/PlGen+Cmp#dahkat+V+TV+Der/NomAg+N+Sg+Acc	0,000000
+ipmašiiddahkki	imaš+N+Cmp/PlGen+Cmp#dahkat+V+TV+Der/NomAg+N+Sg+Gen	0,000000
+ipmašiiddahkki	imaš+N+Cmp/PlGen+Cmp#dahkat+V+TV+Der/NomAg+N+Sg+Nom	0,000000
+ipmašiiddahkki	imaš+N+Cmp/PlGen+Cmp#dahkat+V+TV+PrsPrc	0,000000
+ipmašiiddahkki	imaš+N+Cmp/PlGen+Cmp#dahkki+N+NomAg+Sg+Acc	0,000000
+ipmašiiddahkki	imaš+N+Cmp/PlGen+Cmp#dahkki+N+NomAg+Sg+Gen	0,000000
+ipmašiiddahkki	imaš+N+Cmp/PlGen+Cmp#dahkki+N+NomAg+Sg+Nom	0,000000
+ipmašiiddahkki	imaš+A+Cmp/PlGen+Cmp#dahkat+V+TV+Der/NomAg+N+Sg+Acc	0,000000
+ipmašiiddahkki	imaš+A+Cmp/PlGen+Cmp#dahkat+V+TV+Der/NomAg+N+Sg+Gen	0,000000
+ipmašiiddahkki	imaš+A+Cmp/PlGen+Cmp#dahkat+V+TV+Der/NomAg+N+Sg+Nom	0,000000
+ipmašiiddahkki	imaš+A+Cmp/PlGen+Cmp#dahkat+V+TV+PrsPrc	0,000000
+ipmašiiddahkki	imaš+A+Cmp/PlGen+Cmp#dahkki+N+NomAg+Sg+Acc	0,000000
+ipmašiiddahkki	imaš+A+Cmp/PlGen+Cmp#dahkki+N+NomAg+Sg+Gen	0,000000
+ipmašiiddahkki	imaš+A+Cmp/PlGen+Cmp#dahkki+N+NomAg+Sg+Nom	0,000000
+
+ipmiltis	ipmiltis+?	inf
+
+irggešguovttos	irggeš guovttos+Err/MissingSpace+N+Coll+Sg+Loc	0,000000
+irggešguovttos	irggeš guovttos+Err/MissingSpace+N+Coll+Sg+Nom	0,000000
+
+irradeakti	irradeakti+?	inf
+
+islam	isláma+N+Err/Orth+Sg+Gen	0,000000
+islam	isláma+N+Err/Orth+Sg+Nom	0,000000
+
+islándalas	islándalas+?	inf
+
+jakŋi	jakŋi+?	inf
+
+jallastahttit	jallastahttit+?	inf
+
+janzadit	janzadit+?	inf
+
+janzat	janzat+?	inf
+
+janzzagit	janzzagit+?	inf
+
+jarffagit	jarffagit+?	inf
+
+jarffastit	jarffastit+?	inf
+
+jaskát	jaskát+?	inf
+
+jágát	jahki+N+Err/Orth-a-á+Sg+Acc+PxSg2	0,000000
+jágát	jahki+N+Err/Orth-a-á+Sg+Gen+PxSg2	0,000000
+
+jáhkkeš	jáhkkeš+?	inf
+
+jákta	jákta+?	inf
+
+jákta	jákta+?	inf
+
+jáktet	jáktet+?	inf
+
+jáldodis	jáldodis+?	inf
+
+jápmašoavkat	jápmašoavkat+?	inf
+
+jápmašuvvat	jámas+A+Cmp/Attr+Cmp#šuvva+N+Sg+Nom+PxSg2	0,000000
+
+jávkavaš	jávkavaš+?	inf
+
+jávkavašvuohta	jávkavašvuohta+?	inf
+
+jeageladdjái	jeageladdjái+?	inf
+
+jeahkálahttá	jeahkálahttá+?	inf
+
+jearalmas	jearalmas+?	inf
+
+jeassan	jeassan+?	inf
+
+jestadáigi	jestadáigi+?	inf
+
+jieinnastit	jieinnastit+?	inf
+
+jielan	jiella+N+Sg+Loc+South+Err/Orth	0,000000
+
+jienastuslokála	jienastuslokála+?	inf
+
+jieskái	jieskái+?	inf
+
+jieskut	jieskut+?	inf
+
+jietnaválddálaš	jietna+N+Cmp/SgNom+Cmp#váldi+N+Der/lasj+A+Attr	0,000000
+jietnaválddálaš	jietna+N+Cmp/SgNom+Cmp#váldi+N+Der/lasj+A+Sg+Nom	0,000000
+
+jievžžadahkes	jievžžadahkes+?	inf
+
+jivkkodit	jivkkodit+?	inf
+
+joahlardit	joahlardit+?	inf
+
+joalehas	joalehas+?	inf
+
+joavtta	joavtta+?	inf
+
+jobbet	jobbet+?	inf
+
+joccastit	joccastit+?	inf
+
+joccistit	joccistit+?	inf
+
+jođáskit	jođáskit+?	inf
+
+johttut	johtit+V+IV+Imprt+Pl1+Err/Orth	0,000000
+
+joo	joo+Interj+Err/Lex	0,000000
+
+jorbbeš	jorbbeš+?	inf
+
+jorget	jorget+?	inf
+
+jorggu-lásse	jorggu-lásse+?	inf
+
+joshallat	joshallat+?	inf
+
+juđgalit	juđgalit+?	inf
+
+jugosláva	jugosláva+?	inf
+
+julggaštuslágan	julggaštus+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+julggaštuslágan	julggaštus+N+Cmp/SgNom+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+julmmas	julmmas+?	inf
+
+juman	jupma+N+Sg+Loc+South+Err/Orth	0,000000
+
+jumáhallat	jumáhallat+?	inf
+
+jumešguovttos	jumeš+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+jumešguovttos	jumeš+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+jumešguovttos	jumeš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+jumešguovttos	jumeš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+jumešguovttos	jumeš guovttos+Err/MissingSpace+N+Coll+Sg+Loc	0,000000
+jumešguovttos	jumeš guovttos+Err/MissingSpace+N+Coll+Sg+Nom	0,000000
+jumešguovttos	jumežat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+jumešguovttos	jumežat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+juogašit	juogašit+?	inf
+
+juogástat	juogástat+?	inf
+
+juohkeokta	juohke okta+Err/MissingSpace+Pron+Indef+Attr	0,000000
+juohkeokta	juohke okta+Err/MissingSpace+Pron+Indef+Sg+Nom	0,000000
+
+juolgehbeal	juolgehbeal+?	inf
+
+juolgehbealli	juolgetbealli+N+Err/Orth+Sg+Nom	0,000000
+
+juolgottur	juolgottur+?	inf
+
+jurddašahkes	jurddašahkes+?	inf
+
+juvzzon	juvzzon+?	inf
+
+kadeahtta	kadeahtta+?	inf
+
+kapseahkka	kapseahkka+?	inf
+
+karaktiseret	karaktiseret+?	inf
+
+karáffa	karáffa+?	inf
+
+karboráhtor	karboráhtor+?	inf
+
+karikatuvra	karikatuvra+?	inf
+
+karriera	karrieara+N+Err/Orth+Sg+Acc	0,000000
+karriera	karrieara+N+Err/Orth+Sg+Gen	0,000000
+karriera	karrieara+N+Err/Orth+Sg+Nom	0,000000
+
+kartoteahkka	kartoteahkka+?	inf
+
+kateahtta	kateahtta+?	inf
+
+katekeahtta	katekeahtta+?	inf
+
+katoda	katoda+?	inf
+
+kánsler	kánsler+?	inf
+
+káos	káos+?	inf
+
+kápsel	kápsel+?	inf
+
+kárttadat	kárttadat+?	inf
+
+kásttaheapmi	kásta+N+Der/Car+A+Sg+Nom+Err/Orth	0,000000
+kásttaheapmi	kásttaheapme+A+Sg+Nom+Err/Orth	0,000000
+
+keliakihkkár	keliakihkkár+?	inf
+
+keliakiija	keliakiija+?	inf
+
+kemista	kemista+?	inf
+
+kloahka	kloáhkka+N+Err/Orth-a-á+Sg+Acc	0,000000
+kloahka	kloáhkka+N+Err/Orth-a-á+Sg+Gen	0,000000
+
+kloavdna	klovdna+N+Err/Orth+Sg+Nom	0,000000
+
+klonet	klonet+?	inf
+
+klovkken	klovkken+?	inf
+
+koahkkái	koahkkái+?	inf
+
+koeffisienta	koeffisienta+?	inf
+
+kolonná	kolonna+N+Err/Orth-a-á+Sg+Acc	0,000000
+kolonná	kolonna+N+Err/Orth-a-á+Sg+Gen	0,000000
+kolonná	kolonna+N+Err/Orth-a-á+Sg+Nom	0,000000
+
+kompohtta	kompohtta+?	inf
+
+kondolánsa	kondolánsa+?	inf
+
+konkreahtta	konkreahtta+?	inf
+
+konsentráhtta	konsentráhtta+?	inf
+
+konsuláhtta	konsuláhtta+?	inf
+
+kontánta	kontánta+?	inf
+
+konteaidnár	konteaidnár+?	inf
+
+konventionála	konventionála+?	inf
+
+korreláhtta	korreláhtta+?	inf
+
+korrespondánsa	korrespondánsa+?	inf
+
+korseahtta	korseahtta+?	inf
+
+koseret	kåseret+Err/Orth+V+IV+Der/d+V+Imprt+ConNeg	0,000000
+koseret	kåseret+Err/Orth+V+IV+Der/d+V+Imprt+Sg2	0,000000
+koseret	kåseret+Err/Orth+V+IV+Der/d+V+Ind+Prs+ConNeg	0,000000
+koseret	kåseret+Err/Orth+V+IV+Der/h+V+Imprt+ConNeg	0,000000
+koseret	kåseret+Err/Orth+V+IV+Der/h+V+Imprt+Sg2	0,000000
+koseret	kåseret+Err/Orth+V+IV+Der/h+V+Ind+Prs+ConNeg	0,000000
+koseret	kåseret+Err/Orth+V+IV+Inf	0,000000
+koseret	kåseret+Err/Orth+V+IV+Ind+Prs+Pl1	0,000000
+koseret	kåseret+Err/Orth+V+IV+Ind+Prs+Sg2	0,000000
+
+koteleahtta	koteleahtta+?	inf
+
+krambuvda	krambuvda+?	inf
+
+kraváhtta	kraváhtta+?	inf
+
+kursor	kursor+?	inf
+
+kusmá	kusmá+?	inf
+
+kvalikašuvdna	kvalikašuvdna+?	inf
+
+kvántafysihkka	kvántafysihkka+?	inf
+
+kvántateoriija	kvántateoriija+?	inf
+
+lagodit	lagodit+?	inf
+
+lahkaorrun	lahkaorrun+?	inf
+
+lahppasuhttit	lahppasuhttit+?	inf
+
+lahppasuvvat	lahppasuvvat+?	inf
+
+laiggohat	laiggohat+?	inf
+
+laksehallat	laksi+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Pl+Nom	0,000000
+laksehallat	laksi+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Acc+PxSg2	0,000000
+laksehallat	laksi+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Gen+PxSg2	0,000000
+laksehallat	laksi+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Nom+PxSg2	0,000000
+
+laksot	laksot+?	inf
+
+laksut	laksut+?	inf
+
+laktosakeahtes	laktosa+N+Err/DerSub+Der/geahtes+A+Attr	0,000000
+
+laterála	laterála+?	inf
+
+lavjjuhit	lavjjuhit+?	inf
+
+láddiluddat	láddiluddat+?	inf
+
+láđđeruoksat	láđđeruoksat+?	inf
+
+láfobiegga	láfu+N+Err/Orth+Cmp/SgNom+Cmp#bieggat+V+IV+PrsPrc	0,000000
+láfobiegga	láfu+N+Err/Orth+Cmp/SgNom+Cmp#biegga+N+Sg+Nom	0,000000
+
+láhčamašguovttos	láža+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+láhčamašguovttos	láža+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+láhčamašguovttos	láža+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+láhčamašguovttos	láža+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+láhčamašguovttos	láhčamaččat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+láhčamašguovttos	láhčamaččat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+láhká	láhká+?	inf
+
+láhkistit	láhkistit+?	inf
+
+láhkkuluvvat	láhkkuluvvat+?	inf
+
+láhpahallat	láhpa+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Pl+Nom	0,000000
+láhpahallat	láhpa+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Acc+PxSg2	0,000000
+láhpahallat	láhpa+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Gen+PxSg2	0,000000
+láhpahallat	láhpa+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Nom+PxSg2	0,000000
+
+láhpas	láhpas+?	inf
+
+láibmadas	láibmadas+?	inf
+
+láidu	láidu+?	inf
+
+láikudit	láikudit+?	inf
+
+lánastallat	lánastallat+?	inf
+
+lánsttar	lánsttar+?	inf
+
+lánsttarduvvat	lánsttarduvvat+?	inf
+
+láŋgat	láŋgat+?	inf
+
+láŋget	láŋget+?	inf
+
+láŋkadahkes	láŋkadahkes+?	inf
+
+láŋko	láŋko+?	inf
+
+láppelit	láppelit+?	inf
+
+lárda	lárda+?	inf
+
+láskáš	láskáš+?	inf
+
+láskkoáksil	lásku+N+Cmp/SgGen+Cmp#áksil+N+Sg+Nom	0,000000
+
+lásmmodahttit	lásmmodahttit+?	inf
+
+láttáiduvvat	láttáiduvvat+?	inf
+
+láttástallat	láttástallat+?	inf
+
+láttihit	láttihit+?	inf
+
+lávdaoahpahus	lávda+N+Cmp/SgNom+Cmp#oahpahus+N+Sg+Nom	0,000000
+
+lávliluvvat	lávliluvvat+?	inf
+
+lávžeruohtadahkes	lávžeruohtadahkes+?	inf
+
+lážas	lážas+?	inf
+
+leabbasaddat	leabbasaddat+?	inf
+
+leaggut	leaggut+?	inf
+
+leahkkevaš	leahkkevaš+?	inf
+
+leaikásit	leaikásit+?	inf
+
+leaikkus	leaikkus+?	inf
+
+leakkagit	leakkagit+?	inf
+
+leakkastit	leakkastit+?	inf
+
+leambat	leambat+?	inf
+
+leaŋgadit	leaŋgadit+?	inf
+
+leaŋgajuolggat	leaŋgajuolggat+?	inf
+
+leaŋgu	leaŋgu+?	inf
+
+leaškkas	leaškkas+?	inf
+
+leatnjat	leatnjat+?	inf
+
+leatnjut	leatnjut+?	inf
+
+leavihit	leavihit+?	inf
+
+leavkit	leavkit+?	inf
+
+leavvanit	leavvanit+?	inf
+
+lektoráhtta	lektoráhtta+?	inf
+
+lerehit	lerehit+?	inf
+
+lestadiolaš	lestadiolaš+?	inf
+
+letnjolas	letnjolas+?	inf
+
+libás	libás+?	inf
+
+libba	libba+?	inf
+
+liđbmet	liđbmet+?	inf
+
+liehkis	liehkis+?	inf
+
+liehkkat	liehkkat+?	inf
+
+liekkádat	liekkádat+?	inf
+
+lienjas	lienjas+?	inf
+
+liesá	liesá+?	inf
+
+lievladit	lievladit+?	inf
+
+lihkubeaivi	lihkku+N+Cmp/SgGen+Cmp#beaivi+N+Sg+Nom	0,000000
+
+lihkulohku	lihkku+N+Cmp/SgGen+Cmp#lohku+N+Sg+Nom	0,000000
+
+lihttostáhtta	lihttostáhta+N+Sg+Nom+Err/Orth	0,000000
+lihttostáhtta	lihttu+N+Cmp/SgNom+Cmp#stáhta+N+Err/Orth+Sg+Acc	0,000000
+lihttostáhtta	lihttu+N+Cmp/SgNom+Cmp#stáhta+N+Err/Orth+Sg+Gen	0,000000
+lihttostáhtta	lihttu+N+Cmp/SgNom+Cmp#stáhta+N+Err/Orth+Sg+Nom	0,000000
+
+lihttulaš	lihttulaš+?	inf
+
+liibmašuvvat	liibma+N+Cmp/SgNom+Cmp#šuvva+N+Sg+Nom+PxSg2	0,000000
+
+liider	liider+?	inf
+
+liigegovdat	liigegovdat+?	inf
+
+liigelossat	liigelossat+?	inf
+
+lillá	lillá+?	inf
+
+liŋgu	liŋgu+?	inf
+
+lippán	lippán+?	inf
+
+lippe	lippe+?	inf
+
+lisaidit	lisaidit+?	inf
+
+livahuvvat	livva+N+Cmp/SgGen+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+
+livda	livda+?	inf
+
+livdat	livdat+?	inf
+
+livgat	livgat+?	inf
+
+livjjistit	livjjistit+?	inf
+
+livkár	livkár+?	inf
+
+livššáhallat	livššáhallat+?	inf
+
+livššihit	livššihit+?	inf
+
+livvi	livvi+?	inf
+
+livzzagit	livzzagit+?	inf
+
+livzziidit	livzziidit+?	inf
+
+livžžádastit	livžžádastit+?	inf
+
+lizaidit	lizaidit+?	inf
+
+loaččamoardda	loaččamoardda+?	inf
+
+loađjá	loađjá+?	inf
+
+loahcagit	loahcagit+?	inf
+
+loahcaldahttit	loahcaldahttit+?	inf
+
+loahcculit	loahcculit+?	inf
+
+loahccut	loahcat+V+IV+Imprt+Pl1+Err/Orth	0,000000
+
+loahppelákča	loahppelákča+?	inf
+
+loaivi	loaivi+?	inf
+
+loamppas	loamppas+?	inf
+
+loamppuhit	loamppuhit+?	inf
+
+loamššuhit	loamššuhit+?	inf
+
+loanjis	loanjis+?	inf
+
+loavdásit	loavdásit+?	inf
+
+loavkadas	loavkadas+?	inf
+
+loavkkas	loavkkas+?	inf
+
+loavskulit	loavskulit+?	inf
+
+lodnjesoahki	lodnjesoahki+?	inf
+
+loggasit	loggasit+?	inf
+
+lohkuboazu	lohkoboazu+N+Err/Orth+Sg+Nom	0,000000
+lohkuboazu	lohku+N+Err/Orth+Cmp/SgNom+Cmp#boazu+N+Sg+Nom	0,000000
+
+lohkudahkan	lohku+N+Err/Orth+Cmp/SgNom+Cmp#dahkat+V+TV+Der/NomAct+N+Sg+Gen+Allegro	0,000000
+lohkudahkan	lohku+N+Err/Orth+Cmp/SgNom+Cmp#dahkat+V+TV+Der/NomAct+N+Sg+Nom	0,000000
+lohkudahkan	lohku+N+Err/Orth+Cmp/SgNom+Cmp#dahkan+N+Sg+Gen+Allegro	0,000000
+lohkudahkan	lohku+N+Err/Orth+Cmp/SgNom+Cmp#dahkan+N+Sg+Nom	0,000000
+
+lohtádit	lohtádit+?	inf
+
+loksu	loksu+?	inf
+
+longdriŋka	longdriŋka+?	inf
+
+loše	loše+?	inf
+
+lotnašuddan	lotnašuddan+?	inf
+
+lovket	lovket+?	inf
+
+lovkken	lovkken+?	inf
+
+lovsa	lovsa+?	inf
+
+lovssár	lovssár+?	inf
+
+luđđjas	luđđjas+?	inf
+
+luđját	luđját+?	inf
+
+luđji	luđji+?	inf
+
+lulágeahči	lulágeahči+?	inf
+
+lumbbot	lumbbot+?	inf
+
+lunahuvvat	lunahuvvat+?	inf
+
+lunat	lunat+?	inf
+
+lunnat	lunnat+?	inf
+
+lunttalágan	lunta+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+luogirdit	luogirdit+?	inf
+
+luohcásit	luohcásit+?	inf
+
+luohkardit	luohkardit+?	inf
+
+luohkin	luohkki+N+Sg+Loc+South+Err/Orth	0,000000
+
+luoicut	luoicut+?	inf
+
+luoittuhit	luoittuhit+?	inf
+
+Luojá	Luojá+?	inf
+
+luomeaddjái	luomeaddjái+?	inf
+
+luomostallat	luomustallat+Err/Orth+V+IV+Inf	0,000000
+
+luomostalli	luomustallat+Err/Orth+V+IV+Der/NomAg+N+Sg+Acc	0,000000
+luomostalli	luomustallat+Err/Orth+V+IV+Der/NomAg+N+Sg+Gen	0,000000
+luomostalli	luomustallat+Err/Orth+V+IV+Der/NomAg+N+Sg+Nom	0,000000
+luomostalli	luomustallat+Err/Orth+V+IV+PrsPrc	0,000000
+
+luondduheapme	luondduheapme+?	inf
+
+luonjas	luonjas+?	inf
+
+luoskkistit	luoskkistit+?	inf
+
+luotkut	luotkut+?	inf
+
+luottastit	luottastit+?	inf
+
+lurjánit	lurjánit+?	inf
+
+lurját	lurját+?	inf
+
+lurji	lurji+?	inf
+
+lurjjas	lurjjas+?	inf
+
+lurjjihit	lurjjihit+?	inf
+
+lurjjuhit	lurjjuhit+?	inf
+
+lutnánta	lutnánta+?	inf
+
+luvga	luvga+?	inf
+
+luvret	luvret+?	inf
+
+luvttaguolli	luvttaguolli+?	inf
+
+luvus	luvus+?	inf
+
+luvvadas	luvvadas+?	inf
+
+magistráhtta	magistráhtta+?	inf
+
+magma	magma+?	inf
+
+makrilla	makrilla+?	inf
+
+malariija	malariija+?	inf
+
+manješguovttos	manješ guovttos+Err/MissingSpace+N+Coll+Sg+Loc	0,000000
+manješguovttos	manješ guovttos+Err/MissingSpace+N+Coll+Sg+Nom	0,000000
+manješguovttos	manježat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+manješguovttos	manježat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+mannelaččat	mannelaččat+?	inf
+
+maŋábealli	maŋábealle+N+Err/Orth+Sg+Acc	0,000000
+maŋábealli	maŋábealle+N+Err/Orth+Sg+Gen	0,000000
+maŋábealli	maŋábealle+N+Err/Orth+Sg+Nom	0,000000
+
+maŋágeahči	maŋágeahči+?	inf
+
+maŋi	maŋŋi+N+Err/Lex+Sg+Acc	0,000000
+maŋi	maŋŋi+N+Err/Lex+Sg+Gen	0,000000
+
+maŋildassiidu	maŋildassiidu+?	inf
+
+maŋilhaga	maŋilhaga+?	inf
+
+marioneahtta	marioneahtta+?	inf
+
+marmeláda	marmeláda+?	inf
+
+maršálka	maršálka+?	inf
+
+maskeráda	maskeráda+?	inf
+
+matriisa	matriisa+?	inf
+
+matrusa	matrusa+?	inf
+
+máđđa	máđđa+?	inf
+
+mafia	máfia+N+Err/Orth-a-á+Sg+Acc	0,000000
+mafia	máfia+N+Err/Orth-a-á+Sg+Gen	0,000000
+mafia	máfia+N+Err/Orth-a-á+Sg+Nom	0,000000
+mafia	máfia+N+Err/Orth-a-á+Sg+Acc	0,000000
+mafia	máfia+N+Err/Orth-a-á+Sg+Gen	0,000000
+mafia	máfia+N+Err/Orth-a-á+Sg+Nom	0,000000
+
+mágašguovttos	máhka+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+mágašguovttos	máhka+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+mágašguovttos	máhka+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+mágašguovttos	máhka+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+mágašguovttos	máhka+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+mágašguovttos	máhka+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+mágašguovttos	mágažat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+mágašguovttos	mágažat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+mággudit	mággudit+?	inf
+
+máhcooivviid	máhcooivviid+?	inf
+
+máhken	máhken+?	inf
+
+máhtevahkku	máhtevahkku+?	inf
+
+máhttoministar	máhttu+N+Cmp/SgNom+Cmp#ministtar+N+Sg+Nom+Err/Orth	0,000000
+máhttoministar	máhttoministtar+N+Sg+Nom+Err/Orth	0,000000
+
+máilmmiviidodaš	máilmmiviidodaš+?	inf
+
+máisulit	máisulit+?	inf
+
+máisut	máisut+?	inf
+
+mánnábuorre	mánnábuorre+?	inf
+
+mánnálassi	mánná+N+Cmp/SgNom+Cmp#lassi+N+Sg+Nom	0,000000
+
+mánnosašgolgan	mánnosaš+A+Cmp/Attr+Cmp#golgat+V+IV+Der/NomAct+N+Sg+Gen+Allegro	0,000000
+mánnosašgolgan	mánnosaš+A+Cmp/Attr+Cmp#golgat+V+IV+Der/NomAct+N+Sg+Nom	0,000000
+
+mánogaska	mánnu+N+Cmp/SgGen+Cmp#gaska+N+Sg+Nom	0,000000
+
+mánohatidja	mánohatidja+?	inf
+
+mántel	mántel+?	inf
+
+máŋgel	máŋgel+?	inf
+
+máŋggačuođat	máŋggačuođat+?	inf
+
+máŋggadáiddolaš	máŋggadáiddolaš+?	inf
+
+máŋggaiđot	máŋggaiđot+?	inf
+
+márjjábeaivi	márjjábeaivi+?	inf
+
+márjjámeassu	márjjámeassu+?	inf
+
+márjjávahkku	márjjávahkku+?	inf
+
+mávrrádit	mávrrádit+?	inf
+
+meahcabealli	meahcabealli+?	inf
+
+meahcciluvvat	meahcciluvvat+?	inf
+
+meargŋut	meargŋut+?	inf
+
+mearkalammái	mearkalammái+?	inf
+
+medállja	medállja+?	inf
+
+megaherza	megaherza+?	inf
+
+megalomaniija	megalomaniija+?	inf
+
+megalomána	megalomána+?	inf
+
+melankoliija	melankoliija+?	inf
+
+menodahkes	menodahkes+?	inf
+
+merkehussii	merkehussii+?	inf
+
+metamorfosa	metamorfosa+?	inf
+
+metastása	metastása+?	inf
+
+meteoroida	meteoroida+?	inf
+
+metropolitihtta	metropolitihtta+?	inf
+
+miehtasit	miehtasit+?	inf
+
+miehtegieđageavvan	miehti+N+Cmp/SgNom+Cmp#giehta+N+Cmp/SgGen+Cmp#geavvat+V+TV+Der/NomAct+N+Sg+Gen+Allegro	0,000000
+miehtegieđageavvan	miehti+N+Cmp/SgNom+Cmp#giehta+N+Cmp/SgGen+Cmp#geavvat+V+TV+Der/NomAct+N+Sg+Nom	0,000000
+miehtegieđageavvan	miehti+N+Cmp/SgNom+Cmp#giehta+N+Cmp/SgGen+Cmp#geavvan+N+Sg+Gen+Allegro	0,000000
+miehtegieđageavvan	miehti+N+Cmp/SgNom+Cmp#giehta+N+Cmp/SgGen+Cmp#geavvan+N+Sg+Nom	0,000000
+
+mieiggehit	mieiggehit+?	inf
+
+mielaráfi	miella+N+Cmp/SgGen+Cmp#ráfi+N+Sg+Acc	0,000000
+mielaráfi	miella+N+Cmp/SgGen+Cmp#ráfi+N+Sg+Gen	0,000000
+mielaráfi	miella+N+Cmp/SgGen+Cmp#ráfi+N+Sg+Nom	0,000000
+
+mielaskuddat	mielaskuddat+?	inf
+
+mielasmuvvat	mielasmuvvat+?	inf
+
+miellašuvvat	miella+N+Cmp/SgNom+Cmp#šuvva+N+Sg+Nom+PxSg2	0,000000
+
+mierru	mierru+?	inf
+
+miettáštallat	miettáštallat+?	inf
+
+migrena	migrena+?	inf
+
+mihkalmas	mihkalmas+N+Err/Lex+Sg+Nom	0,000000
+
+mikroskohppa	mikroskohppa+?	inf
+
+millioneara	miljoneara+N+Err/Orth+Sg+Acc	0,000000
+millioneara	miljoneara+N+Err/Orth+Sg+Gen	0,000000
+millioneara	miljoneara+N+Err/Orth+Sg+Nom	0,000000
+
+minimálalaš	minimálalaš+?	inf
+
+mirkobastil	mirkobastil+?	inf
+
+missioneara	missioneara+?	inf
+
+moahtiluvvat	moahtiluvvat+?	inf
+
+moaittus	moaittus+?	inf
+
+moalaidahttit	moalaidahttit+?	inf
+
+moarsalit	moarsalit+?	inf
+
+moartal	moartal+?	inf
+
+mobbá	mobbá+?	inf
+
+modearna	modeardna+A+Err/Orth+Attr	0,000000
+modearna	modeardna+A+Err/Orth+Sg+Acc	0,000000
+modearna	modeardna+A+Err/Orth+Sg+Gen	0,000000
+modearna	modeardna+A+Err/Orth+Sg+Nom	0,000000
+
+moderáhtta	moderáhtta+?	inf
+
+mohkkut	mohkkut+?	inf
+
+mojohahttit	mojohahttit+?	inf
+
+molssastat	molssastat+?	inf
+
+molssohagas	molssohagas+?	inf
+
+molssohahkii	molssohahkii+?	inf
+
+molža	molža+?	inf
+
+monitovra	monitovra+?	inf
+
+moráhallat	moráhallat+?	inf
+
+morena	moreana+N+Err/Orth+Sg+Acc	0,000000
+morena	moreana+N+Err/Orth+Sg+Gen	0,000000
+morena	moreana+N+Err/Orth+Sg+Nom	0,000000
+
+morsešguovttos	morseš guovttos+Err/MissingSpace+N+Coll+Sg+Loc	0,000000
+morsešguovttos	morseš guovttos+Err/MissingSpace+N+Coll+Sg+Nom	0,000000
+
+mosaihkka	mosaihkka+?	inf
+
+moska	moska+?	inf
+
+mosti	mosti+?	inf
+
+movgár	movgár+?	inf
+
+movttaguvvat	movttaguvvat+?	inf
+
+mozzi	mozzi+?	inf
+
+muhkkehuvvat	muhkki+N+Cmp/SgGen+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+muhkkehuvvat	muhkki+N+Cmp/SgNom+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+
+muhttálas	muhttálas+?	inf
+
+mukkiigit	mukkiigit+?	inf
+
+muktásit	muktásit+?	inf
+
+mulásen	mulásen+?	inf
+
+mulgát	mulgát+?	inf
+
+mumia	mumia+?	inf
+
+munnagaš	munnagaš+?	inf
+
+muokkuštit	muokkuštit+?	inf
+
+muolla	muolla+?	inf
+
+muorrabohttu	muorra+N+Cmp/SgNom+Cmp#bohttu+N+Sg+Nom	0,000000
+
+muováskit	muováskit+?	inf
+
+muovjeguolga	muovjeguolga+?	inf
+
+musá	musá+?	inf
+
+muskáhttaniehtti	muskáhttaniehtti+?	inf
+
+mustelaš	mustelaš+?	inf
+
+muškát	muškát+?	inf
+
+nađđái	nađđái+?	inf
+
+nahkáriidsisvázzin	nagir+N+Cmp/PlGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#vázzit+V+IV+Der/NomAg+N+Ess	0,000000
+nahkáriidsisvázzin	nagir+N+Cmp/PlGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#vázzit+V+IV+Der/NomAg+N+Sg+Loc+South+Err/Orth	0,000000
+nahkáriidsisvázzin	nagir+N+Cmp/PlGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#vázzit+V+IV+Der/NomAct+N+Sg+Gen+Allegro	0,000000
+nahkáriidsisvázzin	nagir+N+Cmp/PlGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#vázzit+V+IV+Der/NomAct+N+Sg+Nom	0,000000
+nahkáriidsisvázzin	nagir+N+Cmp/PlGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#vázzin+N+Sg+Gen+Allegro	0,000000
+nahkáriidsisvázzin	nagir+N+Cmp/PlGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#vázzin+N+Sg+Nom	0,000000
+nahkáriidsisvázzin	nagir+N+Cmp/PlGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#vázzi+N+NomAg+Ess	0,000000
+nahkáriidsisvázzin	nagir+N+Cmp/PlGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#vázzi+N+NomAg+Sg+Loc+South+Err/Orth	0,000000
+
+namalas	namalas+?	inf
+
+nanohallat	nanohallat+?	inf
+
+narsista	narsista+?	inf
+
+narsisttalaš	narsisttalaš+?	inf
+
+naskalit	naskalit+?	inf
+
+naskit	naskit+?	inf
+
+naskkádit	naskkádit+?	inf
+
+naskkihit	naskkihit+?	inf
+
+našunála	nationála+A+Err/Orth+Attr	0,000000
+našunála	nationála+A+Err/Orth+Sg+Acc	0,000000
+našunála	nationála+A+Err/Orth+Sg+Gen	0,000000
+našunála	nationála+A+Err/Orth+Sg+Nom	0,000000
+
+naturalista	naturalista+?	inf
+
+naturalisttalaš	naturalisttalaš+?	inf
+
+nagga	nagga+?	inf
+
+náđet	náđet+?	inf
+
+náigalit	náigalit+?	inf
+
+náigguhit	náigguhit+?	inf
+
+nákkuscealkka	nákkuscealkka+?	inf
+
+nálimolsašuddan	nálli+N+Cmp/SgGen+Err/Orth+Cmp#molsašuddat+V+IV+Der/NomAct+N+Sg+Gen+Allegro	0,000000
+nálimolsašuddan	nálli+N+Cmp/SgGen+Err/Orth+Cmp#molsašuddat+V+IV+Der/NomAct+N+Sg+Nom	0,000000
+
+nálkor	nálkor+?	inf
+
+námmoaivi	námmoaivi+?	inf
+
+nárku	nárku+?	inf
+
+nárrahallat	nárra+N+Cmp/SgGen+Cmp#hálla+N+Err/Orth-a-á+Pl+Nom	0,000000
+nárrahallat	nárra+N+Cmp/SgGen+Cmp#hálla+N+Err/Orth-a-á+Sg+Acc+PxSg2	0,000000
+nárrahallat	nárra+N+Cmp/SgGen+Cmp#hálla+N+Err/Orth-a-á+Sg+Gen+PxSg2	0,000000
+nárrahallat	nárra+N+Cmp/SgGen+Cmp#hálla+N+Err/Orth-a-á+Sg+Nom+PxSg2	0,000000
+nárrahallat	nárra+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Pl+Nom	0,000000
+nárrahallat	nárra+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Acc+PxSg2	0,000000
+nárrahallat	nárra+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Gen+PxSg2	0,000000
+nárrahallat	nárra+N+Cmp/SgNom+Cmp#hálla+N+Err/Orth-a-á+Sg+Nom+PxSg2	0,000000
+
+nársitnet	nársitnet+?	inf
+
+nárvulit	nárvulit+?	inf
+
+nárvut	nárvut+?	inf
+
+návrat	návrraš+N+Sg+Acc+Err/Orth-nom-acc	0,000000
+návrat	návrraš+N+Sg+Gen+Err/Orth-nom-gen	0,000000
+
+návva	návva+?	inf
+
+neahtastallat	neahtastallat+?	inf
+
+neahtuš	neahtuš+?	inf
+
+neger	neger+?	inf
+
+neutra	neutra+?	inf
+
+neutrona	neutrona+?	inf
+
+niegir	niegir+?	inf
+
+niehkabealli	niehkabealli+?	inf
+
+nieiddahas	nieiddahas+?	inf
+
+nieiddahuoš	nieiddahuoš+?	inf
+
+nierastit	nierastit+?	inf
+
+niestut	niestut+?	inf
+
+niibádit	niibádit+?	inf
+
+niiboagán	niibeboagán+N+Err/Orth+Sg+Nom	0,000000
+
+nildit	nildit+Err/Lex+V+TV+Inf	0,000000
+nildit	nildit+Err/Lex+V+TV+Der/NomAg+N+Pl+Nom	0,000000
+
+nilpi	nilpi+?	inf
+
+nilppas	nilppas+?	inf
+
+nilppehit	nilppehit+?	inf
+
+nirvvádit	nirvvádit+?	inf
+
+niskádit	niskádit+?	inf
+
+nisttihahkes	nisttihahkes+?	inf
+
+nisustit	nisustit+?	inf
+
+njaccagastit	njaccagastit+?	inf
+
+njaddasaddat	njaddasaddat+?	inf
+
+njađa	njađa+?	inf
+
+njađus	njađus+?	inf
+
+njaguštit	njaguštit+Err/Lex+V+TV+Inf	0,000000
+njaguštit	njaguštit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+njahcat	njahcat+?	inf
+
+njahkuhit	njahkuhit+?	inf
+
+njamazahkká	njamazahkká+?	inf
+
+njappagastit	njappagastit+?	inf
+
+njassasit	njassasit+?	inf
+
+njatta	njatta+?	inf
+
+njazagastit	njazagastit+?	inf
+
+njáidát	njáidát+?	inf
+
+njákču	njákču+?	inf
+
+njáŋggomehter	njáŋgu+N+Cmp/SgGen+Cmp#mehter+N+Sg+Nom	0,000000
+
+njávkkiidit	njávkkiidit+?	inf
+
+njávskkohat	njávskkohat+?	inf
+
+njávvaluššat	njávvaluššat+?	inf
+
+njeaccanas	njeaccanas+?	inf
+
+njeaccil	njeaccil+?	inf
+
+njealjátlohjahkásaš	njealjátlohjahkásaš+?	inf
+
+njealjegoantái	njealjegoantái+?	inf
+
+njiđáhallat	njiđáhallat+?	inf
+
+njiessat	njiessat+?	inf
+
+njilkalit	njilkalit+Err/Lex+V+TV+Inf	0,000000
+njilkalit	njilkalit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+njimádit	njimádit+?	inf
+
+njirahat	njirahat+?	inf
+
+njiškkabáddi	njiška+N+Cmp/SgGen+Cmp#báddat+V+IV+Der/NomAg+N+Sg+Acc	0,000000
+njiškkabáddi	njiška+N+Cmp/SgGen+Cmp#báddat+V+IV+Der/NomAg+N+Sg+Gen	0,000000
+njiškkabáddi	njiška+N+Cmp/SgGen+Cmp#báddat+V+IV+Der/NomAg+N+Sg+Nom	0,000000
+njiškkabáddi	njiška+N+Cmp/SgGen+Cmp#báddat+V+IV+PrsPrc	0,000000
+njiškkabáddi	njiška+N+Cmp/SgGen+Cmp#báddi+N+Sg+Nom	0,000000
+
+njivkkas	njivkkas+?	inf
+
+njoađđut	njoađđut+?	inf
+
+njoammelaš	njoammelaš+?	inf
+
+njoaranas	njoaranas+?	inf
+
+njoarostanmuttos	njoarostanmuttus+Err/Orth+Adv	0,000000
+
+njoaškit	njoaškit+?	inf
+
+njoaškkas	njoaškkas+?	inf
+
+njulggosmuvvat	njulggosmuvvat+?	inf
+
+njulgolat	njulgolat+?	inf
+
+njunásii	njunásii+?	inf
+
+njunástit	njunástit+?	inf
+
+njuŋgu	njuŋgu+?	inf
+
+njuohcadit	njuohcadit+?	inf
+
+njuohpahat	njuohpahat+?	inf
+
+njuolalágan	njuolla+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+njuolgadas	njuolgadas+?	inf
+
+njuolggagit	njuolggagit+?	inf
+
+njuolggoflöita	njuolggoflöita+?	inf
+
+njuolggolinnjat	njuolggolinnjat+?	inf
+
+njuorššádit	njuorššádit+?	inf
+
+njuovogazza	njuovvu+N+Cmp/SgGen+Err/Orth+Cmp#gazza+N+Sg+Nom	0,000000
+
+njuvddan	njuvddan+?	inf
+
+noaidivuohta	noaidevuohta+N+Err/Orth+Sg+Nom	0,000000
+
+nođđet	nođđet+?	inf
+
+nonnestit	nonnestit+?	inf
+
+norbmet	norbmet+?	inf
+
+normánni	normánni+?	inf
+
+nubbesadjásaš	nubbi+A+Ord+Cmp/SgNom+Cmp#sadjásaš+N+Sg+Nom	0,000000
+
+nuđasnjunni	nuđasnjunni+?	inf
+
+nuktalus	nuktalus+?	inf
+
+nuorabuš	nuorra+A+Der/Comp+A+Der/Dimin+A+Attr	0,000000
+nuorabuš	nuorra+A+Der/Comp+A+Der/Dimin+A+Sg+Nom	0,000000
+
+nuorbbuhit	nuorbbuhit+?	inf
+
+nuorttabuš	nuorta+N+Der/Comp+A+Der/Dimin+A+Attr	0,000000
+nuorttabuš	nuorta+N+Der/Comp+A+Der/Dimin+A+Sg+Nom	0,000000
+
+nuorttageahči	nuorta+N+Cmp/SgGen+Err/Orth+Cmp#geahči+N+Sg+Nom	0,000000
+nuorttageahči	nuorttageahči+N+Err/Lex+Sg+Nom	0,000000
+
+nuppeláhkaijurddašeaddji	nuppeláhkaijurddašeaddji+?	inf
+
+nušihit	nušihit+?	inf
+
+nuvgá	nuvgá+?	inf
+
+nuvttevahkku	nuvttevahkku+?	inf
+
+oadji	oadji+?	inf
+
+oađeheapme	oađeheapme+?	inf
+
+oađestuhkes	oađestuhkes+?	inf
+
+oahcuhit	oahcuhit+?	inf
+
+oahppobagadal	oahppobagadal+?	inf
+
+oaidnemassii	oaidnimassii+Err/Orth+Adv	0,000000
+
+oainnáldat	oainnáldat+?	inf
+
+oaiválit	oaiválit+?	inf
+
+oaivejuolggat	oaivejuolggat+?	inf
+
+oaiveorohot	oaiveorohot+?	inf
+
+oaivvesisrehket	oaivi+N+Cmp/SgGen+Cmp#siski+N+Cmp/Sh+Err/Orth+Cmp#rehket+N+Sg+Nom	0,000000
+
+oalgálagaid	oalgálagaid+?	inf
+
+oamivánhurskkis	oamivanhurskkis+A+Err/Orth-a-á+Attr	0,000000
+oamivánhurskkis	oamivanhurskkis+A+Err/Orth-a-á+Sg+Nom	0,000000
+
+oanehisoajat	oanehisoajat+?	inf
+
+oappášguovttos	oabbá+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+oappášguovttos	oabbá+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+oappášguovttos	oabbá+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+oappášguovttos	oabbá+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+oappášguovttos	oabbá+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+oappášguovttos	oabbá+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+oappášguovttos	oappáš+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+oappášguovttos	oappáš+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+oappášguovttos	oappáš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+oappášguovttos	oappáš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+oappášguovttos	oappáš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+oappášguovttos	oappáš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+oappášguovttos	oappážat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+oappášguovttos	oappážat+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+oappášguovttos	oappáš guovttos+Err/MissingSpace+N+Coll+Sg+Loc	0,000000
+oappášguovttos	oappáš guovttos+Err/MissingSpace+N+Coll+Sg+Nom	0,000000
+
+oarbma	oarbma+?	inf
+
+oarči	oarči+?	inf
+
+oarjjageahči	oarjjageahči+N+Err/Lex+Sg+Nom	0,000000
+
+oarjjibuš	oarji+N+Der/Comp+A+Der/Dimin+A+Attr	0,000000
+oarjjibuš	oarji+N+Der/Comp+A+Der/Dimin+A+Sg+Nom	0,000000
+
+oarpmeleš	oarpmeležat+N+Sg+Gen+Err/Orth-nom-gen	0,000000
+
+oassestáhtta	oassi+N+Cmp/SgNom+Cmp#stáhta+N+Err/Orth+Sg+Acc	0,000000
+oassestáhtta	oassi+N+Cmp/SgNom+Cmp#stáhta+N+Err/Orth+Sg+Gen	0,000000
+oassestáhtta	oassi+N+Cmp/SgNom+Cmp#stáhta+N+Err/Orth+Sg+Nom	0,000000
+
+oavlloštuvvat	oavlloštuvvat+?	inf
+
+oavlluš	oavlluš+?	inf
+
+oavnjjildit	oavnjjildit+?	inf
+
+oása	oása+?	inf
+
+objektiviteahtta	objektiviteahtta+?	inf
+
+ođahit	ođahit+?	inf
+
+ođastuvvat	ođastuvvat+?	inf
+
+ođđaguoddi	ođas+A+Cmp/Attr+Cmp#guoddit+V+TV+Der/NomAg+N+Sg+Acc	0,000000
+ođđaguoddi	ođas+A+Cmp/Attr+Cmp#guoddit+V+TV+Der/NomAg+N+Sg+Gen	0,000000
+ođđaguoddi	ođas+A+Cmp/Attr+Cmp#guoddit+V+TV+Der/NomAg+N+Sg+Nom	0,000000
+ođđaguoddi	ođas+A+Cmp/Attr+Cmp#guoddit+V+TV+PrsPrc	0,000000
+ođđaguoddi	ođas+A+Cmp/Attr+Cmp#guoddi+N+NomAg+Sg+Acc	0,000000
+ođđaguoddi	ođas+A+Cmp/Attr+Cmp#guoddi+N+NomAg+Sg+Gen	0,000000
+ođđaguoddi	ođas+A+Cmp/Attr+Cmp#guoddi+N+NomAg+Sg+Nom	0,000000
+
+ođđasisatnu	ođđasisatnu+?	inf
+
+ohcalubma	ohca+N+Cmp/SgNom+Cmp#lubma+N+Sg+Nom	0,000000
+
+ohkolahkes	ohkolahkes+?	inf
+
+oho	oho+Interj+Err/Lex	0,000000
+
+ohoi	ohoi+Interj+Err/Lex	0,000000
+
+oidneš	oidneš+?	inf
+
+oktiirehket	oktiirehket+?	inf
+
+olbmobealenoađđi	olmmoš+N+Cmp/SgGen+Cmp#bealli+N+Cmp/SgGen+Cmp#noađđi+N+Sg+Nom	0,000000
+
+olgešbealeolmmoš	olgešbealli+N+Cmp/SgGen+Cmp#olmmoš+N+Sg+Nom	0,000000
+olgešbealeolmmoš	olgeš+A+Cmp/Attr+Cmp#bealli+N+Cmp/SgGen+Cmp#olmmoš+N+Sg+Nom	0,000000
+olgešbealeolmmoš	olgeš+A+Cmp/SgNom+Cmp#bealli+N+Cmp/SgGen+Cmp#olmmoš+N+Sg+Nom	0,000000
+
+olggobealeolmmoš	olggobealli+N+Cmp/SgGen+Cmp#olmmoš+N+Sg+Nom	0,000000
+olggobealeolmmoš	olgu+N+Cmp/SgGen+Cmp#bealli+N+Cmp/SgGen+Cmp#olmmoš+N+Sg+Nom	0,000000
+
+olggosmihtidit	olggosmihtidit+?	inf
+
+olggosváldit	olggosváldit+?	inf
+
+olgguštuvvat	olgguštuvvat+?	inf
+
+olgogieldalaš	olgogieldalaš+?	inf
+
+ollálagaid	ollálagaid+?	inf
+
+ollusat	olus+Pron+Indef+Err/Orth+Pl+Nom	0,000000
+
+omas	omas+?	inf
+
+onalduvvat	onalduvvat+?	inf
+
+onaniija	onaniija+?	inf
+
+opereahtta	opereahtta+?	inf
+
+oppus	oppus+?	inf
+
+oseána	oseána+?	inf
+
+oskooahpahus	oskkuoahpahus+N+Err/Orth-nom-gen+Sg+Nom	0,000000
+oskooahpahus	osku+N+Err/Orth+Cmp/SgNom+Cmp#oahpahus+N+Sg+Nom	0,000000
+
+oválalaš	oválalaš+?	inf
+
+ovccátlohjahkásaš	ovccátlohjahkásaš+?	inf
+
+ovda	ovda+?	inf
+
+ovdanruoktot	ovdan ruoktot+Err/MissingSpace+Adv	0,000000
+
+ovdaromálaš	ovdaromalaš+A+Err/Orth-a-á+Attr	0,000000
+ovdaromálaš	ovdaromalaš+A+Err/Orth-a-á+Sg+Nom	0,000000
+
+ovddageahči	ovddageahči+?	inf
+
+ovddaldas	ovddaldas+?	inf
+
+ovddalhaga	ovddalhaga+?	inf
+
+ovdduštit	ovdduštit+Err/Lex+V+TV+Inf	0,000000
+ovdduštit	ovdduštit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+ovttaanulihtti	ovttaanulihtti+?	inf
+
+ovttagovdosaš	ovttagovdosaš+?	inf
+
+ovttaguvlolaš	ovttaguvlolaš+?	inf
+
+ovttaháltásaš	ovttaháltásaš+?	inf
+
+ovttaláhkai	ovtta ládje+v2+Err/MissingSpace+Adv	0,000000
+
+ovttaláhki	ovttaláhki+?	inf
+
+ovttalávkái	ovttalávkái+?	inf
+
+ovttanassii	ovttanassii+?	inf
+
+ovttanevvot	ovttanevvot+?	inf
+
+ovulašuvdna	ovulašuvdna+?	inf
+
+parasihttet	parasihttet+?	inf
+
+pariteahtta	pariteahtta+?	inf
+
+parotihtta	parotihtta+?	inf
+
+pastilla	pastilla+?	inf
+
+pataljovdna	pataljovdna+?	inf
+
+patehtalaš	patehtalaš+?	inf
+
+pánel	pánel+?	inf
+
+pánter	pánter+?	inf
+
+páraiduvvat	páraiduvvat+?	inf
+
+párralagaid	párralagaid+?	inf
+
+párraluvvat	párraluvvat+?	inf
+
+pássestallat	pássestallat+?	inf
+
+pásset	pásset+?	inf
+
+pelikána	pelikána+?	inf
+
+penis	penis+?	inf
+
+penisilliidna	penisilliidna+?	inf
+
+persilljá	persilljá+?	inf
+
+personifikašuvdna	personifikašuvdna+?	inf
+
+piksel	piksel+?	inf
+
+planeahtta	planeahtta+?	inf
+
+plantáša	plantáša+?	inf
+
+poastadoimmahat	poastadoimmahat+?	inf
+
+polká	polká+?	inf
+
+ponni	ponni+?	inf
+
+populariteahtta	populariteahtta+?	inf
+
+postpositio	postpositio+?	inf
+
+potreahtta	potreahtta+?	inf
+
+práhtet	práhtet+?	inf
+
+premiára	premieara+N+Err/Orth+Sg+Acc	0,000000
+premiára	premieara+N+Err/Orth+Sg+Gen	0,000000
+premiára	premieara+N+Err/Orth+Sg+Nom	0,000000
+
+professuvra	professuvra+?	inf
+
+profiili	profiili+?	inf
+
+projektiila	projektiila+?	inf
+
+promille	promilla+N+Err/Orth+Sg+Acc	0,000000
+promille	promilla+N+Err/Orth+Sg+Gen	0,000000
+promille	promilla+N+Err/Orth+Sg+Nom	0,000000
+
+prosešuvdna	prosešuvdna+?	inf
+
+prospeakta	prospeakta+?	inf
+
+psykiatrista	psykiatrista+?	inf
+
+publihkka	publihkka+?	inf
+
+publisiteahtta	publisiteahtta+?	inf
+
+pudder	pudder+?	inf
+
+punša	punša+?	inf
+
+rađus	rađus+?	inf
+
+rahpa	rahpa+?	inf
+
+rambuvra	rámbuvra+N+Err/Orth-a-á+Sg+Nom	0,000000
+
+raŋgesoahki	raŋgesoahki+?	inf
+
+rationálalaš	rationálalaš+?	inf
+
+ravddasnaga	ravddasnaga+?	inf
+
+ravggahas	ravggahas+?	inf
+
+rábma	rábma+?	inf
+
+ráddelilljá	ráddi+N+Cmp/SgNom+Cmp#lilljá+N+Sg+Nom	0,000000
+
+ráhpadaš	ráhpadaš+?	inf
+
+ráhttudit	ráhttudit+?	inf
+
+ráigánastit	ráigánastit+?	inf
+
+ráikkáskit	ráikkáskit+?	inf
+
+ráikosaddat	ráikosaddat+?	inf
+
+ráikudit	ráikudit+?	inf
+
+ráivva	ráivva+?	inf
+
+ráktet	ráktet+?	inf
+
+rállár	rállár+?	inf
+
+rálledit	rálledit+?	inf
+
+rásehus	rásehus+?	inf
+
+rášen	rášen+?	inf
+
+rátkkohat	rátkkohat+?	inf
+
+readdut	readdut+?	inf
+
+reahcojulggiid	reahcojulggiid+?	inf
+
+reahkka	reahkka+?	inf
+
+reaidagasas	reaidagasas+?	inf
+
+reakkádit	reakkádit+?	inf
+
+reaŋggašguovttos	reaŋga+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+reaŋggašguovttos	reaŋga+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+reaŋggašguovttos	reaŋga+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+reaŋggašguovttos	reaŋga+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+reaŋggašguovttos	reaŋga+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+reaŋggašguovttos	reaŋga+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+reálalaš	reálalaš+?	inf
+
+redjohas	redjohas+?	inf
+
+refleksiivvalaš	refleksiivvalaš+?	inf
+
+reilo	reilo+?	inf
+
+relihkka	relihkka+?	inf
+
+renoliinná	renoliinná+?	inf
+
+repertuára	repertuára+?	inf
+
+repriisa	repriisa+?	inf
+
+republikána	republikána+?	inf
+
+researva	researva+?	inf
+
+restriktiivvalaš	restriktiivvalaš+?	inf
+
+rešissöra	rešissöra+?	inf
+
+rešttodit	rešttodit+?	inf
+
+reumatihkkár	reumatihkkár+?	inf
+
+revolutionára	revolutionára+?	inf
+
+riebagit	riebagit+?	inf
+
+riehkku	riehkku+?	inf
+
+riepmu	riepmu+?	inf
+
+riesaraski	riesaraski+?	inf
+
+riessannáhkkessoadji	riessannáhkkessoadji+?	inf
+
+rietnjut	rietnjut+?	inf
+
+rievddagit	rievddagit+?	inf
+
+rievdut	rievdat+V+IV+Imprt+Pl1+Err/Orth	0,000000
+
+rihppa	rihppa+?	inf
+
+rihppeloddi	rihppeloddi+?	inf
+
+riigáluvvat	riigáluvvat+?	inf
+
+riikkabeahtti	riika+N+Cmp/SgGen+Cmp#beahttit+V+TV+PrsPrc	0,000000
+
+riikkabeakkán	riikkabeakkán+?	inf
+
+riivet	riivet+?	inf
+
+riivva	riivva+?	inf
+
+riŋgal	riŋgal+?	inf
+
+riŋgi	riŋgi+?	inf
+
+risteeadni	risteeadni+?	inf
+
+ristetnešguovttos	ristetnešguovttos+?	inf
+
+rivccidit	rivccidit+?	inf
+
+rivgonjattas	rivgonjattas+?	inf
+
+rivttot	rivttot+?	inf
+
+roaffat	roaffat+?	inf
+
+roaggit	roaggit+?	inf
+
+roahcuvuohta	roahcuvuohta+?	inf
+
+roahkkaruossa	roahkkaruossa+?	inf
+
+roahtogollehit	roahtogollehit+?	inf
+
+roamuštit	roamuštit+?	inf
+
+roapmut	roapmut+?	inf
+
+roavččihit	roavččihit+?	inf
+
+robaguššat	robaguššat+?	inf
+
+rohkadat	rohkadat+?	inf
+
+rohpadit	rohpadit+?	inf
+
+roiggá	roiggá+?	inf
+
+roiskkon	roiskkon+?	inf
+
+romálaš	romálaš+?	inf
+
+roŋgut	roŋgut+?	inf
+
+rosvudeapmi	rosvudit+Err/Lex+V+TV+Der/NomAct+N+Sg+Nom	0,000000
+
+rosvudit	rosvudit+Err/Lex+V+TV+Inf	0,000000
+rosvudit	rosvudit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+rovda	rovda+?	inf
+
+rovvat	rovvat+?	inf
+
+rubba	rubba+?	inf
+
+rufedoarkkas	rufedoarkkas+?	inf
+
+ruggii	ruggii+?	inf
+
+ruividit	ruividit+?	inf
+
+runne	runne+?	inf
+
+ruŋkegáranas	ruŋkegáranas+?	inf
+
+ruohttijuolggat	ruohttijuolggat+?	inf
+
+ruojáskit	ruojáskit+?	inf
+
+ruokŋaluvvat	ruokŋaluvvat+?	inf
+
+ruomuštit	ruomuštit+?	inf
+
+ruosádit	ruosádit+?	inf
+
+ruoski	ruoski+?	inf
+
+ruoskidit	ruoskidit+?	inf
+
+ruotnat	ruotnat+?	inf
+
+ruoŧastit	ruoŧastit+?	inf
+
+ruovdádahttit	ruovdádahttit+?	inf
+
+ruovttohas	ruovttohas+?	inf
+
+ruovttoládje	ruovtto ládje+v1+Err/MissingSpace+Adv	0,000000
+
+ruovttulágan	ruoktu+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+ruovvá	ruovvá+?	inf
+
+ruožaidit	ruožaidit+?	inf
+
+ruppaskit	ruppaskit+?	inf
+
+ruseahtta	ruseahtta+?	inf
+
+rusttastit	rusttastit+?	inf
+
+rušmmastuvvat	rušmmastuvvat+?	inf
+
+ruvdán	ruvdán+?	inf
+
+ruvttogas	ruvttogas+?	inf
+
+ruvži	ruvži+?	inf
+
+röika	röika+?	inf
+
+röntgengovva	röntgengovva+?	inf
+
+sagŋet	sagŋet+?	inf
+
+sahtis	sahtis+?	inf
+
+sajálmahttit	sajálmahttit+?	inf
+
+sajusláhkai	sajus ládje+v2+Err/MissingSpace+Adv	0,000000
+
+sakkástallat	sakkástallat+Err/Lex+V+TV+Inf	0,000000
+
+saláhkka	saláhkka+?	inf
+
+salgadit	salgadit+?	inf
+
+samárialaš	samárialaš+?	inf
+
+sarat	sarat+?	inf
+
+sattastit	sattastit+?	inf
+
+savánna	savánna+?	inf
+
+sáddut	sáddu+N+Sg+Acc+Err/Orth+PxSg2	0,000000
+sáddut	sáddu+N+Sg+Gen+Err/Orth+PxSg2	0,000000
+sáddut	sáddu+N+Sg+Nom+Err/Orth+PxSg2	0,000000
+
+sáhčašit	sáhčašit+?	inf
+
+sáhkár	sáhkár+?	inf
+
+sáhkkiiguššat	sáhkkiiguššat+?	inf
+
+sáhppadas	sáhppadas+?	inf
+
+sáhtteš	sáhtteš+?	inf
+
+sáiral	sáiral+?	inf
+
+sáittelágan	sáiti+N+Cmp/SgGen+Cmp#láhka+N+Sg+Loc+South+Err/Orth	0,000000
+
+sáivalit	sáivalit+?	inf
+
+sákkohit	sákkohit+?	inf
+
+sáltegurka	sálti+N+Cmp/SgNom+Cmp#gurká+N+Err/Orth-a-á+Sg+Nom	0,000000
+sáltegurka	sálttit+N+Cmp/SgNom+Cmp#gurká+N+Err/Orth-a-á+Sg+Nom	0,000000
+
+sáltisis	sáltisis+?	inf
+
+sámilduvvat	sámilduvvat+?	inf
+
+sámilgeardi	sámilgeardi+?	inf
+
+sánelásku	sátni+N+Cmp/SgGen+Cmp#lásku+N+Sg+Nom	0,000000
+
+sánirihkku	sátni+N+Cmp/SgGen+Err/Orth+Cmp#rihkkut+V+TV+PrsPrc	0,000000
+sánirihkku	sátni+N+Cmp/SgGen+Err/Orth+Cmp#rihkku+N+Sg+Nom	0,000000
+
+sátnedirbbot	sátnedirbbot+?	inf
+
+sátnegeaffi	sátnegeaffi+?	inf
+
+sáválaš	sáválaš+?	inf
+
+sávkat	sávkat+?	inf
+
+sávkkaldat	sávkkaldat+?	inf
+
+seabibealli	seabebealli	seabibealli	seabebealli+?	inf
+
+seađahus	seađahus+?	inf
+
+seađasmahttit	seađasmahttit+?	inf
+
+seađđudit	seađđudit+?	inf
+
+seađggahit	seađggahit+?	inf
+
+seahkanupmi	seahkanupmi+?	inf
+
+seaibalit	seaibalit+?	inf
+
+seainnabealle	seainnabealle+?	inf
+
+seainnádat	seainnádat+?	inf
+
+seakŋi	seakŋi+?	inf
+
+sealbut	sealbut+?	inf
+
+sealggabeallai	sealga+N+Cmp/SgGen+Cmp#bealle+N+Sg+Ill+Err/Orth	0,000000
+sealggabeallai	sealggabealle+N+Sg+Ill+Err/Orth	0,000000
+
+sealggahuddat	sealggahuddat+?	inf
+
+sealggebealsárdnut	sealggebealsárdnut+?	inf
+
+sealggeduogáštit	sealggeduogáštit+?	inf
+
+sealggil	sealggil+?	inf
+
+seammaguvllot	seammaguvllot+?	inf
+
+searvádit	searvádit+?	inf
+
+searvvádat	searvvádat+?	inf
+
+seava	seava+?	inf
+
+seavástat	seavástat+?	inf
+
+seavnnjaveaigi	seavnnjaveaigi+N+Err/Lex+Sg+Nom	0,000000
+
+seavnnjáhallat	seavnnjáhallat+?	inf
+
+sebrá	sebrá+?	inf
+
+selegievdni	selegievdni+?	inf
+
+sellulosá	sellulosá+?	inf
+
+selvá	selvá+?	inf
+
+selván	selván+?	inf
+
+semihtalaš	semihtalaš+?	inf
+
+sensationála	sensationála+?	inf
+
+sentimentálalaš	sentimentálalaš+?	inf
+
+sepmošit	sepmošit+?	inf
+
+serviehtta	serviehtta+?	inf
+
+serviiša	serviiša+?	inf
+
+servodahttit	servodahttit+?	inf
+
+sieddu	sieddu+?	inf
+
+sieidná	sieidná+?	inf
+
+sieivvut	sieivvut+?	inf
+
+sierranammasaš	sierranammasaš+?	inf
+
+sierrasearvelaš	sierrasearvelaš+?	inf
+
+siessáhkku	siessáhkku+?	inf
+
+sievá	sievá+?	inf
+
+sihtit	sihtit+Err/Lex+V+TV+Inf	0,000000
+
+siidadit	siidadit+?	inf
+
+iiggát	iiggát+?	inf
+
+siksege	siksege+?	inf
+
+silhguolli	silhguolli+?	inf
+
+silkebadnjejaš	silkebadnjejaš+?	inf
+
+silkelinis	silkelinis+?	inf
+
+silledaddat	silledaddat+?	inf
+
+simmonvahkku	simmonvahkku+?	inf
+
+simsasit	simsasit+?	inf
+
+simssas	simssas+?	inf
+
+simssat	simssat+?	inf
+
+simsu	simsu+?	inf
+
+sirddehahtti	sirddehahtti+?	inf
+
+sirtut	sirtut+?	inf
+
+sisaguolggaid	sisaguolggaid+?	inf
+
+sisbargu	sisbargu+?	inf
+
+sisčáhči	sisčáhči+?	inf
+
+sisgiehtadieigu	sisgiehtadieigu+?	inf
+
+sisgumme	sisgumme+?	inf
+
+sisjávri	sisjávri+?	inf
+
+siskkádus	siskkádus+?	inf
+
+sisluodda	sisluodda+?	inf
+
+sisoassi	sisoassi+?	inf
+
+sisorgána	sisorgána+?	inf
+
+sissadji	sissadji+?	inf
+
+sitkatluvvat	sitkatluvvat+?	inf
+
+sitnočalbmi	sitnu+N+Err/Orth+Cmp/SgNom+Cmp#čalbmat+V+TV+PrsPrc	0,000000
+sitnočalbmi	sitnu+N+Err/Orth+Cmp/SgNom+Cmp#čalbmi+N+Sg+Nom	0,000000
+
+sivddet	sivddet+?	inf
+
+skarkkas	skarkkas+?	inf
+
+skáđistit	skáđistit+?	inf
+
+skáládat	skáládat+?	inf
+
+skálkaruššat	skálkaruššat+?	inf
+
+skámaskas	skámaskas+?	inf
+
+skámaskuddat	skámaskuddat+?	inf
+
+skealččassmáhkka	skealččassmáhkka+?	inf
+
+skearrostallat	skearrostallat+?	inf
+
+skeartnjas	skeartnjas+?	inf
+
+skeartnjistit	skeartnjistit+?	inf
+
+skidnáduvvat	skidnáduvvat+?	inf
+
+skieivut	skieivut+?	inf
+
+skielggádit	skielggádit+?	inf
+
+skierpmat	skierpmat+?	inf
+
+skierrat	skierrat+?	inf
+
+skihpárvuohta	skihpárvuohta+?	inf
+
+skihtarvuohta	skihtarvuohta+?	inf
+
+skiiporaš	skiiporaš+?	inf
+
+skildošit	skildošit+?	inf
+
+skildui	skildui+?	inf
+
+skileduorasat	skile+N+Cmp/SgGen+Cmp#duo+N+Cmp/SgGen+Cmp#rassa+N+Pl+Nom	0,000000
+skileduorasat	skile+N+Cmp/SgGen+Cmp#duo+N+Cmp/SgGen+Cmp#rassa+N+Sg+Acc+PxSg2	0,000000
+skileduorasat	skile+N+Cmp/SgGen+Cmp#duo+N+Cmp/SgGen+Cmp#rassa+N+Sg+Gen+PxSg2	0,000000
+skileduorasat	skile+N+Cmp/SgGen+Cmp#duo+N+Cmp/SgNom+Cmp#rassa+N+Pl+Nom	0,000000
+skileduorasat	skile+N+Cmp/SgGen+Cmp#duo+N+Cmp/SgNom+Cmp#rassa+N+Sg+Acc+PxSg2	0,000000
+skileduorasat	skile+N+Cmp/SgGen+Cmp#duo+N+Cmp/SgNom+Cmp#rassa+N+Sg+Gen+PxSg2	0,000000
+skileduorasat	skile+N+Cmp/SgNom+Cmp#duo+N+Cmp/SgGen+Cmp#rassa+N+Pl+Nom	0,000000
+skileduorasat	skile+N+Cmp/SgNom+Cmp#duo+N+Cmp/SgGen+Cmp#rassa+N+Sg+Acc+PxSg2	0,000000
+skileduorasat	skile+N+Cmp/SgNom+Cmp#duo+N+Cmp/SgGen+Cmp#rassa+N+Sg+Gen+PxSg2	0,000000
+skileduorasat	skile+N+Cmp/SgNom+Cmp#duo+N+Cmp/SgNom+Cmp#rassa+N+Pl+Nom	0,000000
+skileduorasat	skile+N+Cmp/SgNom+Cmp#duo+N+Cmp/SgNom+Cmp#rassa+N+Sg+Acc+PxSg2	0,000000
+skileduorasat	skile+N+Cmp/SgNom+Cmp#duo+N+Cmp/SgNom+Cmp#rassa+N+Sg+Gen+PxSg2	0,000000
+
+skilggiidit	skilggiidit+?	inf
+
+skirasdolla	skirasdolla+?	inf
+
+skitnámuoddá	skitnámuoddá+?	inf
+
+skitsofreniija	skitsofreniija+?	inf
+
+skoahččil	skoahččil+?	inf
+
+skoajálgaddat	skoajálgaddat+?	inf
+
+skoaldadit	skoaldadit+?	inf
+
+skoaldat	skoaldat+?	inf
+
+skoaržalit	skoaržalit+?	inf
+
+skoaržut	skoaržut+?	inf
+
+skoaržžuhančáhci	skoaržžuhančáhci+?	inf
+
+skoaržžuhit	skoaržžuhit+?	inf
+
+skoavdnjalit	skoavdnjalit+?	inf
+
+skoavkkádat	skoavkkádat+?	inf
+
+skoddet	skoddet+?	inf
+
+skovllot	skovllot+?	inf
+
+skuhčasaddat	skuhčasaddat+?	inf
+
+skuhmardit	skuhmardit+?	inf
+
+skuldohus	skuldohus+?	inf
+
+skumardit	skumardit+?	inf
+
+skunjáhallat	skunjáhallat+?	inf
+
+skuonjardit	skuonjardit+?	inf
+
+skuortnistit	skuortnistit+?	inf
+
+skuvlašuvvat	skuvla+N+Cmp/SgNom+Cmp#šuvva+N+Sg+Nom+PxSg2	0,000000
+
+skuvllaalmmái	skuvla+N+Cmp/SgGen+Cmp#almmái+N+Sg+Nom	0,000000
+
+sláva	sláva+?	inf
+
+smadji	smadji+?	inf
+
+smarras	smarras+?	inf
+
+smávástit	smávástit+?	inf
+
+smávilbohccot	smávilbohccot+?	inf
+
+smávilbuvttadeapmi	smávilbuvttadeapmi+?	inf
+
+smávilguolli	smávilguolli+?	inf
+
+smealžu	smealžu+?	inf
+
+smiehtadahkes	smiehtadahkes+?	inf
+
+smievrris	smievrris+?	inf
+
+smiret	smiret+?	inf
+
+smoalddar	smoalddar+?	inf
+
+smokkáskit	smokkáskit+?	inf
+
+smuhččásaddat	smuhččásaddat+?	inf
+
+snahkkut	snahkkut+?	inf
+
+snahpodit	snahpodit+?	inf
+
+snahpput	snahpput+?	inf
+
+snáhppat	snáhppát+Err/Orth-a-á+Adv	0,000000
+
+snáipár	snáipár+?	inf
+
+snealkkastit	snealkkastit+?	inf
+
+sniipasit	sniipasit+?	inf
+
+snobba	snobba+?	inf
+
+snorrasahttit	snorrasahttit+?	inf
+
+snuđohas	snuđohas+?	inf
+
+snuibbagit	snuibbagit+?	inf
+
+snuibbahit	snuibbahit+?	inf
+
+snurgelat	snurgelat+?	inf
+
+snuvri	snuvri+?	inf
+
+soabbát	soabbát+?	inf
+
+soabbegeahčai	soabbegeahčai+?	inf
+
+soaiggas	soaiggas+?	inf
+
+soaiggáhat	soaiggáhat+?	inf
+
+soaittašit	soaittašit+?	inf
+
+soaldnját	soaldnját+?	inf
+
+soalnnjas	soalnnjas+?	inf
+
+soancár	soancár+?	inf
+
+soatkašuvvat	soatkašuvvat+?	inf
+
+soatma	soatma+?	inf
+
+oavllas	oavllas+?	inf
+
+sođget	sođget+?	inf
+
+soidnárastit	soidnárastit+?	inf
+
+sojubohcci	sodju+N+Cmp/SgGen+Cmp#bohcci+N+Sg+Acc	0,000000
+sojubohcci	sodju+N+Cmp/SgGen+Cmp#bohcci+N+Sg+Gen	0,000000
+sojubohcci	sodju+N+Cmp/SgGen+Cmp#bohcci+N+Sg+Nom	0,000000
+
+sokkabealde	sokkabealde+?	inf
+
+sokkabeale	sokkabeale+?	inf
+
+sokkabeallai	sokkabeallai+?	inf
+
+solát	solát+Err/Lex+V+TV+Der/d+V+Ind+Prs+ConNeg	0,000000
+solát	solát+Err/Lex+V+TV+Der/h+V+Ind+Prs+ConNeg	0,000000
+solát	solát+Err/Lex+V+TV+Inf	0,000000
+
+soldadit	soldadit+?	inf
+
+soldat	soldat+?	inf
+
+solddas	solddas+?	inf
+
+sonnagaš	sonnagaš+?	inf
+
+sparggehit	sparggehit+?	inf
+
+spažoaivi	spažoaivi+?	inf
+
+spáhkkil	spáhkkil+?	inf
+
+spáhppal	spáhppal+?	inf
+
+spáita	spáita+?	inf
+
+spálládat	spálládat+?	inf
+
+spálžeoaivi	spálžeoaivi+?	inf
+
+spánžát	spánžát+?	inf
+
+spánžžas	spánžžas+?	inf
+
+spártalaš	spártalaš+?	inf
+
+spásma	spásma+?	inf
+
+specce	specce+?	inf
+
+spedisuvdna	spedisuvdna+?	inf
+
+speidár	speidár+?	inf
+
+spekulánta	spekulánta+?	inf
+
+spiddestat	spiddestat+?	inf
+
+spiegadit	spiegadit+?	inf
+
+spihkodahkes	spihkodahkes+?	inf
+
+spiigu	spiigu+?	inf
+
+spiigudit	spiigudit+?	inf
+
+spinjádit	spinjádit+?	inf
+
+spiŋggár	spiŋggár+?	inf
+
+spionáša	spionáša+?	inf
+
+spiral	spiral+?	inf
+
+spissá	spissá+?	inf
+
+spitnjalahttit	spitnjalahttit+?	inf
+
+spizzalit	spizzalit+?	inf
+
+spoatnaluvvat	spoatnaluvvat+?	inf
+
+spoava	spoava+?	inf
+
+spubmát	spubmát+?	inf
+
+spuccehit	spuccehit+?	inf
+
+sreaŋggár	sreaŋggár+?	inf
+
+stadiovdna	stadiovdna+?	inf
+
+statistihkket	statistihkket+?	inf
+
+stavval	stavval+?	inf
+
+stáhtta	stáhta+N+Err/Orth+Sg+Acc	0,000000
+stáhtta	stáhta+N+Err/Orth+Sg+Gen	0,000000
+stáhtta	stáhta+N+Err/Orth+Sg+Nom	0,000000
+
+stálogirjjat	stálogirjjat+?	inf
+
+stámpput	stámpput+?	inf
+
+stámpu	stámpu+?	inf
+
+steahppa	steahppa+?	inf
+
+steaŋga	steaŋga+?	inf
+
+steaŋggas	steaŋggas+?	inf
+
+stearcát	stearcát+?	inf
+
+stearrat	stearrat+?	inf
+
+steliriseret	steliriseret+?	inf
+
+stoahkka	stoahkka+?	inf
+
+stoaikkas	stoaikkas+?	inf
+
+stoavkkus	stoavkkus+?	inf
+
+stohkan	stohkka+N+Sg+Loc+South+Err/Orth	0,000000
+
+stolkkihit	stolkkihit+Err/Lex+V+TV+Inf	0,000000
+stolkkihit	stolkkihit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+stravdnji	stravdnji+?	inf
+
+stravnnjas	stravnnjas+?	inf
+
+streassaluvvat	streassaluvvat+?	inf
+
+strukturalista	strukturalista+?	inf
+
+strukturálalaš	strukturálalaš+?	inf
+
+stryhket	stryhket+?	inf
+
+stubbu	stubbu+?	inf
+
+stuerta	stuerta+?	inf
+
+stuhket	stuhket+?	inf
+
+stulaidit	stulaidit+?	inf
+
+stuorástahkes	stuorástahkes+?	inf
+
+stuordoaibma	stuoris+A+Err/Orth+Cmp/Attr+Cmp#doaibma+N+Sg+Nom	0,000000
+
+stuorisstuoribun	stuorisstuoribun+?	inf
+
+stuorradagolaš	stuoris+A+Cmp/Attr+Cmp#dahku+N+Der/lasj+A+Attr	0,000000
+stuorradagolaš	stuoris+A+Cmp/Attr+Cmp#dahku+N+Der/lasj+A+Sg+Nom	0,000000
+
+sturjjas	sturjjas+?	inf
+
+sturjjár	sturjjár+?	inf
+
+suodjalusdepartementa	suodjalus+N+Cmp/SgGen+Cmp#departemeanta+N+Err/Orth+Sg+Nom	0,000000
+suodjalusdepartementa	suodjalus+N+Cmp/SgNom+Cmp#departemeanta+N+Err/Orth+Sg+Nom	0,000000
+
+suohker	suohker+?	inf
+
+suoidnečođgi	suoidnečođgi+?	inf
+
+suolggus	suolggus+?	inf
+
+suollebivdi	suollebivdi+?	inf
+
+suollebivdu	suollebivdu+?	inf
+
+suolojeaddjái	suolojeaddjái+?	inf
+
+suoma-ugralaš	suomaugralaš+A+Err/Orth+Attr	0,000000
+suoma-ugralaš	suomaugralaš+A+Err/Orth+Sg+Nom	0,000000
+
+suontidit	suontidit+?	inf
+
+suorán	suorán+?	inf
+
+suoránastit	suoránastit+Err/Lex+V+TV+Inf	0,000000
+suoránastit	suoránastit+Err/Lex+V+TV+Der/NomAg+N+Pl+Nom	0,000000
+
+suostuluvvat	suostuluvvat+?	inf
+
+uovvái	uovvái+?	inf
+
+supmu	supmu+?	inf
+
+surpá	surpá+?	inf
+
+susttohit	susttohit+?	inf
+
+sutke	sutke+?	inf
+
+sutna	sutna+?	inf
+
+suttesvuostá	suttesvuostá+?	inf
+
+suvdalit	suvdalit+?	inf
+
+sylinder	sylinder+?	inf
+
+sylinderháhtta	sylinderháhtta+?	inf
+
+sylindermáhtu	sylindermáhtu+?	inf
+
+sympáhtalaš	sympáhtalaš+?	inf
+
+šalasmahttit	šalasmahttit+?	inf
+
+šaldet	šaldet+?	inf
+
+šállosit	šállošit+Err/Orth+V+TV+Inf	0,000000
+šállosit	šállošit+Err/Orth+V+TV+Ind+Prs+Pl1	0,000000
+šállosit	šállošit+Err/Orth+V+TV+Ind+Prs+Pl3	0,000000
+šállosit	šállošit+Err/Orth+V+TV+Ind+Prt+Sg2	0,000000
+
+šeaffastallat	šeaffastallat+?	inf
+
+šearčut	šearčut+?	inf
+
+šearralahttit	šearralahttit+?	inf
+
+šelea	šelea+?	inf
+
+šieđvudit	šieđvudit+?	inf
+
+šieđvut	šieđvut+?	inf
+
+šieđvvas	šieđvvas+?	inf
+
+šieđvvidit	šieđvvidit+?	inf
+
+šiegudit	šiegudit+?	inf
+
+šikhuvssa	šikhuvssa+?	inf
+
+šilljobarut	šilljobarut+?	inf
+
+šilljoduoddil	šilljoduoddil+?	inf
+
+šlabbi	šlabbi+?	inf
+
+šlakteriija	šlakteriija+N+Err/Lex+Sg+Acc	0,000000
+šlakteriija	šlakteriija+N+Err/Lex+Sg+Gen	0,000000
+šlakteriija	šlakteriija+N+Err/Lex+Sg+Nom	0,000000
+
+šlábmii	šlábmii+?	inf
+
+šlárvaluvvat	šlárvaluvvat+?	inf
+
+šleaččas	šleaččas+?	inf
+
+šleađgadit	šleađgadit+?	inf
+
+šleađgit	šleađgit+?	inf
+
+šleaipi	šleaipi+?	inf
+
+šleakčáhallat	šleakčáhallat+?	inf
+
+šleakčulit	šleakčulit+?	inf
+
+šleaŋganit	šleaŋganit+?	inf
+
+šleaŋgudit	šleaŋgudit+?	inf
+
+šleavččagit	šleavččagit+?	inf
+
+šleavččas	šleavččas+?	inf
+
+šleavččuhit	šleavččuhit+?	inf
+
+šleažži	šleažži+?	inf
+
+šleŋgge	šleŋgge+?	inf
+
+šlimppastat	šlimpá+N+Err/Orth-a-á+Sg+Loc+PxSg2	0,000000
+
+šlinccuhit	šlinccuhit+?	inf
+
+šlinci	šlinci+?	inf
+
+šliŋggastit	šliŋggastit+?	inf
+
+šliret	šliret+?	inf
+
+šlivgge	šlivgge+?	inf
+
+šloaipi	šloaipi+?	inf
+
+šloaippas	šloaippas+?	inf
+
+šloaippuhit	šloaippuhit+?	inf
+
+šloanccagit	šloanccagit+?	inf
+
+šloancut	šloancut+?	inf
+
+šloavggas	šloavggas+?	inf
+
+šlubboaivi	šlubb'oaivi+N+Err/Orth+Sg+Nom	0,000000
+
+šlubboaivvat	šlubboaivvat+?	inf
+
+šluččuhus	šluččuhus+?	inf
+
+šluhpa	šluhpa+?	inf
+
+šluppohastit	šluppohastit+?	inf
+
+šlurbbas	šlurbbas+?	inf
+
+šlurbbuhit	šlurbbuhit+?	inf
+
+šluvgasaddat	šluvgasaddat+?	inf
+
+šnjilžoborgi	šnjilžoborgi+?	inf
+
+šnjuohpardit	šnjuohpardit+?	inf
+
+šoaládat	šoaládat+?	inf
+
+šođbu	šođbu+?	inf
+
+šolven	šolven+?	inf
+
+šorda	šorda+?	inf
+
+šuhčut	šuhčut+?	inf
+
+šuhpihit	šuhpihit+?	inf
+
+šuoibmut	šuoibmut+?	inf
+
+šuokkastit	šuokkastit+?	inf
+
+šurgalit	šurgalit+?	inf
+
+šurihit	šurihit+?	inf
+
+táhkka	táhkka+?	inf
+
+táŋgu	táŋgu+?	inf
+
+tearen	tearen+?	inf
+
+tehppen	tehppen+?	inf
+
+telegrafista	telegrafista+?	inf
+
+teleskohppa	teleskohppa+?	inf
+
+tempo	tempo+?	inf
+
+tenná	tenná+?	inf
+
+tenor	tenor+?	inf
+
+termostáhtta	termostáhtta+?	inf
+
+testamenta	testameanta+N+Err/Orth+Sg+Nom	0,000000
+
+tetánus	tetánus+?	inf
+
+toffel	toffel+?	inf
+
+tortá	tortá+?	inf
+
+traditionála	traditionála+?	inf
+
+tragihkka	tragihkka+?	inf
+
+tráiler	tráiler+?	inf
+
+trimma	trimma+?	inf
+
+truvdna	truvdna+?	inf
+
+töija	töija+?	inf
+
+udnokuššat	udnokuššat+?	inf
+
+ufiddin	ufiddin+?	inf
+
+uhcádus	uhcádus+?	inf
+
+uhrolaš	uhrolaš+?	inf
+
+uhter	uhter+?	inf
+
+ulládit	ulládit+?	inf
+
+umaidit	umaidit+?	inf
+
+unahuvvat	unni+A+Cmp/Attr+Cmp#huvva+N+Sg+Nom+PxSg2	0,000000
+
+unifoarbma	unifoarbma+?	inf
+
+unsa	unsa+?	inf
+
+urbbiidit	urbbiidit+?	inf
+
+urbidit	urbidit+?	inf
+
+urmáhkar	urmáhkar+?	inf
+
+uspar	uspar+?	inf
+
+uvhnnádat	uvhnnádat+?	inf
+
+uvjalinis	uvjalinis+?	inf
+
+uvllurássi	uvlu+N+Cmp/SgGen+Err/Orth+Cmp#rássat+V+TV+PrsPrc	0,000000
+uvllurássi	uvlu+N+Cmp/SgGen+Err/Orth+Cmp#rássi+N+Sg+Nom	0,000000
+uvllurássi	uvllorássi+N+Err/Orth+Sg+Nom	0,000000
+
+uvssahat	uvssahat+?	inf
+
+uvulára	uvulára+?	inf
+
+vadjáluhkes	vadjáluhkes+?	inf
+
+vagina	vagina+?	inf
+
+vaginabaksamat	vaginabaksamat+?	inf
+
+valgut	valgut+?	inf
+
+valvat	valvat+?	inf
+
+vanilljá	vanilljá+?	inf
+
+vasmmuhit	vasmmuhit+?	inf
+
+vassot	vassot+?	inf
+
+vašástit	vašástit+?	inf
+
+vatnil	vatnil+?	inf
+
+vavžulit	vavžulit+?	inf
+
+vavžut	vavžut+?	inf
+
+váccáskit	váccáskit+?	inf
+
+váččástallat	váččástallat+?	inf
+
+váddolassi	váddu+N+Cmp/SgNom+Cmp#lassi+N+Sg+Nom	0,000000
+
+vádjaguššat	vádjaguššat+?	inf
+
+váibbihit	váibbihit+?	inf
+
+váibohallat	váibohallat+?	inf
+
+váimmovuođus	váibmu+N+Cmp/SgGen+Cmp#vuođus+N+Sg+Nom	0,000000
+váimmovuođus	váibmu+N+Cmp/SgGen+Cmp#vuođđu+N+Sg+Loc	0,000000
+váimmovuođus	váibmu+N+Cmp/SgGen+Cmp#vuođđu+N+Sg+Acc+PxSg3	0,000000
+váimmovuođus	váibmu+N+Cmp/SgGen+Cmp#vuođđu+N+Sg+Gen+PxSg3	0,000000
+
+váinnehaš	váinnehaš+?	inf
+
+váinnuhaš	váinnuhaš+?	inf
+
+váivveara	váivveara+?	inf
+
+váivveara	váivveara+?	inf
+
+váksunpolitiija	váksunpolitiija+?	inf
+
+váktil	váktil+?	inf
+
+váldopersovna	váldopersovna+?	inf
+
+vámpat	vámpat+?	inf
+
+vámpidit	vámpidit+?	inf
+
+vánhemahtes	vánhemahtes+?	inf
+
+vánhemahttá	vánhemahttá+?	inf
+
+vánhemastalit	vánhemastalit+?	inf
+
+vánhenguovttos	váhnen+v2+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vánhenguovttos	váhnen+v2+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+vánhenguovttos	váhnen+v2+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vánhenguovttos	váhnen+v2+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+vánhenguovttos	vánhen guovttos+Err/MissingSpace+N+Coll+Sg+Loc	0,000000
+vánhenguovttos	vánhen guovttos+Err/MissingSpace+N+Coll+Sg+Nom	0,000000
+
+vánhurskkisindahkkojupmi	vánhurskkisindahkkojupmi+?	inf
+
+vánimus	vánimus+?	inf
+
+várdi	várdi+?	inf
+
+várgu	várgu+?	inf
+
+várjjagaštit	várjjagaštit+?	inf
+
+vásttudovdu	vástu+N+Cmp/SgGen+Cmp#dovdu+N+Sg+Nom	0,000000
+
+vávlloheargi	vávlu+N+Cmp/SgGen+Cmp#heargi+N+Sg+Nom	0,000000
+
+veahkájolaš	veahkájolaš+?	inf
+
+veahttasaddat	veahttasaddat+?	inf
+
+veaisenii	veaisenii+?	inf
+
+vealggivuloš	vealgi+N+Cmp/SgGen+Err/Orth+Cmp#vuloš+N+Sg+Acc+Err/Orth-nom-acc	0,000000
+vealggivuloš	vealgi+N+Cmp/SgGen+Err/Orth+Cmp#vuloš+N+Sg+Gen+Err/Orth-nom-gen	0,000000
+vealggivuloš	vealgi+N+Cmp/SgGen+Err/Orth+Cmp#vuloš+N+Sg+Nom	0,000000
+
+vealit	vealit+?	inf
+
+vealsut	vealsut+?	inf
+
+vealtadahkes	vealtadahkes+?	inf
+
+veanzzuhit	veanzzuhit+?	inf
+
+veaŋŋela	veaŋŋela+?	inf
+
+veasttamus	veasttamus+?	inf
+
+veasttamusas	veasttamusas+?	inf
+
+veasttamussii	veasttamussii+?	inf
+
+veaššat	veaššat+?	inf
+
+veattet	veattet+?	inf
+
+vedjor	vedjor+?	inf
+
+vegána	vegána+?	inf
+
+vegetarista	vegetarista+?	inf
+
+vehkosii	vehkosii+?	inf
+
+velára	velára+?	inf
+
+velehit	velehit+Err/Lex+V+IV+Inf	0,000000
+velehit	velehit+Err/Lex+V+IV+Ind+Prs+Pl3	0,000000
+
+veneralaš	veneralaš+?	inf
+
+vepselaš	vepsalaš+A+Err/Orth+Attr	0,000000
+vepselaš	vepsalaš+A+Err/Orth+Sg+Nom	0,000000
+
+verremus	verremus+?	inf
+
+verret	vearrái+A+Der/Comp+A+Attr+Err/Orth	0,000000
+verret	vearrái+A+Der/Comp+A+Sg+Nom+Err/Orth	0,000000
+
+vesábohttu	vesá+N+Cmp/SgGen+Err/Orth+Cmp#bohttu+N+Sg+Nom	0,000000
+vesábohttu	vesá+N+Cmp/SgGen+Cmp#bohttu+N+Sg+Nom	0,000000
+vesábohttu	vesá+N+Cmp/SgNom+Cmp#bohttu+N+Sg+Nom	0,000000
+
+veterinára	veterinára+?	inf
+
+vidnjet	vidnjet+?	inf
+
+viđádastit	viđádastit+?	inf
+
+viehpat	viehpat+?	inf
+
+vieksádat	vieksádat+?	inf
+
+viellái	viellái+?	inf
+
+vielljaveardásaččat	vielljaveardásaččat+?	inf
+
+vielljaveardásaš	vielljaveardásaš+?	inf
+
+vierrásiidlegiovdna	vierrásiidlegiovdna+?	inf
+
+viessagaikun	viesas+A+Cmp/Attr+Cmp#gaikut+V+TV+Der/NomAg+N+Ess	0,000000
+viessagaikun	viesas+A+Cmp/Attr+Cmp#gaikut+V+TV+Der/NomAg+N+Sg+Loc+South+Err/Orth	0,000000
+viessagaikun	viesas+A+Cmp/Attr+Cmp#gaikut+V+TV+Der/NomAct+N+Sg+Gen+Allegro	0,000000
+viessagaikun	viesas+A+Cmp/Attr+Cmp#gaikut+V+TV+Der/NomAct+N+Sg+Nom	0,000000
+
+vihildit	vihildit+?	inf
+
+vihkelassi	vihki+N+Cmp/SgNom+Cmp#lassi+N+Sg+Nom	0,000000
+
+vihkolaš	vihkolaš+?	inf
+
+viinnastallat	viinnastallat+?	inf
+
+viippahat	viippahat+?	inf
+
+vikariáhtta	vikariáhtta+?	inf
+
+villaluvvat	villaluvvat+?	inf
+
+villavuodjin	villas+A+Cmp/Attr+Cmp#vuodjit+V+TV+Der/NomAct+N+Sg+Gen+Allegro	0,000000
+villavuodjin	villas+A+Cmp/Attr+Cmp#vuodjit+V+TV+Der/NomAct+N+Sg+Nom	0,000000
+villavuodjin	villas+A+Cmp/Attr+Cmp#vuodjin+N+Sg+Gen+Allegro	0,000000
+villavuodjin	villas+A+Cmp/Attr+Cmp#vuodjin+N+Sg+Nom	0,000000
+
+virggisdoaibmi	virggisdoaibmi+?	inf
+
+virggohallat	virggohallat+?	inf
+
+virgidit	virgidit+?	inf
+
+virsa	virsa+?	inf
+
+višaldahttit	višaldahttit+?	inf
+
+vivašguovttos	vivva+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vivašguovttos	vivva+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+vivašguovttos	vivva+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vivašguovttos	vivva+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+vivašguovttos	vivva+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vivašguovttos	vivva+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+vudjogasas	vudjogasas+?	inf
+
+vudneš	vudneš+?	inf
+
+vuhtohallalas	vuohttut+V+TV+Der/halla+V+Der/las+A+Attr	0,000000
+vuhtohallalas	vuohttut+V+TV+Der/halla+V+Der/las+A+Sg+Nom	0,000000
+
+vuigetmeahttun	vuiget+V+TV+Der/d+V+Der/meahttun+A+Attr	0,000000
+vuigetmeahttun	vuiget+V+TV+Der/d+V+Der/meahttun+A+Sg+Nom	0,000000
+vuigetmeahttun	vuiget+V+TV+Der/h+V+Der/meahttun+A+Attr	0,000000
+vuigetmeahttun	vuiget+V+TV+Der/h+V+Der/meahttun+A+Sg+Nom	0,000000
+
+vuiteš	vuiteš+?	inf
+
+vuittohallat	vuittohallat+?	inf
+
+vukšui	vukšui+?	inf
+
+vullešvahkku	vullešvahkku+?	inf
+
+vuođđoaidnu	vuođđoaidnu+?	inf
+
+vuogeheapmi	vuohki+N+Der/Car+A+Sg+Nom+Err/Orth	0,000000
+vuogeheapmi	vuogeheapme+A+Sg+Nom+Err/Orth	0,000000
+
+vuogehit	vuogehit+?	inf
+
+vuohkádallat	vuohkádallat+?	inf
+
+vuohkádit	vuohkádit+?	inf
+
+vuohpašguovttos	vuohppa+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vuohpašguovttos	vuohppa+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+vuohpašguovttos	vuohppa+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vuohpašguovttos	vuohppa+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+vuohpašguovttos	vuohppa+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vuohpašguovttos	vuohppa+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+vuohpašguovttos	vuohpaš+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vuohpašguovttos	vuohpaš+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+vuohpašguovttos	vuohpaš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vuohpašguovttos	vuohpaš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+vuohpašguovttos	vuohpaš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vuohpašguovttos	vuohpaš+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+vuohpádit	vuohpádit+Err/Lex+V+TV+Inf	0,000000
+vuohpádit	vuohpádit+Err/Lex+V+TV+Ind+Prs+Pl3	0,000000
+
+vuoidnit	vuoidnit+?	inf
+
+vuoigatvuođaheapme	vuoigatvuođaheapme+?	inf
+
+vuoiggabut	vuoiggabut+?	inf
+
+vuoiŋŋádit	vuoiŋŋádit+?	inf
+
+vuoiŋŋádus	vuoiŋŋádus+?	inf
+
+vuoitosihkkar	vuoitosihkkar+?	inf
+
+vuoittáhahttit	vuoittáhahttit+?	inf
+
+vuojáskit	vuojáskit+?	inf
+
+vuojiheapme	vuojiheapme+?	inf
+
+vuoktagoikkár	vuoktagoikkár+N+Err/Lex+Sg+Nom	0,000000
+
+vuolásteaddji	vuolásteaddji+?	inf
+
+vuolástit	vuolástit+?	inf
+
+vuolgát	vuolgát+?	inf
+
+vuolildus	vuolildus+?	inf
+
+vuoljus	vuoljus+?	inf
+
+vuollastit	vuollastit+?	inf
+
+vuollebázalaš	vuollebázalaš+?	inf
+
+vuollit	vuollat+V+TV+Imprt+Pl2+Err/Orth	0,000000
+
+vuolosdávda	vuolosdávda+?	inf
+
+vuolosrátnu	vuolosrátnu+?	inf
+
+vuolosváldi	vuolosváldi+?	inf
+
+vuortnohit	vuortnohit+?	inf
+
+vuostákáffe	vuostákáffe+?	inf
+
+vuostániibi	vuostániibi+?	inf
+
+vuosttasluohkkálaš	vuosttasluohkkálaš+?	inf
+
+vuosttasriegádan	vuosttasriegádan+?	inf
+
+vuotnámašguovttos	vuoni+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vuotnámašguovttos	vuoni+N+Der/Dimin+N+Cmp/SgGen+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+vuotnámašguovttos	vuoni+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Loc	0,000000
+vuotnámašguovttos	vuoni+N+Der/Dimin+N+Cmp/SgNom+Cmp#guovttos+N+Coll+Sg+Nom	0,000000
+
+vuovddálmasat	vuovddálmasat+?	inf
+
+vuovdinláhkai	vuovdin ládje+v2+Err/MissingSpace+Adv	0,000000
+
+vuovssanáhkki	vuoksa+N+Cmp/SgGen+Cmp#náhkki+N+Sg+Nom	0,000000
+
+vuovttaiduhttit	vuovttaiduhttit+?	inf
+
+vuovttaiduvvat	vuovttaiduvvat+?	inf
+
