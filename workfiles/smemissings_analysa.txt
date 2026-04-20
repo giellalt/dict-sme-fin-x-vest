@@ -6012,7 +6012,7 @@ váksunpolitiija	váksunpolitiija+?	inf
 
 váktil	váktil+?	inf
 
-váldopersovna	váldopersovna+?	inf
+váldopersovna	váldopersovna+?	inf OBS váldopersovdna
 
 vámpat	vámpat+?	inf
 
