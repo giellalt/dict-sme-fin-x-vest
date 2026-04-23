@@ -98,14 +98,20 @@ def extract_translations_and_examples(line):
     # Extract translation and example part
     tr_and_ex = re.sub("^.*</strong>", "", line).replace("</p>", "").strip()
     mgs = []
-    for mg in tr_and_ex.split(";"):
+    # Split by ';', but consider that sometimes ',' is instead used before <em>
+    for mg in re.split(";|, <|  <", tr_and_ex):
+        if mg.startswith("em>"):
+            mg = "<" + mg
         if mg.strip().startswith("<em>"):
             # Treat as examples connected to previous mg
             xgs = extract_examples(mg)
 
             try:
                 last_mg = mgs[-1]
-                last_mg["xgs"] = xgs
+                if last_mg["xgs"] is not None:
+                    last_mg["xgs"].extend(xgs)
+                else:
+                    last_mg["xgs"] = xgs
                 mgs[-1] = last_mg
             except IndexError:
                 print(f"no corresponding mg for {xgs}")
@@ -153,7 +159,7 @@ def add_entry(root, lemma: str, translations_and_examples: list):
                 xg = SubElement(mg, "xg")
                 x = SubElement(xg, "x")
                 x.text = ex["x"]
-                xt = SubElement(mg, "xt")
+                xt = SubElement(xg, "xt")
                 xt.text = ex["xt"]
 
             
