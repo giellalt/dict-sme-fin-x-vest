@@ -118,13 +118,45 @@ def extract_translations_and_examples(line):
                 "geo": geo,
                 "gramm": gramm,
                 "restr": restr,
+                "xgs": None
             })
     
     return(mgs)
 
 
 def add_entry(root, lemma: str, translations_and_examples: list):
-    pass
+    """Create xml nodes for dictionary entry and insert into tree"""
+    e = SubElement(root, "e")
+    
+    lg = SubElement(e, "lg")
+    l = SubElement(lg, "l")
+    l.text = lemma
+
+    for mg_dict in translations_and_examples:
+        mg = SubElement(e, "mg")
+        tg = SubElement(mg, "tg")
+        tg.set('{http://www.w3.org/XML/1998/namespace}lang', "fin")
+        if mg_dict["restr"] is not None:
+            re = SubElement(mg, "re")
+            re.text = mg_dict["restr"]
+        if mg_dict["geo"] is not None:
+            geo = SubElement(mg, "geo")
+            geo.text = mg_dict["geo"]
+        if mg_dict["gramm"] is not None:
+            gramm = SubElement(mg, "gramm")
+            gramm.text = mg_dict["gramm"]
+        for t_text in mg_dict["ts"]:
+            t = SubElement(tg, "t")
+            t.text = t_text
+        if mg_dict["xgs"] is not None:
+            for ex in mg_dict["xgs"]:
+                xg = SubElement(mg, "xg")
+                x = SubElement(xg, "x")
+                x.text = ex["x"]
+                xt = SubElement(mg, "xt")
+                xt.text = ex["xt"]
+
+            
 
 
 def add_entries(root: Element, line: str):
