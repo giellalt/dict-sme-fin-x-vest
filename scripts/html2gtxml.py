@@ -22,15 +22,20 @@ def prettyprint(element, **kwargs):
     print(xml.decode(), end='')
 
 
-def clean_text(text: str):
+def clean_lemma_text(text: str):
     """Remove ´, ~, text within parentheses and trailing/leading whitespace"""
     return re.sub("´|~|[(][^)]*[)]", "", text).strip()
+
+
+def clean_content_text(text: str):
+    """Remove ´, trailing/leading whitespace and trailing commas."""
+    return re.sub(",$", "", text.replace("´", "").strip())
 
 
 def insert_lemmas(lemmaList: list, lemmaText: str):
     """Split lemma text and insert lemmas into lemma list"""
     lemmas = re.split(', | ~ ', lemmaText)
-    lemmaList.extend([clean_text(lemma) for lemma in lemmas])
+    lemmaList.extend([clean_lemma_text(lemma) for lemma in lemmas])
 
 
 def create_lemma_list(tree):
@@ -45,20 +50,89 @@ def create_lemma_list(tree):
 
     return lemmaList
 
-def extract_translations_and_examples(tree):
-    pass
+def extract_translations(mg):
+    ts = []
+    geo = gramm = restr = None
+    for t in mg.split(","):
+        t = t.strip()
+        # Look for and eat country
+        if match := re.match("^[(](R|S|N)[)]", t):
+            geo = re.sub("[()]", "", match.group(0))
+            t = re.sub("^[(](R|S|N)[)]", "", t)
+        # Remove POS or similar
+        t = re.sub("^[(][^)]*[.][)]", "", t).strip()
+        # Look for and eat grammar info
+        if match := re.match("^[(][^)]*[)]", t):
+            gramm = re.sub("[()]", "", match.group(0))
+            t = re.sub("^[(][^)]*[)]", "", t)
+        # Extract text before parenthesis and add as t
+        ts.append(clean_content_text(re.match("^[^(]*", t).group(0)))
+        t = re.sub("^[^(]*", "", t)
+        # Look for and save restr
+        if match := re.match("^[(].*", t):
+            restr = re.sub("[()]", "", match.group(0))
+    
+    return (ts, geo, gramm, restr)
+
+def extract_examples(mg):
+    xgs = []
+    x = xt = None
+    for xg in mg.split("<em>"):
+        if xg.strip() == "":
+            continue
+        # Look for and eat example
+        if match := re.match("^.*</em>", xg):
+            x = clean_content_text(re.sub("<[^>]*>", "", match.group(0)))
+            xg = re.sub("^.*</em>", "", xg)
+        # Save example translation
+        xt = clean_content_text(xg)
+        xgs.append({
+            "x": x,
+            "xt": xt,
+        })
+        x = xt = None
+
+    return xgs
+
+def extract_translations_and_examples(line):
+    # Extract translation and example part
+    tr_and_ex = re.sub("^.*</strong>", "", line).replace("</p>", "").strip()
+    mgs = []
+    for mg in tr_and_ex.split(";"):
+        if mg.strip().startswith("<em>"):
+            # Treat as examples connected to previous mg
+            xgs = extract_examples(mg)
+
+            try:
+                last_mg = mgs[-1]
+                last_mg["xgs"] = xgs
+                mgs[-1] = last_mg
+            except IndexError:
+                print(f"no corresponding mg for {xgs}")
+        else:
+            # Treat as translation
+            (ts, geo, gramm, restr) = extract_translations(mg)
+
+            mgs.append({
+                "ts": ts,
+                "geo": geo,
+                "gramm": gramm,
+                "restr": restr,
+            })
+    
+    return(mgs)
 
 
-def add_entry(lemma: str, translations_and_examples):
+def add_entry(root, lemma: str, translations_and_examples: list):
     pass
 
 
 def add_entries(root: Element, line: str):
     tree = fromstring(line)
     lemmaList = create_lemma_list(tree)
-    translations_and_examples = extract_translations_and_examples(tree)
+    translations_and_examples = extract_translations_and_examples(line)
     for lemma in lemmaList:
-        add_entry(lemma, translations_and_examples)
+        add_entry(root, lemma, translations_and_examples)
 
 
 def lines_to_xml_bytestring(lines):
