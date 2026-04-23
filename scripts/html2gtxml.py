@@ -37,8 +37,29 @@ def insert_lemmas(lemmaList: list, lemmaText: str):
     lemmas = re.split(', | ~ ', lemmaText)
     lemmaList.extend([clean_lemma_text(lemma) for lemma in lemmas])
 
+def get_pos_from_fst(lemma: str):
+    pass
 
-def create_lemma_list(tree):
+pos_dict = {
+    "adv.": "Adv",
+    "adj.": "A",
+    "interj.": "Interj",
+    "konj.": "CC",
+    "l.part.": "Pcle",
+    "part.": "Pcle",
+    "pp.": "Po",
+    "subst.": "N",
+}
+
+def translate_pos(pos: str):
+    try:
+        return pos_dict[pos]
+    except KeyError:
+        return pos
+
+def create_lemma_list(line):
+    tree = fromstring(line)
+
     lemmaList = []
 
     lemmas = tree.xpath("strong")
@@ -48,7 +69,12 @@ def create_lemma_list(tree):
     # Remove empty lemmas
     lemmaList = [lemma for lemma in lemmaList if lemma != ""]
 
-    return lemmaList
+    pos = None
+    if match := re.search("</strong> *[(](a./s|adj|adv|interj|konj|l.part|part|pp|subst)[.][)]", line):
+        pos = match.group(0).replace("</strong>", "").strip()
+        pos = re.sub("[()]", "", pos)
+
+    return lemmaList, pos
 
 def extract_translations(mg):
     ts = []
@@ -130,13 +156,18 @@ def extract_translations_and_examples(line):
     return(mgs)
 
 
-def add_entry(root, lemma: str, translations_and_examples: list):
+def add_entry(root, lemma: str, pos: str, translations_and_examples: list):
     """Create xml nodes for dictionary entry and insert into tree"""
     e = SubElement(root, "e")
     
     lg = SubElement(e, "lg")
     l = SubElement(lg, "l")
     l.text = lemma
+    # Set pos if known, else guess using FST
+    if pos is not None:
+        l.set("pos", translate_pos(pos))
+    else:
+        l.set("pos", get_pos_from_fst(lemma))
 
     for mg_dict in translations_and_examples:
         mg = SubElement(e, "mg")
@@ -166,11 +197,10 @@ def add_entry(root, lemma: str, translations_and_examples: list):
 
 
 def add_entries(root: Element, line: str):
-    tree = fromstring(line)
-    lemmaList = create_lemma_list(tree)
+    lemmaList, pos = create_lemma_list(line)
     translations_and_examples = extract_translations_and_examples(line)
     for lemma in lemmaList:
-        add_entry(root, lemma, translations_and_examples)
+        add_entry(root, lemma, pos, translations_and_examples)
 
 
 def lines_to_xml_bytestring(lines):
