@@ -3,7 +3,9 @@ Convert sme-fin html to GT-style xml.
 """
 import argparse
 from pathlib import Path
+import os
 import re
+import subprocess
 
 MISSING_DEP_HELP = """
 cannot run due to missing dependencies. hint, run:
@@ -37,8 +39,14 @@ def insert_lemmas(lemmaList: list, lemmaText: str):
     lemmas = re.split(', | ~ ', lemmaText)
     lemmaList.extend([clean_lemma_text(lemma) for lemma in lemmas])
 
-def get_pos_from_fst(lemma: str):
-    pass
+def get_pos_from_fst(lemma: str, fst_path):
+    if lemma is None:
+        return
+    output = subprocess.run(["hfst-lookup", "-q", fst_path], input=lemma, encoding="utf-8", capture_output=True).stdout
+    if base_form_matches := re.search(r"\t[^+0]*\(\+V\+Inf|\+V\+TV\+Inf|\+V\+IV\+Inf|\+N\+Sg\+Nom|\+A\+Sg\+Nom|\+A\+Attr|\+Adv|\+Po|\+Pr|\+Interj|\+Pron\+Indef\+Sg\+Nom|\+Pron\+Interr\+Sg\+Nom|\+Pron\+Rel\+Sg\+Nom|\+Num\+Sg\+Nom\)\t", output):
+        return base_form_matches.group(0).split("+")[1]
+    else:
+        print(f"Found no pos for lemma {lemma}")
 
 pos_dict = {
     "adv.": "Adv",
@@ -156,7 +164,7 @@ def extract_translations_and_examples(line):
     return(mgs)
 
 
-def add_entry(root, lemma: str, pos: str, translations_and_examples: list):
+def add_entry(root, lemma: str, pos: str, translations_and_examples: list, args):
     """Create xml nodes for dictionary entry and insert into tree"""
     e = SubElement(root, "e")
     
@@ -166,8 +174,8 @@ def add_entry(root, lemma: str, pos: str, translations_and_examples: list):
     # Set pos if known, else guess using FST
     if pos is not None:
         l.set("pos", translate_pos(pos))
-    else:
-        l.set("pos", get_pos_from_fst(lemma))
+    elif args.fst_lookup and ((fst_pos := get_pos_from_fst(lemma, args.sme_fst)) is not None):
+        l.set("pos", fst_pos)
 
     for mg_dict in translations_and_examples:
         mg = SubElement(e, "mg")
@@ -185,6 +193,10 @@ def add_entry(root, lemma: str, pos: str, translations_and_examples: list):
         for t_text in mg_dict["ts"]:
             t = SubElement(tg, "t")
             t.text = t_text
+            if " " in t_text:
+                t.set("t_type", "phrase")
+            elif args.fst_lookup and ((fst_pos := get_pos_from_fst(t_text, args.fin_fst)) is not None):
+                t.set("pos", fst_pos)
         if mg_dict["xgs"] is not None:
             for ex in mg_dict["xgs"]:
                 xg = SubElement(mg, "xg")
@@ -196,20 +208,20 @@ def add_entry(root, lemma: str, pos: str, translations_and_examples: list):
             
 
 
-def add_entries(root: Element, line: str):
+def add_entries(root: Element, line: str, args):
     lemmaList, pos = create_lemma_list(line)
     translations_and_examples = extract_translations_and_examples(line)
     for lemma in lemmaList:
-        add_entry(root, lemma, pos, translations_and_examples)
+        add_entry(root, lemma, pos, translations_and_examples, args)
 
 
-def lines_to_xml_bytestring(lines):
+def lines_to_xml_bytestring(lines, args):
     root = Element("r")
 
     for line in lines:
         if not line.startswith("<p>"):
             continue
-        add_entries(root, line)
+        add_entries(root, line, args)
 
     doctype = (
         '<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD '
@@ -220,7 +232,10 @@ def lines_to_xml_bytestring(lines):
 def parse_args():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("inputfile")
-    parser.add_argument("--outputfile", "-o", type=Path, default="sme-fin.xml")
+    parser.add_argument("--outputfile", "-o", type=Path, default="sme-fin.xml", help="Defaults to sme-fin.xml")
+    parser.add_argument("--sme-fst", type=Path, default=os.path.expandvars("$GTLANGS/lang-sme/src/fst/analyser-gt-desc.hfstol"), help="Path to sme analyser if $GTLANGS is not set")
+    parser.add_argument("--fin-fst", type=Path, default=os.path.expandvars("$GTLANGS/lang-fin/src/fst/analyser-gt-desc.hfstol"), help="Path to fin analyser if $GTLANGS is not set")
+    parser.add_argument("--fst-lookup",  action=argparse.BooleanOptionalAction, default=True, help="Look up POS of lemmas and translations in FST if now known. This increases running time from seconds to minutes. Defaults to True.")
 
     return parser.parse_args()
 
@@ -229,7 +244,7 @@ def main(args):
     with open(args.inputfile) as f:
         lines = f.readlines()
     
-    xml_bytestring = lines_to_xml_bytestring(lines)
+    xml_bytestring = lines_to_xml_bytestring(lines, args)
 
     with open(args.outputfile, "wb") as f:
         f.write(xml_bytestring)
