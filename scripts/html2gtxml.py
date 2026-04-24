@@ -43,7 +43,7 @@ def get_pos_from_fst(lemma: str, fst_path):
     if lemma is None:
         return
     output = subprocess.run(["hfst-lookup", "-q", fst_path], input=lemma, encoding="utf-8", capture_output=True).stdout
-    if base_form_matches := re.search(r"\t[^+0]*\(\+V\+Inf|\+V\+TV\+Inf|\+V\+IV\+Inf|\+N\+Sg\+Nom|\+A\+Sg\+Nom|\+A\+Attr|\+Adv|\+Po|\+Pr|\+Interj|\+Pron\+Indef\+Sg\+Nom|\+Pron\+Interr\+Sg\+Nom|\+Pron\+Rel\+Sg\+Nom|\+Num\+Sg\+Nom\)\t", output):
+    if base_form_matches := re.search(r"\t[^+0]*\(\+V\+Inf|\+V\+TV\+Inf|\+V\+IV\+Inf|\+V\+Act\+InfA\+Sg\+Lat|\+N\+Sg\+Nom|\+A\+Sg\+Nom|\+A\+Attr|\+Adv|\+Po|\+Pr|\+Interj|\+Pron\+Indef\+Sg\+Nom|\+Pron\+Interr\+Sg\+Nom|\+Pron\+Rel\+Sg\+Nom|\+Num\+Sg\+Nom|\+Pcle\)\t", output):
         return base_form_matches.group(0).split("+")[1]
     else:
         print(f"Found no pos for lemma {lemma}")
@@ -174,6 +174,8 @@ def add_entry(root, lemma: str, pos: str, translations_and_examples: list, args)
     # Set pos if known, else guess using FST
     if pos is not None:
         l.set("pos", translate_pos(pos))
+    elif " " in lemma:
+        l.set("t_type", "phrase")
     elif args.fst_lookup and ((fst_pos := get_pos_from_fst(lemma, args.sme_fst)) is not None):
         l.set("pos", fst_pos)
 
