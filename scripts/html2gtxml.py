@@ -42,6 +42,10 @@ def insert_lemmas(lemmaList: list, lemmaText: str):
 def get_pos_from_fst(lemma: str, fst_path):
     if lemma is None:
         return
+    # Cheat a bit for words ending in -minen
+    if "lang-fin" in str(fst_path) and lemma.endswith("minen"):
+        return "N"
+    # Otherwise do full lookup (this takes time)
     output = subprocess.run(["hfst-lookup", "-q", fst_path], input=lemma, encoding="utf-8", capture_output=True).stdout
     if base_form_matches := re.search(r"\t[^+0]*\(\+V\+Inf|\+V\+TV\+Inf|\+V\+IV\+Inf|\+V\+Act\+InfA\+Sg\+Lat|\+N\+Sg\+Nom|\+A\+Sg\+Nom|\+A\+Attr|\+Adv|\+Po|\+Pr|\+Interj|\+Pron\+Indef\+Sg\+Nom|\+Pron\+Interr\+Sg\+Nom|\+Pron\+Rel\+Sg\+Nom|\+Num\+Sg\+Nom|\+Pcle\)\t", output):
         return base_form_matches.group(0).split("+")[1]
@@ -87,24 +91,45 @@ def create_lemma_list(line):
 def extract_translations(mg):
     ts = []
     geo = gramm = restr = None
-    for t in mg.split(","):
-        t = t.strip()
-        # Look for and eat country
-        if match := re.match("^[(](R|S|N)[)]", t):
-            geo = re.sub("[()]", "", match.group(0))
-            t = re.sub("^[(](R|S|N)[)]", "", t)
-        # Remove POS or similar
-        t = re.sub("^[(][^)]*[.][)]", "", t).strip()
-        # Look for and eat grammar info
-        if match := re.match("^[(][^)]*[)]", t):
-            gramm = re.sub("[()]", "", match.group(0))
-            t = re.sub("^[(][^)]*[)]", "", t)
-        # Extract text before parenthesis and add as t
-        ts.append(clean_content_text(re.match("^[^(]*", t).group(0)))
-        t = re.sub("^[^(]*", "", t)
-        # Look for and save restr
-        if match := re.match("^[(].*", t):
-            restr = re.sub("[()]", "", match.group(0))
+    parenthesis = False
+    for part in re.split("(\(|\))", mg):
+        if part == "":
+            continue
+        if part == "(":
+            parenthesis = True
+            continue
+        if part == ")":
+            parenthesis = False
+            continue
+        if parenthesis and re.match("^(R|S|N)$", part):
+            geo = part
+        elif parenthesis and len(ts) == 0:
+            gramm = part
+        elif parenthesis and len(ts) > 0:
+            restr = part
+        else:
+            for t in part.split(","):
+                if len(t) > 0:
+                    ts.append(clean_content_text(t))
+    
+    # for t in mg.split(","):
+    #     t = t.strip()
+    #     # Look for and eat country
+    #     if match := re.match("^[(](R|S|N)[)]", t):
+    #         geo = re.sub("[()]", "", match.group(0))
+    #         t = re.sub("^[(](R|S|N)[)]", "", t)
+    #     # Remove POS or similar
+    #     t = re.sub("^[(][^)]*[.][)]", "", t).strip()
+    #     # Look for and eat grammar info
+    #     if match := re.match("^[(][^)]*[)]", t):
+    #         gramm = re.sub("[()]", "", match.group(0))
+    #         t = re.sub("^[(][^)]*[)]", "", t)
+    #     # Extract text before parenthesis and add as t
+    #     ts.append(clean_content_text(re.match("^[^(]*", t).group(0)))
+    #     t = re.sub("^[^(]*", "", t)
+    #     # Look for and save restr
+    #     if match := re.match("^[(].*", t):
+    #         restr = re.sub("[()]", "", match.group(0))
     
     return (ts, geo, gramm, restr)
 
@@ -184,13 +209,13 @@ def add_entry(root, lemma: str, pos: str, translations_and_examples: list, args)
         tg = SubElement(mg, "tg")
         tg.set('{http://www.w3.org/XML/1998/namespace}lang', "fin")
         if mg_dict["restr"] is not None:
-            re = SubElement(mg, "re")
+            re = SubElement(tg, "re")
             re.text = mg_dict["restr"]
         if mg_dict["geo"] is not None:
-            geo = SubElement(mg, "geo")
+            geo = SubElement(tg, "geo")
             geo.text = mg_dict["geo"]
         if mg_dict["gramm"] is not None:
-            gramm = SubElement(mg, "gramm")
+            gramm = SubElement(tg, "gramm")
             gramm.text = mg_dict["gramm"]
         for t_text in mg_dict["ts"]:
             t = SubElement(tg, "t")
