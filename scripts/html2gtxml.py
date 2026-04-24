@@ -3,7 +3,7 @@ Convert sme-fin html to GT-style xml.
 """
 import argparse
 from pathlib import Path
-import os
+import os, sys
 import re
 import subprocess
 
@@ -41,16 +41,26 @@ def insert_lemmas(lemmaList: list, lemmaText: str):
 
 def get_pos_from_fst(lemma: str, fst_path):
     if lemma is None:
-        return
+        return None
     # Cheat a bit for words ending in -minen
     if "lang-fin" in str(fst_path) and lemma.endswith("minen"):
         return "N"
+    
     # Otherwise do full lookup (this takes time)
     output = subprocess.run(["hfst-lookup", "-q", fst_path], input=lemma, encoding="utf-8", capture_output=True).stdout
     if base_form_matches := re.search(r"\t[^+0]*\(\+V\+Inf|\+V\+TV\+Inf|\+V\+IV\+Inf|\+V\+Act\+InfA\+Sg\+Lat|\+N\+Sg\+Nom|\+A\+Sg\+Nom|\+A\+Attr|\+Adv|\+Po|\+Pr|\+Interj|\+Pron\+Indef\+Sg\+Nom|\+Pron\+Interr\+Sg\+Nom|\+Pron\+Rel\+Sg\+Nom|\+Num\+Sg\+Nom|\+Pcle\)\t", output):
         return base_form_matches.group(0).split("+")[1]
+    elif correction_match := re.search(r"\t[^0]*\+Err/Orth[^0]*", output):
+        correction = correction_match.group(0).split("+")[0].strip()
+        print(f"Consider correcting {lemma} (Err/Orth) to {correction}")
+        return None
+    elif err_lex_match := re.search(r"\t[^0]*\+Err/Lex", output):
+        err_lex = err_lex_match.group(0).split("+")[0].strip()
+        print(f"Lemma {err_lex} is marked as Err/Lex in FST")
+        return None
     else:
-        print(f"Found no pos for lemma {lemma}")
+        print(f"Found no POS for lemma {lemma}", file=sys.stderr)
+        return None
 
 pos_dict = {
     "adv.": "Adv",
@@ -92,7 +102,7 @@ def extract_translations(mg):
     ts = []
     geo = gramm = restr = None
     parenthesis = False
-    for part in re.split("(\(|\))", mg):
+    for part in re.split("([(]|[)])", mg):
         if part == "":
             continue
         if part == "(":
@@ -103,6 +113,9 @@ def extract_translations(mg):
             continue
         if parenthesis and re.match("^(R|S|N)$", part):
             geo = part
+        if parenthesis and re.match ("(a./s|adj|adv|interj|konj|l.part|part|pp|subst)[.]", part):
+            # Skip pos parentheses
+            continue
         elif parenthesis and len(ts) == 0:
             gramm = part
         elif parenthesis and len(ts) > 0:
@@ -226,7 +239,7 @@ def add_entry(root, lemma: str, pos: str, translations_and_examples: list, args)
                 t.set("pos", fst_pos)
         if mg_dict["xgs"] is not None:
             for ex in mg_dict["xgs"]:
-                xg = SubElement(mg, "xg")
+                xg = SubElement(tg, "xg")
                 x = SubElement(xg, "x")
                 x.text = ex["x"]
                 xt = SubElement(xg, "xt")
