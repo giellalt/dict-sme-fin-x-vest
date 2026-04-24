@@ -39,15 +39,13 @@ def insert_lemmas(lemmaList: list, lemmaText: str):
     lemmas = re.split(', | ~ ', lemmaText)
     lemmaList.extend([clean_lemma_text(lemma) for lemma in lemmas])
 
-def get_transducer(fst_path):
+def get_pos_from_fst(lemma: str, fst_path):
+    if lemma is None:
+        return
+
     istr = hfst.HfstInputStream(f'{fst_path}')
     transducer = istr.read()
     istr.close()
-    return transducer
-
-def get_pos_from_fst(lemma: str, transducer: hfst.libhfst.HfstTransducer):
-    if lemma is None:
-        return
 
     output = transducer.lookup(lemma)
 
@@ -173,7 +171,7 @@ def extract_translations_and_examples(line):
     return(mgs)
 
 
-def add_entry(root, lemma: str, pos: str, translations_and_examples: list, args, sme_fst, fin_fst):
+def add_entry(root, lemma: str, pos: str, translations_and_examples: list, args):
     """Create xml nodes for dictionary entry and insert into tree"""
     e = SubElement(root, "e")
     
@@ -185,7 +183,7 @@ def add_entry(root, lemma: str, pos: str, translations_and_examples: list, args,
         l.set("pos", translate_pos(pos))
     elif " " in lemma:
         l.set("t_type", "phrase")
-    elif args.fst_lookup and ((fst_pos := get_pos_from_fst(lemma, sme_fst)) is not None):
+    elif args.fst_lookup and ((fst_pos := get_pos_from_fst(lemma, args.sme_fst)) is not None):
         l.set("pos", fst_pos)
 
     for mg_dict in translations_and_examples:
@@ -206,7 +204,7 @@ def add_entry(root, lemma: str, pos: str, translations_and_examples: list, args,
             t.text = t_text
             if " " in t_text:
                 t.set("t_type", "phrase")
-            elif args.fst_lookup and ((fst_pos := get_pos_from_fst(t_text, fin_fst)) is not None):
+            elif args.fst_lookup and ((fst_pos := get_pos_from_fst(t_text, args.fin_fst)) is not None):
                 t.set("pos", fst_pos)
         if mg_dict["xgs"] is not None:
             for ex in mg_dict["xgs"]:
@@ -220,12 +218,10 @@ def add_entry(root, lemma: str, pos: str, translations_and_examples: list, args,
 
 
 def add_entries(root: Element, line: str, args):
-    sme_fst = get_transducer(args.sme_fst)
-    fin_fst = get_transducer(args.fin_fst)
     lemmaList, pos = create_lemma_list(line)
     translations_and_examples = extract_translations_and_examples(line)
     for lemma in lemmaList:
-        add_entry(root, lemma, pos, translations_and_examples, args, sme_fst, fin_fst)
+        add_entry(root, lemma, pos, translations_and_examples, args)
 
 
 def lines_to_xml_bytestring(lines, args):
