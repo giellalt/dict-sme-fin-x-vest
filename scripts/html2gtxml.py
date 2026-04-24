@@ -5,16 +5,16 @@ import argparse
 from pathlib import Path
 import os
 import re
+import subprocess
 
 MISSING_DEP_HELP = """
 cannot run due to missing dependencies. hint, run:
-python -m venv venv && . venv/bin/activate && pip install lxml hfst
+python -m venv venv && . venv/bin/activate && pip install lxml
 ...and then try again. (remember to run `deactivate` in the shell when you're done)
 """
 
 try:
     from lxml.etree import Element, SubElement, tostring, fromstring
-    import hfst
 except ImportError:
     exit(MISSING_DEP_HELP)
 
@@ -42,18 +42,11 @@ def insert_lemmas(lemmaList: list, lemmaText: str):
 def get_pos_from_fst(lemma: str, fst_path):
     if lemma is None:
         return
-
-    istr = hfst.HfstInputStream(f'{fst_path}')
-    transducer = istr.read()
-    istr.close()
-
-    output = transducer.lookup(lemma)
-
-    for analysis in output:
-        if base_form_matches := re.search(r"[^+]*\(\+V\+Inf|\+V\+TV\+Inf|\+V\+IV\+Inf|\+V\+Act\+InfA\+Sg\+Lat|\+N\+Sg\+Nom|\+A\+Sg\+Nom|\+A\+Attr|\+Adv|\+Po|\+Pr|\+Interj|\+Pron\+Indef\+Sg\+Nom|\+Pron\+Interr\+Sg\+Nom|\+Pron\+Rel\+Sg\+Nom|\+Num\+Sg\+Nom|\+Pcle\)", analysis[0]):
-            return base_form_matches.group(0).split("+")[1]
-    print(f"Found no pos for lemma {lemma}")
-
+    output = subprocess.run(["hfst-lookup", "-q", fst_path], input=lemma, encoding="utf-8", capture_output=True).stdout
+    if base_form_matches := re.search(r"\t[^+0]*\(\+V\+Inf|\+V\+TV\+Inf|\+V\+IV\+Inf|\+V\+Act\+InfA\+Sg\+Lat|\+N\+Sg\+Nom|\+A\+Sg\+Nom|\+A\+Attr|\+Adv|\+Po|\+Pr|\+Interj|\+Pron\+Indef\+Sg\+Nom|\+Pron\+Interr\+Sg\+Nom|\+Pron\+Rel\+Sg\+Nom|\+Num\+Sg\+Nom|\+Pcle\)\t", output):
+        return base_form_matches.group(0).split("+")[1]
+    else:
+        print(f"Found no pos for lemma {lemma}")
 
 pos_dict = {
     "adv.": "Adv",
