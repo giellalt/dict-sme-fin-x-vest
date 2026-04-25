@@ -48,18 +48,18 @@ def get_pos_from_fst(lemma: str, fst_path):
     
     # Otherwise do full lookup (this takes time)
     output = subprocess.run(["hfst-lookup", "-q", fst_path], input=lemma, encoding="utf-8", capture_output=True).stdout
-    if base_form_matches := re.search(r"\t[^+0]*\(\+V\+Inf|\+V\+TV\+Inf|\+V\+IV\+Inf|\+V\+Act\+InfA\+Sg\+Lat|\+N\+Sg\+Nom|\+A\+Sg\+Nom|\+A\+Attr|\+Adv|\+Po|\+Pr|\+Interj|\+Pron\+Indef\+Sg\+Nom|\+Pron\+Interr\+Sg\+Nom|\+Pron\+Rel\+Sg\+Nom|\+Num\+Sg\+Nom|\+Pcle\)\t", output):
+    if base_form_matches := re.search(r"\t[^+0]*\(\+V\+Inf|\+V\+TV\+Inf|\+V\+IV\+Inf|\+V\+Act\+InfA\+Sg\+Lat|\+N\+Sg\+Nom|\+A\+Sg\+Nom|\+A\+Attr|\+Adv|\+Po|\+Pr|\+Interj|\+Pron\+Indef\+Sg\+Nom|\+Pron\+Interr\+Sg\+Nom|\+Pron\+Rel\+Sg\+Nom|\+Pcle|\+Num\+Sg\+Nom\)\t", output):
         return base_form_matches.group(0).split("+")[1]
     elif correction_match := re.search(r"\t[^0]*\+Err/Orth[^0]*", output):
         correction = correction_match.group(0).split("+")[0].strip()
-        print(f"Consider correcting {lemma} (Err/Orth) to {correction}")
+        print(f"Consider correcting {lemma} (Err/Orth) to {correction}", file=sys.stdout, flush=True)
         return None
     elif err_lex_match := re.search(r"\t[^0]*\+Err/Lex", output):
         err_lex = err_lex_match.group(0).split("+")[0].strip()
-        print(f"Lemma {err_lex} is marked as Err/Lex in FST")
+        print(f"Lemma {err_lex} is marked as Err/Lex in FST", file=sys.stdout, flush=True)
         return None
     else:
-        print(f"Found no POS for lemma {lemma}", file=sys.stderr)
+        print(f"Found no POS for lemma {lemma}", file=sys.stderr, flush=True)
         return None
 
 pos_dict = {
@@ -186,7 +186,7 @@ def extract_translations_and_examples(line):
                     last_mg["xgs"] = xgs
                 mgs[-1] = last_mg
             except IndexError:
-                print(f"no corresponding mg for {xgs}")
+                print(f"no corresponding mg for {xgs}", file=sys.stderr, flush=True)
         else:
             # Treat as translation
             (ts, geo, gramm, restr) = extract_translations(mg)
@@ -275,7 +275,7 @@ def parse_args():
     parser.add_argument("--outputfile", "-o", type=Path, default="sme-fin.xml", help="Defaults to sme-fin.xml")
     parser.add_argument("--sme-fst", type=Path, default=os.path.expandvars("$GTLANGS/lang-sme/src/fst/analyser-gt-desc.hfstol"), help="Path to sme analyser if $GTLANGS is not set")
     parser.add_argument("--fin-fst", type=Path, default=os.path.expandvars("$GTLANGS/lang-fin/src/fst/analyser-gt-desc.hfstol"), help="Path to fin analyser if $GTLANGS is not set")
-    parser.add_argument("--fst-lookup",  action=argparse.BooleanOptionalAction, default=True, help="Look up POS of lemmas and translations in FST if now known. This increases running time from seconds to minutes. Defaults to True.")
+    parser.add_argument("--fst-lookup",  action=argparse.BooleanOptionalAction, default=True, help="Look up POS of lemmas and translations in FST if now known. This increases running time from seconds to hours. Defaults to True.")
 
     return parser.parse_args()
 
