@@ -32889,7 +32889,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Pr">bohččostit</l>
+      <l pos="V">bohččostit</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -111608,7 +111608,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Pr">čalli</l>
+      <l pos="N" type="NomAg">čalli</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -141555,7 +141555,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Pr">čuovvu</l>
+      <l pos="N" type="NomAg">čuovvu</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -141574,7 +141574,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Pr">čuovvu</l>
+      <l pos="N" type="NomAg">čuovvu</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -206531,7 +206531,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Pr">gahkkodit</l>
+      <l pos="V">gahkkodit</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -215027,7 +215027,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Pr">gáddobuohcci</l>
+      <l pos="N" type="NomAg">gáddobuohcci</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -276948,7 +276948,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Pr">háittistit</l>
+      <l pos="V">háittistit</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -370226,7 +370226,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Pr">mearrabuohcci</l>
+      <l pos="N" type="NomAg">mearrabuohcci</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -374295,7 +374295,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Pr">miellabuohcci</l>
+      <l pos="N" type="NomAg">miellabuohcci</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -437889,7 +437889,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Pr">prentehat</l>
+      <l pos="N">prentehat</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -485894,7 +485894,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Pr">seaŋgabuohcci</l>
+      <l pos="N" type="NomAg">seaŋgabuohcci</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
