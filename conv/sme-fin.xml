@@ -419686,17 +419686,6 @@
   </e>
   <e>
     <lg>
-      <l>oassestáhtta</l>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <re>erit. Yhdysvaltojen</re>
-        <t pos="N">osavaltio</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">oassestáhta</l>
     </lg>
     <mg>
@@ -531763,7 +531752,7 @@
   </e>
   <e>
     <lg>
-      <l>suodjalusdepartementa</l>
+      <l pos="N">suodjalusdepartemeanta</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
