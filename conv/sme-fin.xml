@@ -3020,10 +3020,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmásiin</gramm>
-        <t pos="V">kutsua</t>
-        <t>kaverikseen</t>
+        <t pos="V">kutsua (jotakuta) kaverikseen</t>
       </tg>
     </mg>
     <mg>
@@ -3170,7 +3168,7 @@
   </e>
   <e>
     <lg>
-      <l>albmosis</l>
+      <l pos="Adv">albmosis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -3390,7 +3388,7 @@
   </e>
   <e>
     <lg>
-      <l>ale</l>
+      <l pos="V">ale</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -5836,7 +5834,7 @@
   </e>
   <e>
     <lg>
-      <l>almmustahtekeahttá</l>
+      <l pos="Adv">almmustahtekeahttá</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -5989,7 +5987,7 @@
   </e>
   <e>
     <lg>
-      <l>almmustuvakeahttá</l>
+      <l pos="Adv">almmustuvakeahttá</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -6110,7 +6108,7 @@
   </e>
   <e>
     <lg>
-      <l>aman</l>
+      <l pos="V">aman</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -8656,9 +8654,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>litteää esinettä</re>
-        <t pos="V">pitää</t>
-        <t>paksuna</t>
+        <t t_type="phrase">pitää (litteää esinettä) paksuna</t>
       </tg>
     </mg>
   </e>
@@ -12147,8 +12143,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>jotakuta kohtaan</re>
-        <t pos="V">käyttäytyä</t>
-        <t pos="Adv">isällisesti</t>
+        <t t_type="phrase">käyttäytyä isällisesti</t>
       </tg>
     </mg>
   </e>
@@ -12296,7 +12291,7 @@
   </e>
   <e>
     <lg>
-      <l>áhčeš guovttos</l>
+      <l pos="N" type="Coll">áhčeš guovttos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -12350,7 +12345,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>isättömänä</t>
+        <t pos="Adv">isättömänä</t>
         <xg>
           <x>rávásmuvai áhčikeahttái</x>
           <xt>varttui isättömänä aikuisikään</xt>
@@ -13808,7 +13803,7 @@
   </e>
   <e>
     <lg>
-      <l>áibmočoaskuduvvon</l>
+      <l pos="A">áibmočoaskuduvvon</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -15694,7 +15689,7 @@
   </e>
   <e>
     <lg>
-      <l>áiggokeahttá</l>
+      <l pos="Adv">áiggokeahttá</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -17196,7 +17191,7 @@
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">aikoja sitten</t>
-        <t>takavuosina</t>
+        <t pos="Adv">takavuosina</t>
       </tg>
     </mg>
   </e>
@@ -17816,7 +17811,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>alastomana</t>
+        <t pos="Adv">alastomana</t>
         <xg>
           <x>čuoččui álásin šiljus</x>
           <xt>seisoi alastomana pihamaalla</xt>
@@ -19585,7 +19580,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>alkuaikoina</t>
+        <t pos="Adv">alkuaikoina</t>
       </tg>
     </mg>
   </e>
@@ -23551,10 +23546,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian arkana</t>
+        <t t_type="phrase">pitää (jotakuta) liian arkana</t>
       </tg>
     </mg>
   </e>
@@ -23982,7 +23975,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>surkeana</t>
+        <t pos="Adv">surkeana</t>
         <t>säälittävästi</t>
       </tg>
     </mg>
@@ -24406,7 +24399,7 @@
   </e>
   <e>
     <lg>
-      <l>árpmuid</l>
+      <l pos="Adv">árpmuid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -24434,7 +24427,7 @@
   </e>
   <e>
     <lg>
-      <l>árpmus</l>
+      <l pos="Adv">árpmus</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -26090,7 +26083,7 @@
   </e>
   <e>
     <lg>
-      <l>árvvusadnojuvvon</l>
+      <l pos="A">árvvusadnojuvvon</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -27840,7 +27833,7 @@
   </e>
   <e>
     <lg>
-      <l>ávaškeahttá</l>
+      <l pos="Adv">ávaškeahttá</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -28840,8 +28833,7 @@
         <re>jotakuta, jotakin</re>
         <gramm>+ kom.</gramm>
         <t pos="V">hyödyntää</t>
-        <t pos="V">käyttää</t>
-        <t pos="Po">hyväkseen</t>
+        <t t_type="phrase">käyttää hyväkseen</t>
       </tg>
     </mg>
   </e>
@@ -36996,8 +36988,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikkua pörröisenä</t>
-        <t>pitkäkarvaisena</t>
+        <t t_type="phrase">liikkua pörröisenä, pitkäkarvaisena</t>
       </tg>
     </mg>
   </e>
@@ -37007,8 +36998,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin pörröisenä</t>
-        <t>pitkäkarvaisena</t>
+        <t t_type="phrase">olla jossakin pörröisenä, pitkäkarvaisena</t>
       </tg>
     </mg>
   </e>
@@ -37073,8 +37063,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikuskella pörröisenä</t>
-        <t>pitkäkarvaisena</t>
+        <t t_type="phrase">liikuskella pörröisenä, pitkäkarvaisena</t>
       </tg>
     </mg>
   </e>
@@ -39771,9 +39760,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää liian ahtaana</t>
-        <t>kapeana</t>
-        <t>tiukkana</t>
+        <t t_type="phrase">pitää liian ahtaana, kapeana, tiukkana</t>
       </tg>
     </mg>
     <mg>
@@ -42839,7 +42826,7 @@
   </e>
   <e>
     <lg>
-      <l>báhčasiidda</l>
+      <l pos="Adv">báhčasiidda</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -42854,7 +42841,7 @@
   </e>
   <e>
     <lg>
-      <l>báhčasiin</l>
+      <l pos="Adv">báhčasiin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -44666,7 +44653,7 @@
   </e>
   <e>
     <lg>
-      <l>báikkis</l>
+      <l pos="Adv">báikkis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -46701,7 +46688,7 @@
   </e>
   <e>
     <lg>
-      <l>báliid</l>
+      <l pos="Adv">báliid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -47249,7 +47236,7 @@
   </e>
   <e>
     <lg>
-      <l>bálkkás</l>
+      <l pos="Adv">bálkkás</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -47380,7 +47367,7 @@
     <mg>
       <tg xml:lang="fin">
         <t>pallomaiseksi</t>
-        <t>pallomaisena</t>
+        <t pos="Adv">pallomaisena</t>
       </tg>
     </mg>
   </e>
@@ -48396,9 +48383,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jossakin</re>
-        <t pos="V">olla</t>
-        <t>pöhöttyneenä</t>
+        <t t_type="phrase">olla (jossakin) pöhöttyneenä</t>
       </tg>
     </mg>
   </e>
@@ -49623,7 +49608,7 @@
   </e>
   <e>
     <lg>
-      <l>bárrásis</l>
+      <l pos="Adv">bárrásis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -49645,7 +49630,7 @@
   </e>
   <e>
     <lg>
-      <l>bárrásiidda</l>
+      <l pos="Adv">bárrásiidda</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -49687,7 +49672,7 @@
   </e>
   <e>
     <lg>
-      <l>bárrásiin</l>
+      <l pos="Adv">bárrásiin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -50487,7 +50472,7 @@
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">pieniin päin</t>
-        <t>raskaana</t>
+        <t pos="Adv">raskaana</t>
       </tg>
     </mg>
   </e>
@@ -50508,7 +50493,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>raskaana</t>
+        <t pos="Adv">raskaana</t>
         <t t_type="phrase">pieniin päin</t>
         <xg>
           <x>mu nieida lea vuot básnaga</x>
@@ -53252,7 +53237,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>pyydyksestä, kalastusmatkasta</re>
-        <t>tyhjänä</t>
+        <t pos="Adv">tyhjänä</t>
         <t>saaliitta</t>
         <xg>
           <x>beaitagis beassat</x>
@@ -55843,8 +55828,7 @@
       <tg xml:lang="fin">
         <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t t_type="phrase">ruveta haukkumaan</t>
-        <t>sättimään</t>
+        <t t_type="phrase">ruveta haukkumaan, sättimään</t>
       </tg>
     </mg>
     <mg>
@@ -55900,8 +55884,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>jotakuta</re>
-        <t t_type="phrase">ruveta haukkumaan</t>
-        <t>sättimään</t>
+        <t t_type="phrase">ruveta haukkumaan, sättimään</t>
       </tg>
     </mg>
     <mg>
@@ -56336,7 +56319,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>keskentekoisena</t>
+        <t pos="Adv">keskentekoisena</t>
         <xg>
           <x>diet fanas lea vel bealledagus muhto gárvvásmuvvá</x>
           <xt></xt>
@@ -56845,7 +56828,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>keskenkasvuisena</t>
+        <t pos="Adv">keskenkasvuisena</t>
       </tg>
     </mg>
   </e>
@@ -62778,7 +62761,7 @@
   </e>
   <e>
     <lg>
-      <l>biđgosii</l>
+      <l pos="Adv">biđgosii</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -62792,7 +62775,7 @@
   </e>
   <e>
     <lg>
-      <l>biđgosis</l>
+      <l pos="Adv">biđgosis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -64906,18 +64889,14 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>toisten taloissa</re>
-        <t pos="V">kulkea</t>
-        <t>ruokittavana</t>
+        <t pos="V">kulkea (toisten taloissa) ruokittavana</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>sylissä</re>
-        <t pos="V">haluta</t>
-        <t t_type="phrase">itseään ruokittavan</t>
-        <t t_type="phrase">/ haluta</t>
-        <t t_type="phrase">itseään heijattavan</t>
+        <t t_type="phrase">haluta itseään ruokittavan</t>
+        <t t_type="phrase">haluta itseään heijattavan</t>
         <t>paapottavan</t>
       </tg>
     </mg>
@@ -65084,8 +65063,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikkua pörröisenä</t>
-        <t>pitkäkarvaisena</t>
+        <t t_type="phrase">liikkua pörröisenä, pitkäkarvaisena</t>
       </tg>
     </mg>
   </e>
@@ -65095,8 +65073,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin pörröisenä</t>
-        <t>pitkäkarvaisena</t>
+        <t t_type="phrase">olla jossakin pörröisenä, pitkäkarvaisena</t>
       </tg>
     </mg>
   </e>
@@ -65161,8 +65138,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikuskella pörröisenä</t>
-        <t>pitkäkarvaisena</t>
+        <t t_type="phrase">liikuskella pörröisenä, pitkäkarvaisena</t>
       </tg>
     </mg>
   </e>
@@ -66587,7 +66563,7 @@
   </e>
   <e>
     <lg>
-      <l>bihkkagárremiidda</l>
+      <l pos="Adv">bihkkagárremiidda</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -66629,7 +66605,7 @@
   </e>
   <e>
     <lg>
-      <l>bihkkan</l>
+      <l pos="Adv">bihkkan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -67973,8 +67949,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">lähteä kulkemaan ryhdikkäänä</t>
-        <t>suoraselkäisenä</t>
+        <t t_type="phrase">lähteä kulkemaan ryhdikkäänä, suoraselkäisenä</t>
       </tg>
     </mg>
   </e>
@@ -67984,8 +67959,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea ryhdikkäänä</t>
-        <t>suoraselkäisenä</t>
+        <t t_type="phrase">kulkea ryhdikkäänä, suoraselkäisenä</t>
       </tg>
     </mg>
   </e>
@@ -72534,7 +72508,7 @@
   </e>
   <e>
     <lg>
-      <l>bivastatgállus</l>
+      <l pos="Adv">bivastatgállus</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -74198,7 +74172,7 @@
       <tg xml:lang="fin">
         <re>sääristä</re>
         <t>väärällään</t>
-        <t>vääränä</t>
+        <t pos="Adv">vääränä</t>
       </tg>
     </mg>
   </e>
@@ -75729,8 +75703,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin kompurana</t>
-        <t>huonojalkaisena</t>
+        <t t_type="phrase">olla jossakin kompurana, huonojalkaisena</t>
       </tg>
     </mg>
   </e>
@@ -76970,8 +76943,7 @@
       <tg xml:lang="fin">
         <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian äkkipikaisena</t>
+        <t t_type="phrase">pitää liian äkkipikaisena</t>
         <xg>
           <x>boarkkašit boatnjás</x>
           <xt>pitää aviomiestään liian äkkipikaisena</xt>
@@ -77834,7 +77806,7 @@
       <tg xml:lang="fin">
         <re>joltakin kohti pysyvästi</re>
         <t>kapealla</t>
-        <t>kapeana</t>
+        <t pos="Adv">kapeana</t>
       </tg>
     </mg>
   </e>
@@ -80294,7 +80266,7 @@
   </e>
   <e>
     <lg>
-      <l>boitosii</l>
+      <l pos="Adv">boitosii</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -80305,7 +80277,7 @@
   </e>
   <e>
     <lg>
-      <l>boitosis</l>
+      <l pos="Adv">boitosis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -81014,8 +80986,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin tuuheana</t>
-        <t>pörröisenä</t>
+        <t t_type="phrase">olla jossakin tuuheana, pörröisenä</t>
       </tg>
     </mg>
     <mg>
@@ -81102,8 +81073,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikkua tuuheana</t>
-        <t>pörröisenä</t>
+        <t t_type="phrase">liikkua tuuheana, pörröisenä</t>
       </tg>
     </mg>
     <mg>
@@ -85613,7 +85583,7 @@
   </e>
   <e>
     <lg>
-      <l>botnis</l>
+      <l pos="Adv">botnis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -85857,7 +85827,7 @@
   </e>
   <e>
     <lg>
-      <l>botnješ guovttos</l>
+      <l pos="N" type="Coll">botnješ guovttos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -86090,7 +86060,7 @@
   </e>
   <e>
     <lg>
-      <l>bovdejuvvon</l>
+      <l pos="N">bovdejuvvon</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -86892,8 +86862,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>jotakuta</re>
-        <t pos="V">kutsua</t>
-        <t pos="Adv">liikanimellä</t>
+        <t t_type="phrase">kutsua liikanimellä</t>
         <t t_type="phrase">nimitellä liikanimillä</t>
       </tg>
     </mg>
@@ -87067,7 +87036,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>patoutuneena</t>
+        <t pos="Adv">patoutuneena</t>
         <t pos="Adv">tukossa</t>
         <xg>
           <x>čáhcebohcci lea buđđosis</x>
@@ -87477,8 +87446,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">ilmestyä johonkin kuhmuisena</t>
-        <t>kyhmyisenä</t>
+        <t t_type="phrase">ilmestyä johonkin kuhmuisena, kyhmyisenä</t>
       </tg>
     </mg>
   </e>
@@ -87510,8 +87478,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">lähteä liikkeelle kuhmuisena</t>
-        <t>kyhmyisenä</t>
+        <t t_type="phrase">lähteä liikkeelle kuhmuisena, kyhmyisenä</t>
       </tg>
     </mg>
   </e>
@@ -87521,8 +87488,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin kuhmuisena</t>
-        <t>kyhmyisenä</t>
+        <t t_type="phrase">olla jossakin kuhmuisena, kyhmyisenä</t>
       </tg>
     </mg>
   </e>
@@ -88275,8 +88241,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikkua suippona</t>
-        <t>puikeana</t>
+        <t t_type="phrase">liikkua suippona, puikeana</t>
       </tg>
     </mg>
   </e>
@@ -89485,8 +89450,7 @@
       <tg xml:lang="fin">
         <re>esim. utareista</re>
         <t pos="V">pullottaa</t>
-        <t t_type="phrase">olla jossakin pullottavana</t>
-        <t>turvonneena</t>
+        <t t_type="phrase">olla jossakin pullottavana, turvonneena</t>
       </tg>
     </mg>
   </e>
@@ -90994,7 +90958,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>patoutuneena</t>
+        <t pos="Adv">patoutuneena</t>
         <xg>
           <x>johka lei buođđagasas</x>
           <xt>joki oli patoutuneena</xt>
@@ -95228,8 +95192,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>naisesta</re>
-        <t t_type="phrase">pitää jotakuta kovin kipakkana</t>
-        <t>kärttyisänä</t>
+        <t t_type="phrase">pitää jotakuta kovin kipakkana, kärttyisänä</t>
       </tg>
     </mg>
   </e>
@@ -96372,7 +96335,7 @@
   </e>
   <e>
     <lg>
-      <l>buriid</l>
+      <l pos="Adv">buriid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -98261,7 +98224,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">pingotuksessa</t>
-        <t>pingotettuna</t>
+        <t pos="Adv">pingotettuna</t>
       </tg>
     </mg>
   </e>
@@ -103538,8 +103501,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin pystynenäisenä</t>
-        <t>kippuranokkaisena</t>
+        <t t_type="phrase">olla jossakin pystynenäisenä, kippuranokkaisena</t>
       </tg>
     </mg>
   </e>
@@ -103609,7 +103571,7 @@
       <tg xml:lang="fin">
         <re>nenästä</re>
         <t pos="Adv">pystyssä</t>
-        <t>kippuraisena</t>
+        <t pos="Adv">kippuraisena</t>
       </tg>
     </mg>
   </e>
@@ -103619,8 +103581,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kuljeskella pystynenäisenä</t>
-        <t>kippuranokkaisena</t>
+        <t t_type="phrase">kuljeskella pystynenäisenä, kippuranokkaisena</t>
       </tg>
     </mg>
   </e>
@@ -105198,13 +105159,11 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">cohccasit</l>
+      <l pos="V">cohccasit</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">mennä tai tulla johonkin hämmentyneenä</t>
-        <t>häkeltyneenä</t>
-        <t>hölmistyneenä</t>
+        <t t_type="phrase">mennä tai tulla johonkin hämmentyneenä, häkeltyneenä, hölmistyneenä</t>
       </tg>
     </mg>
   </e>
@@ -105334,8 +105293,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">jäädä johonkin avuttomana</t>
-        <t>neuvottomana</t>
+        <t t_type="phrase">jäädä johonkin avuttomana, neuvottomana</t>
         <t t_type="phrase">tulla neuvottomaksi</t>
         <t t_type="phrase">jäädä sanattomaksi</t>
         <xg>
@@ -111404,8 +111362,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin pystypäisenä</t>
-        <t>kenokaulaisena</t>
+        <t t_type="phrase">olla jossakin pystypäisenä, kenokaulaisena</t>
       </tg>
     </mg>
   </e>
@@ -112183,7 +112140,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>sidottuna</t>
+        <t pos="Adv">sidottuna</t>
       </tg>
     </mg>
     <mg>
@@ -112198,7 +112155,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>sidottuna</t>
+        <t pos="Adv">sidottuna</t>
       </tg>
     </mg>
     <mg>
@@ -112209,11 +112166,11 @@
   </e>
   <e>
     <lg>
-      <l>čatnasis</l>
+      <l pos="Adv">čatnasis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>sidottuna</t>
+        <t pos="Adv">sidottuna</t>
       </tg>
     </mg>
     <mg>
@@ -112965,8 +112922,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää liian kireänä</t>
-        <t>tiukkana</t>
+        <t t_type="phrase">pitää liian kireänä, tiukkana</t>
       </tg>
     </mg>
   </e>
@@ -113053,8 +113009,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin kauniina</t>
-        <t>viehättävänä</t>
+        <t t_type="phrase">olla jossakin kauniina, viehättävänä</t>
       </tg>
     </mg>
   </e>
@@ -115021,10 +114976,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian mustana</t>
-        <t>tummana</t>
+        <t pos="V">pitää (jotakin) liian mustana, tummana</t>
         <xg>
           <x>čáhpašii dan gávtti</x>
           <xt>piti sitä lapintakkia liian tummana</xt>
@@ -115942,8 +115894,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikkua mustana</t>
-        <t>tummana</t>
+        <t t_type="phrase">liikkua mustana, tummana</t>
       </tg>
     </mg>
   </e>
@@ -119929,7 +119880,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>ihmisestä</re>
-        <t>jännittyneenä</t>
+        <t pos="Adv">jännittyneenä</t>
         <t t_type="phrase">jännityksestä väristen</t>
       </tg>
     </mg>
@@ -121065,8 +121016,7 @@
       <tg xml:lang="fin">
         <re>jotakuta</re>
         <gramm>soapmásiin</gramm>
-        <t t_type="phrase">kutsua čeahci:ksi</t>
-        <t>sedäksi</t>
+        <t t_type="phrase">kutsua čeahci:ksi, sedäksi</t>
       </tg>
     </mg>
   </e>
@@ -121640,7 +121590,7 @@
   </e>
   <e>
     <lg>
-      <l>čezeš guovttos</l>
+      <l pos="N" type="Coll">čezeš guovttos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -123571,13 +123521,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>selvänä</t>
+        <t pos="Adv">selvänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t>puhtaana</t>
-        <t>sekoittumattomana</t>
+        <t pos="Adv">puhtaana</t>
+        <t pos="Adv">sekoittumattomana</t>
       </tg>
     </mg>
   </e>
@@ -123732,7 +123682,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>selvänä</t>
+        <t pos="Adv">selvänä</t>
         <t t_type="phrase">selvin päin</t>
         <xg>
           <x>lea leamaš juo viehka guhká čielggosnaga</x>
@@ -124733,7 +124683,7 @@
   </e>
   <e>
     <lg>
-      <l>čiežas</l>
+      <l pos="N" type="Coll">čiežas</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -125021,8 +124971,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>koristeltuna</t>
-        <t>koristautuneena</t>
+        <t pos="Adv">koristeltuna</t>
+        <t pos="Adv">koristautuneena</t>
         <t t_type="phrase">hienosti pukeutuneena</t>
       </tg>
     </mg>
@@ -125144,7 +125094,7 @@
       <tg xml:lang="fin">
         <re>esim. suksen kärjestä</re>
         <t pos="Adv">painuksissa</t>
-        <t>taivutettavana</t>
+        <t pos="Adv">taivutettavana</t>
       </tg>
     </mg>
   </e>
@@ -125202,8 +125152,8 @@
     <mg>
       <tg xml:lang="fin">
         <re>verkosta</re>
-        <t>paikattavana</t>
-        <t>parannettavana</t>
+        <t pos="Adv">paikattavana</t>
+        <t pos="Adv">parannettavana</t>
       </tg>
     </mg>
   </e>
@@ -125723,8 +125673,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">lähteä liikkeelle pullukkana</t>
-        <t>pulleavatsaisena</t>
+        <t t_type="phrase">lähteä liikkeelle pullukkana, pulleavatsaisena</t>
       </tg>
     </mg>
   </e>
@@ -125734,8 +125683,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin pullukkana</t>
-        <t>pulleavatsaisena</t>
+        <t t_type="phrase">olla jossakin pullukkana, pulleavatsaisena</t>
       </tg>
     </mg>
   </e>
@@ -125767,8 +125715,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikuskella pullukkana</t>
-        <t>pulleavatsaisena</t>
+        <t t_type="phrase">liikuskella pullukkana, pulleavatsaisena</t>
       </tg>
     </mg>
   </e>
@@ -125778,8 +125725,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikkua pullukkana</t>
-        <t>pulleavatsaisena</t>
+        <t t_type="phrase">liikkua pullukkana, pulleavatsaisena</t>
       </tg>
     </mg>
   </e>
@@ -127506,7 +127452,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>porotokasta</re>
-        <t>tiiviimpänä</t>
+        <t pos="Adv">tiiviimpänä</t>
         <t>tiheämmässä</t>
       </tg>
     </mg>
@@ -128442,7 +128388,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>vesireitistä</re>
-        <t>kapeana</t>
+        <t pos="Adv">kapeana</t>
         <t pos="A">kapea</t>
         <xg>
           <x>jávri lea dakko čoalmmil</x>
@@ -131299,7 +131245,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>suippona</t>
+        <t pos="Adv">suippona</t>
         <t>suipoksi</t>
       </tg>
     </mg>
@@ -132688,7 +132634,7 @@
     <mg>
       <tg xml:lang="fin">
         <t>kuperaksi</t>
-        <t>kuperana</t>
+        <t pos="Adv">kuperana</t>
       </tg>
     </mg>
   </e>
@@ -133080,7 +133026,7 @@
   </e>
   <e>
     <lg>
-      <l>čordnasis</l>
+      <l pos="Adv">čordnasis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -133114,7 +133060,7 @@
   </e>
   <e>
     <lg>
-      <l>čordnasii</l>
+      <l pos="Adv">čordnasii</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -139057,11 +139003,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin taitamattomana</t>
-        <t>osaamattomana</t>
+        <t pos="V">pitää (jotakuta) kovin taitamattomana, osaamattomana</t>
         <xg>
           <x>čuorbbášii su iige váldán bargui</x>
           <xt>piti häntä kovin taitamattomana eikä ottanut töihin</xt>
@@ -142153,7 +142096,7 @@
   </e>
   <e>
     <lg>
-      <l>čuvgosii</l>
+      <l pos="Adv">čuvgosii</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -142163,7 +142106,7 @@
   </e>
   <e>
     <lg>
-      <l>čuvgosis</l>
+      <l pos="Adv">čuvgosis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -145846,7 +145789,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>koillisempana</t>
+        <t pos="Adv">koillisempana</t>
         <t>koillisempaa</t>
       </tg>
     </mg>
@@ -147406,7 +147349,7 @@
   </e>
   <e>
     <lg>
-      <l>dáhtokeahttá</l>
+      <l pos="Adv">dáhtokeahttá</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -152254,10 +152197,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>ihmisestä</re>
-        <t t_type="phrase">olla lamaantuneena</t>
-        <t>häkeltyneenä</t>
-        <t pos="Adv">hämmentyneenä</t>
-        <t>toimintakyvyttömänä</t>
+        <t t_type="phrase">olla lamaantuneena, häkeltyneenä, hämmentyneenä, toimintakyvyttömänä</t>
       </tg>
     </mg>
   </e>
@@ -153886,7 +153826,7 @@
   </e>
   <e>
     <lg>
-      <l>dávjjis</l>
+      <l pos="Adv">dávjjis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -156409,7 +156349,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>terveenä</t>
+        <t pos="Adv">terveenä</t>
         <t>terveeksi</t>
         <xg>
           <x>dearvan máhccen ruoktot</x>
@@ -156727,9 +156667,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
-        <t pos="V">pitää</t>
-        <t>terveenä</t>
+        <t t_type="phrase">pitää (jotakuta) terveenä</t>
       </tg>
     </mg>
   </e>
@@ -159688,7 +159626,7 @@
   </e>
   <e>
     <lg>
-      <l>diehttalasas</l>
+      <l pos="Adv">diehttalasas</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -161766,7 +161704,7 @@
   </e>
   <e>
     <lg>
-      <l>dihtosii</l>
+      <l pos="Adv">dihtosii</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -163353,10 +163291,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin haluttomana</t>
-        <t>vastentahtoisena</t>
+        <t pos="V">pitää (jotakuta) kovin haluttomana, vastentahtoisena</t>
       </tg>
     </mg>
     <mg>
@@ -165192,8 +165127,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää jotakin liian tiiviinä</t>
-        <t>vedenpitävänä</t>
+        <t t_type="phrase">pitää jotakin liian tiiviinä, vedenpitävänä</t>
       </tg>
     </mg>
   </e>
@@ -169636,11 +169570,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin tyhmänä</t>
-        <t>typeränä</t>
+        <t pos="V">pitää (jotakuta) kovin tyhmänä, typeränä</t>
         <xg>
           <x>doavkkášedje su diekkár doibmii</x>
           <xt>häntä pidettiin kovin tyhmänä tuollaiseen tehtävään</xt>
@@ -171737,7 +171668,7 @@
   </e>
   <e>
     <lg>
-      <l>dollaleavttuin</l>
+      <l pos="Adv">dollaleavttuin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -175443,7 +175374,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>tyytymättömänä</t>
+        <t pos="Adv">tyytymättömänä</t>
         <t pos="Adv">tyytymättömästi</t>
       </tg>
     </mg>
@@ -175490,7 +175421,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>tyytyväisenä</t>
+        <t pos="Adv">tyytyväisenä</t>
         <t pos="Adv">tyytyväisesti</t>
         <xg>
           <x>geahčadii duhtavaččat dujiidis</x>
@@ -175505,7 +175436,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>tyytyväisenä</t>
+        <t pos="Adv">tyytyväisenä</t>
         <t pos="Adv">tyytyväisesti</t>
         <xg>
           <x>geahčadii duhtavaččat dujiidis</x>
@@ -178206,8 +178137,7 @@
       <tg xml:lang="fin">
         <re>jotakuta</re>
         <t pos="V">kuroa</t>
-        <t pos="V">pienentää</t>
-        <t>etumatkaa</t>
+        <t t_type="phrase">pienentää etumatkaa</t>
         <t pos="V">tavoittaa</t>
         <t pos="V">saavuttaa</t>
       </tg>
@@ -178877,7 +178807,7 @@
   </e>
   <e>
     <lg>
-      <l>duolbasii</l>
+      <l pos="Adv">duolbasii</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -178939,8 +178869,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin latteana</t>
-        <t>tasaisena</t>
+        <t t_type="phrase">olla jossakin latteana, tasaisena</t>
       </tg>
     </mg>
   </e>
@@ -179203,7 +179132,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">lappeellaan</t>
-        <t>latteana</t>
+        <t pos="Adv">latteana</t>
       </tg>
     </mg>
     <mg>
@@ -181408,9 +181337,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin sottaisena</t>
-        <t>tuhruisena</t>
-        <t>tahmaisena</t>
+        <t t_type="phrase">olla jossakin sottaisena, tuhruisena, tahmaisena</t>
       </tg>
     </mg>
   </e>
@@ -182274,8 +182201,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää turhana</t>
-        <t>turhanpäiväisenä</t>
+        <t t_type="phrase">pitää turhana, turhanpäiväisenä</t>
         <t pos="V">väheksyä</t>
       </tg>
     </mg>
@@ -186014,7 +185940,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">elävältä</t>
-        <t>elävänä</t>
+        <t pos="Adv">elävänä</t>
         <xg>
           <x>dohppii dan gearbmaša eallinaga gihtii</x>
           <xt>nappasi sen käärmeen elävältä käteen</xt>
@@ -187667,9 +187593,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>liian</re>
-        <t pos="V">pitää</t>
-        <t>paljona</t>
+        <t t_type="phrase">pitää (liian) paljona</t>
       </tg>
     </mg>
   </e>
@@ -188833,9 +188757,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää inhottavana</t>
-        <t>iljettävänä</t>
-        <t>ällöttävänä</t>
+        <t t_type="phrase">pitää inhottavana, iljettävänä, ällöttävänä</t>
       </tg>
     </mg>
   </e>
@@ -188845,9 +188767,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää inhottavana</t>
-        <t>iljettävänä</t>
-        <t>ällöttävänä</t>
+        <t t_type="phrase">pitää inhottavana, iljettävänä, ällöttävänä</t>
       </tg>
     </mg>
   </e>
@@ -188857,9 +188777,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää inhottavana</t>
-        <t>iljettävänä</t>
-        <t>ällöttävänä</t>
+        <t t_type="phrase">pitää inhottavana, iljettävänä, ällöttävänä</t>
       </tg>
     </mg>
   </e>
@@ -192589,7 +192507,7 @@
   </e>
   <e>
     <lg>
-      <l>etneš guovttos</l>
+      <l pos="N" type="Coll">etneš guovttos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -193286,7 +193204,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>kaulasta</re>
-        <t>pitkänä</t>
+        <t pos="Adv">pitkänä</t>
         <t pos="Adv">pitkällä</t>
       </tg>
     </mg>
@@ -194409,9 +194327,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>jossakin</re>
-        <t pos="V">olla</t>
-        <t>rumana</t>
+        <t t_type="phrase">olla (jossakin) rumana</t>
       </tg>
     </mg>
   </e>
@@ -194656,7 +194572,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">venytyksessä</t>
-        <t>venytettävänä</t>
+        <t pos="Adv">venytettävänä</t>
       </tg>
     </mg>
   </e>
@@ -195188,8 +195104,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>jyrkkänään</t>
-        <t>äkkijyrkkänä</t>
+        <t pos="Adv">jyrkkänään</t>
+        <t pos="Adv">äkkijyrkkänä</t>
       </tg>
     </mg>
   </e>
@@ -198128,10 +198044,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t>kauniina</t>
+        <t pos="V">pitää (jotakuta) kauniina</t>
         <xg>
           <x>Iŋgá-áhku lávejedje fávrrošit</x>
           <xt>Inka-mummoa pidettiin kauniina</xt>
@@ -204246,8 +204160,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää huonona</t>
-        <t>kehnona</t>
+        <t t_type="phrase">pitää huonona, kehnona</t>
         <t pos="V">huonoksua</t>
         <t pos="V">aliarvioida</t>
       </tg>
@@ -208125,7 +208038,7 @@
   </e>
   <e>
     <lg>
-      <l>ganjalčalmmiiguin</l>
+      <l pos="Adv">ganjalčalmmiiguin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -208459,9 +208372,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kuljeskella pystykaulaisena</t>
-        <t>pystypäisenä</t>
-        <t t_type="phrase">kaula pitkällä</t>
+        <t t_type="phrase">kuljeskella pystykaulaisena, pystypäisenä, kaula pitkällä</t>
       </tg>
     </mg>
   </e>
@@ -208665,16 +208576,12 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian kovana</t>
+        <t pos="V">pitää (jotakin) liian kovana</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian ankarana</t>
+        <t pos="V">pitää (jotakuta) liian ankarana</t>
       </tg>
     </mg>
   </e>
@@ -209034,7 +208941,7 @@
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">nälkäisin suin</t>
-        <t>nälkäisenä</t>
+        <t pos="Adv">nälkäisenä</t>
       </tg>
     </mg>
   </e>
@@ -210235,7 +210142,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Po">kesken</t>
-        <t>keskentekoisena</t>
+        <t pos="Adv">keskentekoisena</t>
       </tg>
     </mg>
   </e>
@@ -211749,7 +211656,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>naisesta</re>
-        <t>raskaana</t>
+        <t pos="Adv">raskaana</t>
       </tg>
     </mg>
   </e>
@@ -211770,7 +211677,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>naisesta</re>
-        <t>raskaana</t>
+        <t pos="Adv">raskaana</t>
       </tg>
     </mg>
   </e>
@@ -220141,9 +220048,9 @@
     <mg>
       <tg xml:lang="fin">
         <re>tavaroista</re>
-        <t>kuormattuna</t>
+        <t pos="Adv">kuormattuna</t>
         <t>kaaristettuna</t>
-        <t>sidottuna</t>
+        <t pos="Adv">sidottuna</t>
       </tg>
     </mg>
     <mg>
@@ -220160,9 +220067,9 @@
     <mg>
       <tg xml:lang="fin">
         <re>tavaroista</re>
-        <t>kuormattuna</t>
+        <t pos="Adv">kuormattuna</t>
         <t>kaaristettuna</t>
-        <t>sidottuna</t>
+        <t pos="Adv">sidottuna</t>
       </tg>
     </mg>
     <mg>
@@ -220179,9 +220086,9 @@
     <mg>
       <tg xml:lang="fin">
         <re>tavaroista</re>
-        <t>kuormattuna</t>
+        <t pos="Adv">kuormattuna</t>
         <t>kaaristettuna</t>
-        <t>sidottuna</t>
+        <t pos="Adv">sidottuna</t>
       </tg>
     </mg>
     <mg>
@@ -220325,7 +220232,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">humalassa</t>
-        <t>juopuneena</t>
+        <t pos="Adv">juopuneena</t>
         <t pos="Adv">päissään</t>
       </tg>
     </mg>
@@ -220362,7 +220269,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">humalassa</t>
-        <t>juopuneena</t>
+        <t pos="Adv">juopuneena</t>
         <t pos="Adv">juovuksissa</t>
       </tg>
     </mg>
@@ -222113,7 +222020,7 @@
   </e>
   <e>
     <lg>
-      <l>gáttibui</l>
+      <l pos="Adv">gáttibui</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -222381,7 +222288,7 @@
   </e>
   <e>
     <lg>
-      <l>gávccis</l>
+      <l pos="N" type="Coll">gávccis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -222510,7 +222417,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>kupumaisena</t>
+        <t pos="Adv">kupumaisena</t>
         <t pos="Adv">kuprulla</t>
       </tg>
     </mg>
@@ -223520,7 +223427,7 @@
     <mg>
       <tg xml:lang="fin">
         <t>kaupattavaksi</t>
-        <t>kaupattavana</t>
+        <t pos="Adv">kaupattavana</t>
       </tg>
     </mg>
   </e>
@@ -225993,8 +225900,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää jotakin kovin kevyenä</t>
-        <t>keveänä</t>
+        <t t_type="phrase">pitää jotakin kovin kevyenä, keveänä</t>
         <xg>
           <x>geahpášii dan gurppi</x>
           <xt>piti sitä kantamusta kovin kevyenä</xt>
@@ -226573,7 +226479,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>taiottuna</re>
-        <t>näkymättömänä</t>
+        <t pos="Adv">näkymättömänä</t>
         <t pos="Adv">näkymättömissä</t>
       </tg>
     </mg>
@@ -226950,7 +226856,7 @@
   </e>
   <e>
     <lg>
-      <l>geaiggogieđaid</l>
+      <l pos="Adv">geaiggogieđaid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -227590,8 +227496,8 @@
     <mg>
       <tg xml:lang="fin">
         <re>metallista</re>
-        <t>kiillotettuna</t>
-        <t>kirkastettuna</t>
+        <t pos="Adv">kiillotettuna</t>
+        <t pos="Adv">kirkastettuna</t>
       </tg>
     </mg>
   </e>
@@ -231860,7 +231766,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>taiottuna</re>
-        <t>näkymättömänä</t>
+        <t pos="Adv">näkymättömänä</t>
         <t pos="Adv">näkymättömissä</t>
       </tg>
     </mg>
@@ -232830,17 +232736,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jonkun</re>
         <gramm>soapmásii</gramm>
-        <t pos="V">joutua</t>
-        <t pos="Adv">häätämäksi</t>
+        <t t_type="phrase">joutua (jonkun) häätämäksi</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>johonkin</re>
-        <t pos="V">joutua</t>
-        <t>komentamana</t>
+        <t t_type="phrase">joutua (johonkin) komentamana</t>
       </tg>
     </mg>
   </e>
@@ -235648,7 +235550,7 @@
   </e>
   <e>
     <lg>
-      <l>gielddekeahttá</l>
+      <l pos="Adv">gielddekeahttá</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -236192,7 +236094,7 @@
       <tg xml:lang="fin">
         <re>ansasta, ansakaarteesta</re>
         <t pos="Adv">vireessä</t>
-        <t>viritettynä</t>
+        <t pos="Adv">viritettynä</t>
       </tg>
     </mg>
   </e>
@@ -236204,7 +236106,7 @@
       <tg xml:lang="fin">
         <re>ansasta, ansakaarteesta</re>
         <t pos="Adv">vireessä</t>
-        <t>viritettynä</t>
+        <t pos="Adv">viritettynä</t>
       </tg>
     </mg>
   </e>
@@ -243142,7 +243044,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kiinni</t>
-        <t>suljettuna</t>
+        <t pos="Adv">suljettuna</t>
         <t pos="Adv">ummessa</t>
       </tg>
     </mg>
@@ -244610,9 +244512,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>liian</re>
-        <t t_type="phrase">olla jossakin</t>
-        <t>isokokoisena</t>
-        <t t_type="phrase">tilaa vievänä</t>
+        <t t_type="phrase">olla jossakin isokokoisena, tilaa vievänä</t>
         <xg>
           <x>girjehildu goagŋái gámmáris</x>
           <xt>kamarissa oli tilaa vievä kirjahylly</xt>
@@ -249136,8 +249036,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>kuivalihaa, kuivakalaa tms.</re>
-        <t t_type="phrase">pitää ylivuotisena</t>
-        <t>eltaantuneena</t>
+        <t t_type="phrase">pitää ylivuotisena, eltaantuneena</t>
       </tg>
     </mg>
   </e>
@@ -252873,7 +252772,7 @@
   </e>
   <e>
     <lg>
-      <l>golbmačuođis</l>
+      <l pos="N" type="Coll">golbmačuođis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -252931,7 +252830,7 @@
   </e>
   <e>
     <lg>
-      <l>golbmalogis</l>
+      <l pos="N" type="Coll">golbmalogis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -252958,7 +252857,7 @@
   </e>
   <e>
     <lg>
-      <l>golbmanuppelogis</l>
+      <l pos="N" type="Coll">golbmanuppelogis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -254569,7 +254468,7 @@
   </e>
   <e>
     <lg>
-      <l>golmmas</l>
+      <l pos="N" type="Coll">golmmas</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -257816,7 +257715,7 @@
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">huomion kohteena</t>
-        <t>ajankohtaisena</t>
+        <t pos="Adv">ajankohtaisena</t>
       </tg>
     </mg>
   </e>
@@ -264687,9 +264586,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
-        <t pos="V">pitää</t>
-        <t>seuraa</t>
+        <t t_type="phrase">pitää (jotakuta) seuraa</t>
         <t pos="V">viihdyttää</t>
         <xg>
           <x>geahččalii guoimmuhit iežas eallilan áhku</x>
@@ -264800,10 +264697,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin laihana</t>
+        <t pos="V">pitää (jotakuta) kovin laihana</t>
       </tg>
     </mg>
   </e>
@@ -264825,8 +264720,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea laihana</t>
-        <t>kuivakkana</t>
+        <t t_type="phrase">kulkea laihana, kuivakkana</t>
       </tg>
     </mg>
   </e>
@@ -267041,18 +266935,12 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian karvakuluna</t>
-        <t>kuluneena</t>
+        <t t_type="phrase">pitää (jotakin) liian karvakuluna, kuluneena</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian karuna</t>
-        <t>hedelmättömänä</t>
+        <t t_type="phrase">pitää (jotakin) liian karuna, hedelmättömänä</t>
       </tg>
     </mg>
   </e>
@@ -267299,7 +267187,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>tyhjänä</t>
+        <t pos="Adv">tyhjänä</t>
         <xg>
           <x>lihtti lei guorosnaga</x>
           <xt>astia oli tyhjänä</xt>
@@ -267572,18 +267460,18 @@
     <mg>
       <tg xml:lang="fin">
         <re>ei täynnä</re>
-        <t>tyhjänä</t>
+        <t pos="Adv">tyhjänä</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l>guorusin</l>
+      <l pos="Adv">guorusin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
         <re>ei täynnä</re>
-        <t>tyhjänä</t>
+        <t pos="Adv">tyhjänä</t>
       </tg>
     </mg>
   </e>
@@ -270156,7 +270044,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="A">kaksoiskupera</t>
-        <t>kaksoiskuperana</t>
+        <t pos="Adv">kaksoiskuperana</t>
       </tg>
     </mg>
   </e>
@@ -270500,7 +270388,7 @@
   </e>
   <e>
     <lg>
-      <l>guovttis</l>
+      <l pos="N" type="Coll">guovttis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -273258,8 +273146,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">lähteä liikkeelle selkä köyryssä</t>
-        <t>kumarana</t>
+        <t t_type="phrase">lähteä liikkeelle selkä köyryssä, kumarana</t>
       </tg>
     </mg>
   </e>
@@ -273363,8 +273250,7 @@
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">kulkea selkä köyryssä</t>
-        <t t_type="phrase">kävellä koukkuselkäisenä</t>
-        <t>kumaraisena</t>
+        <t t_type="phrase">kävellä koukkuselkäisenä, kumaraisena</t>
       </tg>
     </mg>
   </e>
@@ -273375,8 +273261,7 @@
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">kulkea selkä köyryssä</t>
-        <t t_type="phrase">kävellä koukkuselkäisenä</t>
-        <t>kumaraisena</t>
+        <t t_type="phrase">kävellä koukkuselkäisenä, kumaraisena</t>
       </tg>
     </mg>
   </e>
@@ -277373,10 +277258,7 @@
     <mg>
       <tg xml:lang="fin">
         <gramm>soapmása</gramm>
-        <t t_type="phrase">pitää jotakuta kovin saitana</t>
-        <t>kitsaana</t>
-        <t>itarana</t>
-        <t pos="N">pihinä</t>
+        <t t_type="phrase">pitää jotakuta kovin saitana, kitsaana, itarana, pihinä</t>
         <xg>
           <x>hánášii su iige viššan bivdit sus ruhtabihtá loanas</x>
           <xt>piti häntä kovin pihinä eikä viitsinyt pyytää häneltä pikkuvippiä</xt>
@@ -280191,14 +280073,12 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää hauskana</t>
-        <t>miellyttävänä</t>
+        <t t_type="phrase">pitää hauskana, miellyttävänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää mukavana</t>
-        <t>viihtyisänä</t>
+        <t t_type="phrase">pitää mukavana, viihtyisänä</t>
       </tg>
     </mg>
   </e>
@@ -281997,7 +281877,7 @@
   </e>
   <e>
     <lg>
-      <l>heaittekeahttá</l>
+      <l pos="Adv">heaittekeahttá</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -285657,11 +285537,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta, jotakin</re>
         <gramm>soapmása, juoidá</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian heikkona</t>
-        <t t_type="phrase">liian huonona</t>
+        <t t_type="phrase">pitää (jotakuta, jotakin) liian heikkona, liian huonona</t>
         <t pos="V">aliarvioida</t>
       </tg>
     </mg>
@@ -286618,10 +286495,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta, jotakin</re>
         <gramm>soapmása, juoidá</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian hitaana</t>
+        <t pos="V">pitää (jotakuta, jotakin) liian hitaana</t>
         <xg>
           <x>hiđášedje su diekkár bargui</x>
           <xt>häntä pidettiin kovin hitaana tuollaiseen työhön</xt>
@@ -289530,9 +289405,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea höperönä</t>
-        <t pos="Adv">houkkana</t>
-        <t>höynähtäneenä</t>
+        <t t_type="phrase">kulkea höperönä, houkkana, höynähtäneenä</t>
       </tg>
     </mg>
   </e>
@@ -294779,7 +294652,7 @@
   </e>
   <e>
     <lg>
-      <l>iešduddjojuvvon</l>
+      <l pos="A">iešduddjojuvvon</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -296661,7 +296534,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>huonovointisena</t>
+        <t pos="Adv">huonovointisena</t>
         <t pos="N">pahoinvointisena</t>
       </tg>
     </mg>
@@ -296672,7 +296545,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>huonovointisena</t>
+        <t pos="Adv">huonovointisena</t>
         <t pos="N">pahoinvointisena</t>
       </tg>
     </mg>
@@ -298780,7 +298653,7 @@
   </e>
   <e>
     <lg>
-      <l>irggeš guovttos</l>
+      <l pos="N" type="Coll">irggeš guovttos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -300896,8 +300769,7 @@
     <mg>
       <tg xml:lang="fin">
         <gramm>soapmása</gramm>
-        <t t_type="phrase">pitää jotakuta kovin hulluna</t>
-        <t>älyttömänä</t>
+        <t t_type="phrase">pitää jotakuta kovin hulluna, älyttömänä</t>
       </tg>
     </mg>
   </e>
@@ -301115,8 +300987,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin isomahaisena</t>
-        <t>pönäkkänä</t>
+        <t t_type="phrase">olla jossakin isomahaisena, pönäkkänä</t>
       </tg>
     </mg>
   </e>
@@ -301138,8 +301009,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea isomahaisena</t>
-        <t>pönäkkänä</t>
+        <t t_type="phrase">kulkea isomahaisena, pönäkkänä</t>
       </tg>
     </mg>
   </e>
@@ -301149,8 +301019,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea isomahaisena</t>
-        <t>pönäkkänä</t>
+        <t t_type="phrase">kulkea isomahaisena, pönäkkänä</t>
       </tg>
     </mg>
   </e>
@@ -308972,7 +308841,7 @@
   </e>
   <e>
     <lg>
-      <l>joavgasii</l>
+      <l pos="Adv">joavgasii</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -311545,7 +311414,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>pyöreänään</t>
+        <t pos="Adv">pyöreänään</t>
         <t pos="A">pyöreähkö</t>
       </tg>
     </mg>
@@ -313794,7 +313663,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">humalassa</t>
-        <t>juopuneena</t>
+        <t pos="Adv">juopuneena</t>
         <t pos="Adv">juovuksissa</t>
         <t pos="Adv">päissään</t>
       </tg>
@@ -314136,8 +314005,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin töykeänä</t>
-        <t>tylynä</t>
+        <t t_type="phrase">olla jossakin töykeänä, tylynä</t>
         <t pos="V">julmistella</t>
       </tg>
     </mg>
@@ -314660,7 +314528,7 @@
   </e>
   <e>
     <lg>
-      <l>jumeš guovttos</l>
+      <l pos="N" type="Coll">jumeš guovttos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -315247,7 +315115,7 @@
   </e>
   <e>
     <lg>
-      <l>juohkáskeahttá</l>
+      <l pos="Adv">juohkáskeahttá</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -323707,7 +323575,7 @@
   </e>
   <e>
     <lg>
-      <l>lahkosiidda</l>
+      <l pos="Adv">lahkosiidda</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -323718,7 +323586,7 @@
   </e>
   <e>
     <lg>
-      <l>lahkasiidda</l>
+      <l pos="Adv">lahkasiidda</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -323729,7 +323597,7 @@
   </e>
   <e>
     <lg>
-      <l>lahkosiin</l>
+      <l pos="Adv">lahkosiin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -323744,7 +323612,7 @@
   </e>
   <e>
     <lg>
-      <l>lahkasiin</l>
+      <l pos="Adv">lahkasiin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -325003,7 +324871,7 @@
     <mg>
       <tg xml:lang="fin">
         <t>luhistuksissa</t>
-        <t>lysähtäneenä</t>
+        <t pos="Adv">lysähtäneenä</t>
       </tg>
     </mg>
   </e>
@@ -326079,7 +325947,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ladattuna</t>
+        <t pos="Adv">ladattuna</t>
         <t pos="Adv">latingissa</t>
       </tg>
     </mg>
@@ -326144,7 +326012,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ladattuna</t>
+        <t pos="Adv">ladattuna</t>
         <t pos="Adv">latingissa</t>
       </tg>
     </mg>
@@ -329164,10 +329032,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin laiskana</t>
+        <t pos="V">pitää (jotakuta) kovin laiskana</t>
       </tg>
     </mg>
   </e>
@@ -329803,7 +329669,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>päällä olevasta vaatteesta</re>
-        <t>vyöttämättömänä</t>
+        <t pos="Adv">vyöttämättömänä</t>
         <t pos="Adv">löysänä</t>
         <t>repsottaen</t>
       </tg>
@@ -333199,9 +333065,9 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">auki</t>
-        <t>avattuna</t>
+        <t pos="Adv">avattuna</t>
         <t pos="Adv">levällään</t>
-        <t>levitettynä</t>
+        <t pos="Adv">levitettynä</t>
       </tg>
     </mg>
   </e>
@@ -334350,7 +334216,7 @@
       <tg xml:lang="fin">
         <re>metallista</re>
         <t pos="A">rosoinen</t>
-        <t>rosoisena</t>
+        <t pos="Adv">rosoisena</t>
       </tg>
     </mg>
   </e>
@@ -334452,7 +334318,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>lenkona</t>
+        <t pos="Adv">lenkona</t>
         <t pos="Adv">notkollaan</t>
       </tg>
     </mg>
@@ -341960,8 +341826,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin lyllerönä</t>
-        <t>lyhytjalkaisena</t>
+        <t t_type="phrase">olla jossakin lyllerönä, lyhytjalkaisena</t>
       </tg>
     </mg>
   </e>
@@ -341992,8 +341857,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">lähteä tallustelemaan lyllerönä</t>
-        <t>lyhytjalkaisena</t>
+        <t t_type="phrase">lähteä tallustelemaan lyllerönä, lyhytjalkaisena</t>
       </tg>
     </mg>
   </e>
@@ -342003,8 +341867,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">tallustella lyllerönä</t>
-        <t>lyhytjalkaisena</t>
+        <t t_type="phrase">tallustella lyllerönä, lyhytjalkaisena</t>
       </tg>
     </mg>
   </e>
@@ -342330,7 +342193,7 @@
   </e>
   <e>
     <lg>
-      <l>loahpaloahpas</l>
+      <l pos="Adv">loahpaloahpas</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -343222,8 +343085,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>jousta tms.</re>
-        <t t_type="phrase">pitää liian kuoleentuneena</t>
-        <t>kuoleutuneena</t>
+        <t t_type="phrase">pitää liian kuoleentuneena, kuoleutuneena</t>
       </tg>
     </mg>
     <mg>
@@ -343775,13 +343637,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin leppoisana</t>
-        <t>sävyisänä</t>
-        <t pos="Adv">maltillisena</t>
-        <t>rauhallisena</t>
+        <t pos="V">pitää (jotakuta) kovin leppoisana, sävyisänä, maltillisena, rauhallisena</t>
       </tg>
     </mg>
   </e>
@@ -345213,7 +345070,7 @@
   </e>
   <e>
     <lg>
-      <l>logis</l>
+      <l pos="N" type="Coll">logis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -346540,8 +346397,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää kovin rauhallisena</t>
-        <t>sävyisänä</t>
+        <t t_type="phrase">pitää kovin rauhallisena, sävyisänä</t>
       </tg>
     </mg>
   </e>
@@ -350825,7 +350681,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ladattuna</t>
+        <t pos="Adv">ladattuna</t>
         <t pos="Adv">latingissa</t>
       </tg>
     </mg>
@@ -350836,7 +350692,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ladattuna</t>
+        <t pos="Adv">ladattuna</t>
         <t pos="Adv">latingissa</t>
       </tg>
     </mg>
@@ -350963,7 +350819,7 @@
   </e>
   <e>
     <lg>
-      <l>luođuid</l>
+      <l pos="Adv">luođuid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -352785,11 +352641,11 @@
   </e>
   <e>
     <lg>
-      <l>luonddudilis</l>
+      <l pos="Adv">luonddudilis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>luonnonvaraisena</t>
+        <t pos="Adv">luonnonvaraisena</t>
       </tg>
     </mg>
   </e>
@@ -356870,10 +356726,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmásiin</gramm>
-        <t pos="V">kutsua</t>
-        <t>miniäksi</t>
+        <t t_type="phrase">kutsua (jotakuta) miniäksi</t>
       </tg>
     </mg>
     <mg>
@@ -356906,7 +356760,7 @@
   </e>
   <e>
     <lg>
-      <l>manješ guovttos</l>
+      <l pos="N" type="Coll">manješ guovttos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -357938,18 +357792,18 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>viimeisenä</t>
+        <t pos="Adv">viimeisenä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t>jälkimmäisenä</t>
+        <t pos="Adv">jälkimmäisenä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t>perimmäisenä</t>
-        <t>takimmaisena</t>
+        <t pos="Adv">perimmäisenä</t>
+        <t pos="Adv">takimmaisena</t>
       </tg>
     </mg>
   </e>
@@ -357959,18 +357813,18 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>viimeisenä</t>
+        <t pos="Adv">viimeisenä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t>jälkimmäisenä</t>
+        <t pos="Adv">jälkimmäisenä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t>perimmäisenä</t>
-        <t>takimmaisena</t>
+        <t pos="Adv">perimmäisenä</t>
+        <t pos="Adv">takimmaisena</t>
       </tg>
     </mg>
   </e>
@@ -360028,7 +359882,7 @@
   </e>
   <e>
     <lg>
-      <l>máddeleppožis</l>
+      <l pos="Adv">máddeleppožis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -360413,10 +360267,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmásiin</gramm>
-        <t pos="V">kutsua</t>
-        <t>langoksi</t>
+        <t pos="V">kutsua (jotakuta) langoksi</t>
       </tg>
     </mg>
     <mg>
@@ -379010,7 +378862,7 @@
   </e>
   <e>
     <lg>
-      <l>morseš guovttos</l>
+      <l pos="N" type="Coll">morseš guovttos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -384520,7 +384372,7 @@
       <tg xml:lang="fin">
         <t pos="Adv">kahvassa</t>
         <t pos="Po">varressa</t>
-        <t>vartettuna</t>
+        <t pos="Adv">vartettuna</t>
       </tg>
     </mg>
   </e>
@@ -384731,7 +384583,7 @@
   </e>
   <e>
     <lg>
-      <l>nagirčalmmis</l>
+      <l pos="Adv">nagirčalmmis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -386153,11 +386005,8 @@
     <mg>
       <tg xml:lang="fin">
         <re>jäätä, hankea tms.</re>
-        <t t_type="phrase">pitää lujana</t>
-        <t>vahvana</t>
-        <t>vankkana</t>
-        <t pos="V">pitää</t>
-        <t pos="N">kantavana</t>
+        <t t_type="phrase">pitää lujana, vahvana, vankkana</t>
+        <t t_type="phrase">pitää kantavana</t>
       </tg>
     </mg>
     <mg>
@@ -392807,8 +392656,7 @@
       <tg xml:lang="fin">
         <t pos="V">nyrpistellä</t>
         <t pos="V">virnistellä</t>
-        <t t_type="phrase">olla jossakin nyrpeänä</t>
-        <t>virnistelevänä</t>
+        <t t_type="phrase">olla jossakin nyrpeänä, virnistelevänä</t>
       </tg>
     </mg>
   </e>
@@ -396510,19 +396358,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin ujona</t>
-        <t>arkana</t>
+        <t pos="V">pitää (jotakuta) kovin ujona, arkana</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin nahjusmaisena</t>
-        <t>saamattomana</t>
+        <t pos="V">pitää (jotakuta) kovin nahjusmaisena, saamattomana</t>
       </tg>
     </mg>
   </e>
@@ -399333,7 +399175,7 @@
       <tg xml:lang="fin">
         <re>hetkellisesti</re>
         <t>retkallaan</t>
-        <t>repsahtaneena</t>
+        <t pos="Adv">repsahtaneena</t>
       </tg>
     </mg>
   </e>
@@ -399574,7 +399416,7 @@
   </e>
   <e>
     <lg>
-      <l>njealjis</l>
+      <l pos="N" type="Coll">njealjis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -399807,7 +399649,7 @@
     <mg>
       <tg xml:lang="fin">
         <t>retkallaan</t>
-        <t>repsottavana</t>
+        <t pos="Adv">repsottavana</t>
       </tg>
     </mg>
   </e>
@@ -400307,7 +400149,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kurkussa</t>
-        <t>nieltynä</t>
+        <t pos="Adv">nieltynä</t>
       </tg>
     </mg>
   </e>
@@ -405313,8 +405155,7 @@
     <mg>
       <tg xml:lang="fin">
         <gramm>juoidá</gramm>
-        <t t_type="phrase">pitää jotakin kovin suorana</t>
-        <t>oikoisena</t>
+        <t t_type="phrase">pitää jotakin kovin suorana, oikoisena</t>
         <xg>
           <x>njuolggašii dan bálgá</x>
           <xt>piti sitä polkua kovin suorana</xt>
@@ -405427,8 +405268,8 @@
     <mg>
       <tg xml:lang="fin">
         <t t_type="phrase">selkä suorana</t>
-        <t>suoraselkäisenä</t>
-        <t>ryhdikkäänä</t>
+        <t pos="Adv">suoraselkäisenä</t>
+        <t pos="Adv">ryhdikkäänä</t>
       </tg>
     </mg>
   </e>
@@ -405545,7 +405386,7 @@
   </e>
   <e>
     <lg>
-      <l>njuolggoseibbiid</l>
+      <l pos="Adv">njuolggoseibbiid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -406568,7 +406409,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>ruoasta</re>
-        <t>raakana</t>
+        <t pos="Adv">raakana</t>
       </tg>
     </mg>
     <mg>
@@ -410441,7 +410282,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>lapsesta</re>
-        <t>kapaloimattomana</t>
+        <t pos="Adv">kapaloimattomana</t>
       </tg>
     </mg>
   </e>
@@ -410715,10 +410556,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian nuorena</t>
+        <t t_type="phrase">pitää (jotakuta) liian nuorena</t>
         <xg>
           <x>nuorašedje su diekkár bargui</x>
           <xt>häntä pidettiin liian nuorena tuollaiseen työhön</xt>
@@ -411662,19 +411501,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin siivottomana</t>
+        <t t_type="phrase">pitää (jotakuta) kovin siivottomana</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin riettaana</t>
-        <t>rivona</t>
-        <t>siveettömänä</t>
+        <t t_type="phrase">pitää (jotakuta) kovin riettaana, rivona, siveettömänä</t>
       </tg>
     </mg>
   </e>
@@ -412089,7 +411922,7 @@
   </e>
   <e>
     <lg>
-      <l>nuppelogis</l>
+      <l pos="N" type="Coll">nuppelogis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -417870,7 +417703,7 @@
   </e>
   <e>
     <lg>
-      <l>oanehažžii</l>
+      <l pos="Adv">oanehažžii</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -418348,7 +418181,7 @@
   </e>
   <e>
     <lg>
-      <l>oappáš guovttos</l>
+      <l pos="N" type="Coll">oappáš guovttos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -420689,13 +420522,13 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t>täysinäisenä</t>
+        <t pos="Adv">täysinäisenä</t>
         <t>täysinäiseksi</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t>nylkemättömänä</t>
+        <t pos="Adv">nylkemättömänä</t>
         <t pos="N">suolistamattomana</t>
       </tg>
     </mg>
@@ -421188,8 +421021,8 @@
     <mg>
       <tg xml:lang="fin">
         <re>aivan</re>
-        <t>uutena</t>
-        <t>uutukaisena</t>
+        <t pos="Adv">uutena</t>
+        <t pos="Adv">uutukaisena</t>
         <t pos="Adv">tuliteränä</t>
         <xg>
           <x>osten dán biilla ođasnaga</x>
@@ -424070,17 +423903,14 @@
     <mg>
       <tg xml:lang="fin">
         <re>jonkun kanssa</re>
-        <t pos="V">olla</t>
-        <t pos="N">kaveri</t>
+        <t t_type="phrase">olla kaveri</t>
         <t pos="V">kaveerata</t>
         <t pos="V">seurustella</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
-        <t pos="V">kutsua</t>
-        <t>kaveriksi</t>
+        <t pos="V">kutsua (jotakuta) kaveriksi</t>
       </tg>
     </mg>
     <mg>
@@ -425022,7 +424852,7 @@
   </e>
   <e>
     <lg>
-      <l>olgoguolggaid</l>
+      <l pos="Adv">olgoguolggaid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -429263,7 +429093,7 @@
         <re>jossakin</re>
         <t pos="Adv">jatkuvasti</t>
         <t pos="Adv">vakituisesti</t>
-        <t>liikkumattomana</t>
+        <t pos="Adv">liikkumattomana</t>
         <t pos="Adv">pysyvästi</t>
       </tg>
     </mg>
@@ -429277,7 +429107,7 @@
         <re>jossakin</re>
         <t pos="Adv">jatkuvasti</t>
         <t pos="Adv">vakituisesti</t>
-        <t>liikkumattomana</t>
+        <t pos="Adv">liikkumattomana</t>
         <t pos="Adv">pysyvästi</t>
       </tg>
     </mg>
@@ -430155,7 +429985,7 @@
   </e>
   <e>
     <lg>
-      <l>ovccis</l>
+      <l pos="N" type="Coll">ovccis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -433140,7 +432970,7 @@
   </e>
   <e>
     <lg>
-      <l>ovttaheapmin</l>
+      <l pos="Adv">ovttaheapmin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -434592,7 +434422,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">pareittain</t>
-        <t>pareina</t>
+        <t pos="Adv">pareina</t>
       </tg>
     </mg>
   </e>
@@ -434603,7 +434433,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">pareittain</t>
-        <t>pareina</t>
+        <t pos="Adv">pareina</t>
       </tg>
     </mg>
   </e>
@@ -434614,7 +434444,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">pareittain</t>
-        <t>pareina</t>
+        <t pos="Adv">pareina</t>
       </tg>
     </mg>
   </e>
@@ -442582,7 +442412,7 @@
   </e>
   <e>
     <lg>
-      <l>ráhkaduvvomin</l>
+      <l pos="Adv">ráhkaduvvomin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -443163,9 +442993,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>esim. maastoa</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin kivikkoisena</t>
-        <t>vaikeakulkuisena</t>
+        <t t_type="phrase">pitää kovin kivikkoisena vaikeakulkuisena</t>
       </tg>
     </mg>
   </e>
@@ -444260,8 +444088,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea rääsyissä</t>
-        <t>repaleisena</t>
+        <t t_type="phrase">kulkea rääsyissä, repaleisena</t>
       </tg>
     </mg>
     <mg>
@@ -444552,7 +444379,7 @@
   </e>
   <e>
     <lg>
-      <l>rájiid</l>
+      <l pos="Adv">rájiid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -444682,10 +444509,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin kireänä</t>
-        <t>tiukkana</t>
+        <t t_type="phrase">pitää (jotakin) kovin kireänä, tiukkana</t>
       </tg>
     </mg>
   </e>
@@ -445772,8 +445596,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin pitkäsäärisenä</t>
-        <t>hontelona</t>
+        <t t_type="phrase">olla jossakin pitkäsäärisenä, hontelona</t>
       </tg>
     </mg>
   </e>
@@ -448173,9 +447996,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>erit. poroa</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin kituliaana</t>
-        <t>riutuneena</t>
+        <t t_type="phrase">pitää kovin kituliaana, riutuneena</t>
       </tg>
     </mg>
   </e>
@@ -448185,8 +448006,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikuskella kituliaana</t>
-        <t>riutuneena</t>
+        <t t_type="phrase">liikuskella kituliaana, riutuneena</t>
       </tg>
     </mg>
   </e>
@@ -448709,7 +448529,7 @@
         <t pos="Adv">järjestykseen</t>
         <t pos="Adv">järjestyksessä</t>
         <t>valmiiksi</t>
-        <t>valmiina</t>
+        <t pos="Adv">valmiina</t>
       </tg>
     </mg>
     <mg>
@@ -448728,7 +448548,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>valmiina</t>
+        <t pos="Adv">valmiina</t>
         <t pos="Adv">valmiudessa</t>
       </tg>
     </mg>
@@ -453676,8 +453496,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>ihminen tai poro</re>
-        <t t_type="phrase">kulkea läpeensä laihana</t>
-        <t>nääntyneenä</t>
+        <t t_type="phrase">kulkea läpeensä laihana, nääntyneenä</t>
       </tg>
     </mg>
   </e>
@@ -453911,10 +453730,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t pos="Adv">oikeana</t>
-        <t>oikeellisena</t>
+        <t t_type="phrase">pitää (jotakin) oikeana, oikeellisena</t>
       </tg>
     </mg>
   </e>
@@ -456109,10 +455925,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin rikkaana</t>
+        <t t_type="phrase">pitää (jotakuta) kovin rikkaana</t>
       </tg>
     </mg>
   </e>
@@ -456364,9 +456178,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea rääsyissä</t>
-        <t pos="Adv">repaleissa</t>
-        <t>resuisena</t>
+        <t t_type="phrase">kulkea rääsyissä, repaleissa, resuisena</t>
       </tg>
     </mg>
   </e>
@@ -456376,9 +456188,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea rääsyissä</t>
-        <t pos="Adv">repaleissa</t>
-        <t>resuisena</t>
+        <t t_type="phrase">kulkea rääsyissä, repaleissa, resuisena</t>
       </tg>
     </mg>
   </e>
@@ -456569,7 +456379,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="N">puolialasti</t>
-        <t>puolialastomana</t>
+        <t pos="Adv">puolialastomana</t>
       </tg>
     </mg>
   </e>
@@ -456580,7 +456390,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="N">puolialasti</t>
-        <t>puolialastomana</t>
+        <t pos="Adv">puolialastomana</t>
       </tg>
     </mg>
   </e>
@@ -459138,8 +458948,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>jalkineista, ihmisistä jne.</re>
-        <t t_type="phrase">olla jossakin muodottomana</t>
-        <t>rähjäisenä</t>
+        <t t_type="phrase">olla jossakin muodottomana, rähjäisenä</t>
       </tg>
     </mg>
     <mg>
@@ -459765,8 +459574,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin kiemuraisena</t>
-        <t>koukeroisena</t>
+        <t t_type="phrase">olla jossakin kiemuraisena, koukeroisena</t>
       </tg>
     </mg>
   </e>
@@ -460010,8 +459818,8 @@
       <tg xml:lang="fin">
         <re>hetkellisesti, esim. kädestä</re>
         <t pos="Adv">koukussa</t>
-        <t>koukistettuna</t>
-        <t>taivutettuna</t>
+        <t pos="Adv">koukistettuna</t>
+        <t pos="Adv">taivutettuna</t>
       </tg>
     </mg>
   </e>
@@ -460785,9 +460593,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jossakin</re>
-        <t pos="V">olla</t>
-        <t>rumana</t>
+        <t t_type="phrase">olla (jossakin) rumana</t>
       </tg>
     </mg>
   </e>
@@ -462406,10 +462212,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta, jotakin</re>
         <gramm>soapmása, juoidá</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin rumana</t>
+        <t pos="V">pitää (jotakuta, jotakin) kovin rumana</t>
         <xg>
           <x>romášii dan vistti iige láigohan</x>
           <xt>piti sitä asuntoa kovin rumana eikä vuokrannut</xt>
@@ -464338,8 +464142,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>erit. esineistä</re>
-        <t t_type="phrase">olla jossakin muodottomana</t>
-        <t>rähjäisenä</t>
+        <t t_type="phrase">olla jossakin muodottomana, rähjäisenä</t>
       </tg>
     </mg>
     <mg>
@@ -466873,10 +466676,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin laihana</t>
+        <t pos="V">pitää (jotakuta) kovin laihana</t>
         <xg>
           <x>ruoinnašin su</x>
           <xt>pidin häntä kovin laihana</xt>
@@ -469231,7 +469032,7 @@
   </e>
   <e>
     <lg>
-      <l>ruovttotgežiid</l>
+      <l pos="Adv">ruovttotgežiid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -469620,7 +469421,7 @@
   </e>
   <e>
     <lg>
-      <l>ruovttus</l>
+      <l pos="Adv">ruovttus</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -471416,8 +471217,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin rähmäsilmäisenä</t>
-        <t>tihrusilmäisenä</t>
+        <t t_type="phrase">olla jossakin rähmäsilmäisenä, tihrusilmäisenä</t>
       </tg>
     </mg>
   </e>
@@ -477345,7 +477145,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>puikkomaisena</t>
+        <t pos="Adv">puikkomaisena</t>
         <t t_type="phrase">puikkomaiseksi kasvaneena</t>
       </tg>
     </mg>
@@ -479525,10 +479325,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>+ kom.</gramm>
-        <t pos="V">kutsua</t>
-        <t t_type="phrase">tulevaksi sukulaiseksi</t>
+        <t pos="V">kutsua (jotakuta) tulevaksi sukulaiseksi</t>
       </tg>
     </mg>
     <mg>
@@ -480335,7 +480133,7 @@
       <tg xml:lang="fin">
         <t t_type="phrase">hiekan tahraamana</t>
         <t pos="N">hiekassa</t>
-        <t>hiekkaisena</t>
+        <t pos="Adv">hiekkaisena</t>
         <xg>
           <x>ii oaččo boahtit sáttonaga stohpui</x>
           <xt>ei saa tulla hiekkaisena tupaan</xt>
@@ -482856,8 +482654,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää puikkoa liian hoikkana</t>
-        <t>ohuena</t>
+        <t t_type="phrase">pitää puikkoa liian hoikkana, ohuena</t>
       </tg>
     </mg>
     <mg>
@@ -485864,7 +485661,7 @@
   </e>
   <e>
     <lg>
-      <l>selggiid</l>
+      <l pos="Adv">selggiid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -489417,7 +489214,7 @@
   </e>
   <e>
     <lg>
-      <l>siiddas</l>
+      <l pos="Adv">siiddas</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -490202,8 +489999,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>jotakuta, elukkaa</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin huonokuntoisena</t>
+        <t t_type="phrase">pitää kovin huonokuntoisena</t>
       </tg>
     </mg>
     <mg>
@@ -490216,9 +490012,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>kangasta, paperia</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin hauraana</t>
-        <t>ohuena</t>
+        <t t_type="phrase">pitää kovin hauraana, ohuena</t>
       </tg>
     </mg>
   </e>
@@ -493535,8 +493329,7 @@
       <tg xml:lang="fin">
         <re>jotakuta</re>
         <gramm>+ kom.</gramm>
-        <t pos="V">kutsua</t>
-        <t t_type="phrase">kälyksi tai langoksi</t>
+        <t pos="V">kutsua kälyksi tai langoksi</t>
         <xg>
           <x>sivjjogastalit</x>
           <xt>kutsua (toisiaan) kälyksi ja langoksi</xt>
@@ -494082,8 +493875,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea uljaana</t>
-        <t>ylväänä</t>
+        <t t_type="phrase">kulkea uljaana, ylväänä</t>
       </tg>
     </mg>
   </e>
@@ -499452,7 +499244,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>viistettynä</t>
+        <t pos="Adv">viistettynä</t>
         <t pos="Adv">viistossa</t>
         <t pos="Adv">viistoon</t>
       </tg>
@@ -499927,10 +499719,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>jossakin</re>
-        <t pos="V">olla</t>
-        <t pos="V">näkyä</t>
-        <t>kyömynenäisenä</t>
+        <t pos="V">olla/näkyä (jossakin) kyömynenäisenä</t>
         <xg>
           <x>Máhtte maiddái oidnui skoalbmánin čoahkkinlanjas</x>
           <xt>kyömynenäinen Matti myös näkyi kokoushuoneessa</xt>
@@ -501375,7 +501164,7 @@
   </e>
   <e>
     <lg>
-      <l>skole</l>
+      <l pos="Interj">skole</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -502038,9 +501827,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin muotopuolena</t>
-        <t>vääntyneenä</t>
-        <t>vinona</t>
+        <t t_type="phrase">olla jossakin muotopuolena, vääntyneenä, vinona</t>
       </tg>
     </mg>
   </e>
@@ -503783,14 +503570,12 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">mennä johonkin kurjana</t>
-        <t>surkeana</t>
+        <t t_type="phrase">mennä johonkin kurjana, surkeana</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikkua kurjana</t>
-        <t>surkeana</t>
+        <t t_type="phrase">liikkua kurjana, surkeana</t>
       </tg>
     </mg>
   </e>
@@ -503976,8 +503761,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea kurjana</t>
-        <t>surkeana</t>
+        <t t_type="phrase">kulkea kurjana, surkeana</t>
       </tg>
     </mg>
   </e>
@@ -505553,11 +505337,7 @@
       <tg xml:lang="fin">
         <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin heiveröisenä</t>
-        <t pos="Adv">heikkona</t>
-        <t>mitättömänä</t>
-        <t>vähäpätöisenä</t>
+        <t pos="V">pitää kovin heiveröisenä, heikkona, mitättömänä, vähäpätöisenä</t>
       </tg>
     </mg>
   </e>
@@ -506478,9 +506258,7 @@
     <mg>
       <tg xml:lang="fin">
         <gramm>juoidá</gramm>
-        <t t_type="phrase">pitää jotakin kovin hauraana</t>
-        <t>mureana</t>
-        <t>rapeana</t>
+        <t t_type="phrase">pitää jotakin kovin hauraana, mureana, rapeana</t>
       </tg>
     </mg>
   </e>
@@ -506628,9 +506406,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea vankkana</t>
-        <t>vantterana</t>
-        <t>pyöreäselkäisenä</t>
+        <t t_type="phrase">kulkea vankkana, vantterana, pyöreäselkäisenä</t>
       </tg>
     </mg>
   </e>
@@ -507560,7 +507336,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>viistettynä</t>
+        <t pos="Adv">viistettynä</t>
         <t t_type="phrase">viistoon leikattuna</t>
         <t pos="Adv">viistossa</t>
       </tg>
@@ -508820,10 +508596,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">seistä alakuloisena</t>
-        <t>apeana</t>
-        <t t_type="phrase">alla päin</t>
-        <t pos="Adv">masentuneena</t>
+        <t t_type="phrase">seistä alakuloisena, apeana, alla päin, masentuneena</t>
         <t pos="V">murjottaa</t>
       </tg>
     </mg>
@@ -512919,8 +512692,10 @@
         <re>jotakuta</re>
         <t pos="V">haavoittaa</t>
         <t pos="V">loukata</t>
-        <x>/ soardit iežas</x>
-        <xt>tehdä itsemurha<xt>
+        <xg>
+          <x>soardit iežas</x>
+          <xt>tehdä itsemurha<xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -518731,8 +518506,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>jossakin</re>
-        <t pos="V">olla</t>
-        <t>pöhöttyneenä</t>
+        <t t_type="phrase">olla pöhöttyneenä</t>
       </tg>
     </mg>
   </e>
@@ -536358,10 +536132,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jossakin</re>
-        <t pos="V">olla</t>
-        <t>törkyisenä</t>
-        <t t_type="phrase">törkyisissä vaatteissa</t>
+        <t t_type="phrase">olla (jossakin) törkyisenä, törkyisissä vaatteissa</t>
       </tg>
     </mg>
   </e>
@@ -538427,10 +538198,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <t pos="V">sympatisoida</t>
-        <t t_type="phrase">tuntea sympatiaa</t>
-        <t pos="Po">kohtaan</t>
+        <t t_type="phrase">tuntea sympatiaa (jotakuta) kohtaan</t>
       </tg>
     </mg>
   </e>
@@ -540463,8 +540232,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">ilmestyä johonkin kiiltävänä</t>
-        <t>kirkkaana</t>
+        <t t_type="phrase">ilmestyä johonkin kiiltävänä, kirkkaana</t>
       </tg>
     </mg>
   </e>
@@ -540480,8 +540248,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">ilmestyä johonkin kiiltävänä</t>
-        <t>kirkkaana</t>
+        <t t_type="phrase">ilmestyä johonkin kiiltävänä, kirkkaana</t>
       </tg>
     </mg>
   </e>
@@ -540501,8 +540268,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">liikkua kimaltavana</t>
-        <t>kiiltävänä</t>
+        <t t_type="phrase">liikkua kimaltavana, kiiltävänä</t>
         <t t_type="phrase">liikkua välkkyen</t>
       </tg>
     </mg>
@@ -545289,8 +545055,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kävellä hoikkana</t>
-        <t>laihana</t>
+        <t t_type="phrase">kävellä hoikkana, laihana</t>
         <t t_type="phrase">kävellä raskain ja pitkin askelin</t>
       </tg>
     </mg>
@@ -545772,8 +545537,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">olla jossakin isopäisenä</t>
-        <t>pönäkkänä</t>
+        <t t_type="phrase">olla jossakin isopäisenä, pönäkkänä</t>
       </tg>
     </mg>
   </e>
@@ -546156,10 +545920,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>pitkään</re>
-        <t pos="V">olla</t>
-        <t pos="Adv">allapäin</t>
-        <t>apeana</t>
+        <t pos="V">olla (pitkään) allapäin, apeana</t>
       </tg>
     </mg>
   </e>
@@ -546169,8 +545930,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">lähteä liikkeelle alakuloisena</t>
-        <t>apeana</t>
+        <t t_type="phrase">lähteä liikkeelle alakuloisena, apeana</t>
       </tg>
     </mg>
   </e>
@@ -546229,8 +545989,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">kulkea jossakin alakuloisena</t>
-        <t>apeana</t>
+        <t t_type="phrase">kulkea jossakin alakuloisena, apeana</t>
       </tg>
     </mg>
   </e>
@@ -551782,7 +551541,7 @@
   </e>
   <e>
     <lg>
-      <l>TV</l>
+      <l pos="N">TV</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -553687,10 +553446,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin ujona</t>
+        <t t_type="phrase">pitää (jotakuta) kovin ujona</t>
       </tg>
     </mg>
   </e>
@@ -557696,7 +557453,7 @@
       <tg xml:lang="fin">
         <t pos="Adv">veressä</t>
         <t>verillä</t>
-        <t>verisenä</t>
+        <t pos="Adv">verisenä</t>
         <xg>
           <x>gávdnui varranaga sorbmebáikkis</x>
           <xt>löytyi verisenä surmapaikalta</xt>
@@ -560592,7 +560349,7 @@
       <tg xml:lang="fin">
         <re>esim. astia</re>
         <t pos="A">vajaa</t>
-        <t>vajaana</t>
+        <t pos="Adv">vajaana</t>
       </tg>
     </mg>
   </e>
@@ -561328,10 +561085,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin työläänä</t>
-        <t>vaivalloisena</t>
+        <t t_type="phrase">pitää (jotakin) kovin työläänä, vaivalloisena</t>
       </tg>
     </mg>
   </e>
@@ -561647,7 +561401,7 @@
     <mg>
       <tg xml:lang="fin">
         <t>valmiiksi</t>
-        <t>valmiina</t>
+        <t pos="Adv">valmiina</t>
         <xg>
           <x>barggai dan válbmasii</x>
           <xt>teki sen valmiiksi</xt>
@@ -561662,7 +561416,7 @@
     <mg>
       <tg xml:lang="fin">
         <t>valmiiksi</t>
-        <t>valmiina</t>
+        <t pos="Adv">valmiina</t>
         <xg>
           <x>barggai dan válbmasii</x>
           <xt>teki sen valmiiksi</xt>
@@ -562869,7 +562623,7 @@
   </e>
   <e>
     <lg>
-      <l>váljus</l>
+      <l pos="Adv">váljus</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -563293,11 +563047,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
         <gramm>+ akk.</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin niukkana</t>
-        <t>riittämättömänä</t>
+        <t pos="V">pitää (jotakin) kovin niukkana, riittämättömänä</t>
         <xg>
           <x>vánášii dan bálkká</x>
           <xt>piti sitä palkkaa kovin riittämättömänä</xt>
@@ -563544,7 +563295,7 @@
   </e>
   <e>
     <lg>
-      <l>vánhen guovttos</l>
+      <l pos="N" type="Coll">vánhen guovttos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -563554,7 +563305,7 @@
   </e>
   <e>
     <lg>
-      <l>váhnen guovttos</l>
+      <l pos="N" type="Coll">váhnen guovttos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -568120,7 +567871,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>eläimestä</re>
-        <t>paimentamattomana</t>
+        <t pos="Adv">paimentamattomana</t>
         <t pos="Adv">vapaana</t>
         <t>vapaaksi</t>
       </tg>
@@ -568133,7 +567884,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>eläimestä</re>
-        <t>paimentamattomana</t>
+        <t pos="Adv">paimentamattomana</t>
         <t pos="Adv">vapaana</t>
         <t>vapaaksi</t>
       </tg>
@@ -568166,7 +567917,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>eläimestä</re>
-        <t>paimentamattomana</t>
+        <t pos="Adv">paimentamattomana</t>
         <t pos="Adv">vapaana</t>
         <t>vapaaksi</t>
       </tg>
@@ -568179,7 +567930,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>eläimestä</re>
-        <t>paimentamattomana</t>
+        <t pos="Adv">paimentamattomana</t>
         <t pos="Adv">vapaana</t>
         <t>vapaaksi</t>
       </tg>
@@ -570886,7 +570637,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>läntisimpänä</t>
+        <t pos="Adv">läntisimpänä</t>
       </tg>
     </mg>
   </e>
@@ -571943,7 +571694,7 @@
   </e>
   <e>
     <lg>
-      <l>veriid</l>
+      <l pos="Adv">veriid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -572308,7 +572059,7 @@
   </e>
   <e>
     <lg>
-      <l>viđas</l>
+      <l pos="N" type="Coll">viđas</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -572386,7 +572137,7 @@
   </e>
   <e>
     <lg>
-      <l>viđádis</l>
+      <l pos="Adv">viđádis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -573295,9 +573046,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
-        <t pos="V">kutsua</t>
-        <t>veljeksi</t>
+        <t t_type="phrase">kutsua (jotakuta) veljeksi</t>
       </tg>
     </mg>
   </e>
@@ -575520,9 +575269,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
-        <t pos="V">pitää</t>
-        <t pos="Adv">viisaana</t>
+        <t t_type="phrase">pitää (jotakuta) viisaana</t>
         <xg>
           <x>su lávejit viissášit</x>
           <xt>häntä pidetään viisaana</xt>
@@ -578245,10 +577992,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmásiin</gramm>
-        <t pos="V">kutsua</t>
-        <t>vävyksi</t>
+        <t pos="V">kutsua (jotakuta) vävyksi</t>
       </tg>
     </mg>
   </e>
@@ -580692,8 +580437,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää sopivana</t>
-        <t>soveliaana</t>
+        <t t_type="phrase">pitää sopivana, soveliaana</t>
       </tg>
     </mg>
   </e>
@@ -581691,7 +581435,7 @@
   </e>
   <e>
     <lg>
-      <l>vuoigadis</l>
+      <l pos="Adv">vuoigadis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -587548,9 +587292,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>liian</re>
-        <t pos="V">pitää</t>
-        <t>harvalukuisena</t>
+        <t t_type="phrase">pitää (liian) harvalukuisena</t>
       </tg>
     </mg>
   </e>
@@ -587987,7 +587729,7 @@
   </e>
   <e>
     <lg>
-      <l>vuoruid</l>
+      <l pos="Adv">vuoruid</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -588909,8 +588651,7 @@
       <tg xml:lang="fin">
         <re>jotakuta</re>
         <t pos="V">vastustella</t>
-        <t pos="V">olla</t>
-        <t pos="Po">vastaan</t>
+        <t t_type="phrase">olla vastaan</t>
       </tg>
     </mg>
   </e>
@@ -589486,10 +589227,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmásiin</gramm>
-        <t pos="V">kutsua</t>
-        <t>anopiksi</t>
+        <t pos="V">kutsua (jotakuta) anopiksi</t>
       </tg>
     </mg>
   </e>
@@ -589640,10 +589379,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin ahneena</t>
+        <t pos="V">pitää (jotakuta) kovin ahneena</t>
       </tg>
     </mg>
   </e>
