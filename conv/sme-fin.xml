@@ -14551,10 +14551,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>poro</re>
-        <t t_type="phrase">pitää tai käyttää</t>
-        <t>aitaa</t>
-        <t>kaarretta</t>
+        <t t_type="phrase">pitää tai käyttää (poro)aitaa, kaarretta</t>
       </tg>
     </mg>
   </e>
@@ -22744,9 +22741,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian aikaisena ~ liian varhaisena</t>
+        <t t_type="phrase">pitää (jotakin) liian aikaisena ~ liian varhaisena</t>
         <xg>
           <x>árašii mu vuolgináiggi</x>
           <xt>piti minun lähtöaikaani liian varhaisena</xt>
@@ -23519,9 +23514,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian arkisena</t>
+        <t t_type="phrase">pitää (jotakin) liian arkisena</t>
         <xg>
           <x>árggašii su biktasiid diekkár dilálašvuhtii</x>
           <xt>piti hänen vaatetustaan liian arkisena sellaiseen tilaisuuteen</xt>
@@ -43303,10 +43296,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
         <gramm>juoidá</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin kuumana</t>
+        <t t_type="phrase">pitää (jotakin) kovin kuumana</t>
       </tg>
     </mg>
   </e>
@@ -46445,8 +46436,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>porotokkaa kesälaitumella</re>
+        <re>poroja sääskiaikana</re>
         <t>paimennella</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>porotokkaa kesälaitumella</re>
         <t pos="V">pitää</t>
       </tg>
     </mg>
@@ -46457,8 +46453,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>porotokkaa kesälaitumella</re>
+        <re>poroja sääskiaikana</re>
         <t>paimennella</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <re>porotokkaa kesälaitumella</re>
         <t pos="V">pitää</t>
       </tg>
     </mg>
@@ -76672,10 +76673,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>johonkin</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian vanhana</t>
+        <t pos="V">pitää (johonkin) liian vanhana</t>
         <xg>
           <x>boarášii mu diekkár bargui</x>
           <xt>piti minua liian vanhana tuollaiseen työhön</xt>
@@ -94089,10 +94088,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian hyvänä</t>
-        <t t_type="phrase">arvokkaana johonkin</t>
+        <t t_type="phrase">pitää (jotakin) liian hyvänä, arvokkaana johonkin</t>
         <xg>
           <x>buorášii dan gávtti diekkár atnui</x>
           <xt>piti sitä lapintakkia liian arvokkaana tuollaiseen käyttöön</xt>
@@ -98184,9 +98180,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>tulta</re>
-        <t pos="V">pitää</t>
-        <t>kytemässä</t>
+        <t t_type="phrase">pitää (tulta) kytemässä</t>
       </tg>
     </mg>
     <mg>
@@ -98442,8 +98436,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>esim. ovea, suuta</re>
-        <t t_type="phrase">pitää auki</t>
-        <t pos="Adv">ammollaan</t>
+        <t t_type="phrase">pitää auki, ammollaan</t>
         <xg>
           <x>ale cakka dál buolašin uvssa, amas stohpu čoaskut</x>
           <xt>älä pidä nyt pakkasella ovea auki, jottei tupa jäähtyisi</xt>
@@ -100420,8 +100413,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää pystyssä</t>
-        <t pos="Adv">pystyasennossa</t>
+        <t t_type="phrase">pitää pystyssä, pystyasennossa</t>
       </tg>
     </mg>
   </e>
@@ -101118,8 +101110,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää pystyssä</t>
-        <t>pystysuorassa</t>
+        <t t_type="phrase">pitää pystyssä, pystysuorassa</t>
         <xg>
           <x>boahtala ceakkuhit</x>
           <xt>kallistella pulloa (juopotella)</xt>
@@ -109813,9 +109804,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>ja sileänä</re>
-        <t t_type="phrase">pitää liian kovana</t>
-        <t t_type="phrase">esim. hiomakiveä</t>
+        <t t_type="phrase">pitää liian kovana (ja sileänä), esim. hiomakiveä</t>
       </tg>
     </mg>
     <mg>
@@ -117626,9 +117615,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin, jokakuta</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin kauniina</t>
+        <t pos="V">pitää (jotakin, jokakuta) kovin kauniina</t>
         <xg>
           <x>čáppášii dan biilla</x>
           <xt>piti sitä autoa kovin kauniina</xt>
@@ -129345,8 +129332,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>jonkin tekemiseksi</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin kylmänä</t>
+        <t pos="V">pitää kovin kylmänä</t>
         <xg>
           <x>čoaskkášii dan áimmu iige vuolgán olggos bargui</x>
           <xt>piti sitä ilmaa kovin kylmänä eikä lähtenyt ulos töihin</xt>
@@ -135113,8 +135099,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="V">seisottaa</t>
-        <t t_type="phrase">pitää pystyssä</t>
-        <t pos="Adv">seisomassa</t>
+        <t t_type="phrase">pitää pystyssä, seisomassa</t>
       </tg>
     </mg>
     <mg>
@@ -140285,10 +140270,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
         <gramm>juoidá</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian valoisana</t>
+        <t pos="V">pitää (jotakin) liian valoisana</t>
         <xg>
           <x>čuovggašii stobu ja jáddadii soames čuovgga</x>
           <xt>piti tupaa liian valoisana ja sammutti muutaman valon</xt>
@@ -143833,9 +143816,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>lainattua esinettä</re>
-        <t pos="V">pitää</t>
-        <t pos="Pron">itsellään</t>
+        <t t_type="phrase">pitää (lainattua esinettä) itsellään</t>
         <t t_type="phrase">olla palauttamatta</t>
       </tg>
     </mg>
@@ -163419,8 +163400,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>esim. patjaa</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian pehmeänä</t>
+        <t t_type="phrase">pitää liian pehmeänä</t>
       </tg>
     </mg>
   </e>
@@ -167212,8 +167192,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>jokin asia</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">omana tietonaan</t>
+        <t t_type="phrase">pitää omana tietonaan</t>
       </tg>
     </mg>
     <mg>
@@ -179819,9 +179798,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin, jotakuta</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin likaisena</t>
+        <t pos="V">pitää (jotakin, jotakuta) kovin likaisena</t>
         <xg>
           <x>duolvvašii dan sámegávtti iige gárron coggat dan badjelii</x>
           <xt>piti kovin likaisena sitä lapintakkia eikä suostunut panemaan sitä päälleen</xt>
@@ -206748,9 +206725,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin puuta</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian paksurunkoisena</t>
+        <t t_type="phrase">pitää (jotakin puuta) liian paksurunkoisena</t>
         <xg>
           <x>galddašii dan beazi iige viššan njeaidit</x>
           <xt>piti liian paksurunkoisena sitä petäjää eikä viitsinyt kaataa</xt>
@@ -257462,9 +257437,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian leveänä</t>
+        <t pos="V">pitää (jotakin) liian leveänä</t>
       </tg>
     </mg>
   </e>
@@ -332598,10 +332571,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
         <gramm>juoidá</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin kosteana</t>
+        <t pos="V">pitää (jotakin) kovin kosteana</t>
       </tg>
     </mg>
   </e>
@@ -343090,8 +343061,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää jotakuta liian ponnettomana</t>
-        <t pos="Adv">velttona</t>
+        <t t_type="phrase">pitää jotakuta liian ponnettomana, velttona</t>
       </tg>
     </mg>
   </e>
@@ -347412,10 +347382,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
         <gramm>juoidá</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">liian painavana</t>
+        <t pos="V">pitää (jotakin) liian painavana</t>
       </tg>
     </mg>
   </e>
@@ -397920,22 +397888,19 @@
     <mg>
       <tg xml:lang="fin">
         <re>metsää, karvoitusta tms.</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin harvana</t>
+        <t t_type="phrase">pitää kovin harvana</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>taikinaa</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin löysänä</t>
+        <t t_type="phrase">pitää kovin löysänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>nestettä tms.</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin ohuena</t>
+        <t t_type="phrase">pitää kovin ohuena</t>
       </tg>
     </mg>
   </e>
@@ -402316,10 +402281,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakuta</re>
         <gramm>soapmása</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin hitaana</t>
+        <t t_type="phrase">pitää (jotakuta) kovin hitaana</t>
         <xg>
           <x>njoazášii mu iige dohkkehan bargui</x>
           <xt>piti minua kovin hitaana eikä kelpuuttanut työhön</xt>
@@ -406424,16 +406387,14 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin märkänä</t>
+        <re></re>
+        <t pos="V">pitää (jotakin) kovin märkänä</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>ruokaa</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin raakana</t>
+        <t pos="V">pitää kovin raakana</t>
       </tg>
     </mg>
   </e>
@@ -417345,10 +417306,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
         <gramm>juoidá</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin kuluneena ja vanhana</t>
+        <t t_type="phrase">pitää (jotakin) kovin kuluneena ja vanhana</t>
         <xg>
           <x>oamášii dan gávtti iige gárron coggat badjelii</x>
           <xt>piti sitä lapintakkia kovin kuluneena ja vanhana eikä suostunut laittamaan sitä päälleen</xt>
@@ -417576,10 +417535,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
         <gramm>juoidá</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin lyhyenä</t>
+        <t t_type="phrase">pitää (jotakin) kovin lyhyenä</t>
         <xg>
           <x>oanášii dan fiellu diekkár atnui</x>
           <xt>piti sitä lautaa kovin lyhyenä sellaiseen käyttöön</xt>
@@ -421153,10 +421110,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
         <gramm>juoidá</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin uutena</t>
+        <t pos="V">pitää (jotakin) kovin uutena</t>
         <xg>
           <x>ođašii dan biilla diekkár atnui</x>
           <xt>piti sitä autoa kovin uutena sellaiseen käyttöön</xt>
@@ -426870,11 +426825,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
         <gramm>juoidá</gramm>
         <t pos="V">paljoksua</t>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin suurena</t>
+        <t pos="V">pitää (jotakin) kovin suurena</t>
         <xg>
           <x>ološii dan hatti</x>
           <xt>piti sitä hintaa kovin korkeana</xt>
@@ -438929,8 +438882,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>esim. syysjäitä</re>
-        <t t_type="phrase">pitää hauraana</t>
-        <t pos="Adv">heikkona</t>
+        <t t_type="phrase">pitää hauraana, heikkona</t>
       </tg>
     </mg>
     <mg>
@@ -477721,9 +477673,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin suolaisena</t>
+        <t pos="V">pitää (jotakin) kovin suolaisena</t>
         <xg>
           <x>sálttášii dan biergomáli</x>
           <xt>piti sitä lihakeittoa kovin suolaisena</xt>
@@ -490005,8 +489955,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>lihaa tai kalaa</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin laihana</t>
+        <t t_type="phrase">pitää kovin laihana</t>
       </tg>
     </mg>
     <mg>
@@ -525980,8 +525929,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">pitää kuria</t>
-        <t>järjestystä</t>
+        <t t_type="phrase">pitää kuria, järjestystä</t>
       </tg>
     </mg>
   </e>
@@ -528246,10 +528194,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
         <gramm>juoidá</gramm>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin suurena</t>
+        <t t_type="phrase">pitää (jotakin) kovin suurena</t>
         <xg>
           <x>stuorášii dan dálu iige oastán dan</x>
           <xt>piti sitä taloa kovin suurena eikä ostanut sitä</xt>
@@ -546070,9 +546016,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>korviaan</re>
-        <t pos="V">pitää</t>
-        <t>lupassa</t>
+        <t pos="V">pitää (korviaan) lupassa</t>
       </tg>
     </mg>
   </e>
@@ -552411,9 +552355,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin, jotakuta</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin pienenä</t>
+        <t t_type="phrase">pitää (jotakin, jotakuta) kovin pienenä</t>
         <xg>
           <x>uhcášii Ristena diekkár bargui</x>
           <xt>piti Risteniä kovin pienenä sellaiseen työhön</xt>
@@ -552427,9 +552369,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin, jotakuta</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin pienenä</t>
+        <t t_type="phrase">pitää (jotakin, jotakuta) kovin pienenä</t>
         <xg>
           <x>uhcášii Ristena diekkár bargui</x>
           <xt>piti Risteniä kovin pienenä sellaiseen työhön</xt>
@@ -565737,9 +565677,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin vaikeana</t>
+        <t t_type="phrase">pitää (jotakin) kovin vaikeana</t>
         <xg>
           <x>váttášii sutnje evttohuvvon barggu</x>
           <xt>piti kovin vaikeana hänelle ehdotettua työtä</xt>
@@ -566377,9 +566315,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>autoa</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">lämmittimenjohdon päässä</t>
+        <t t_type="phrase">pitää (autoa) lämmittimenjohdon päässä</t>
       </tg>
     </mg>
   </e>
@@ -572944,9 +572880,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <re>jotakin</re>
-        <t pos="V">pitää</t>
-        <t t_type="phrase">kovin valkoisena</t>
+        <t t_type="phrase">pitää (jotakin) kovin valkoisena</t>
       </tg>
     </mg>
   </e>
@@ -572957,8 +572891,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="V">välkkyä</t>
-        <t t_type="phrase">välkähdellä valkoisena</t>
-        <t pos="Adv">valkeana</t>
+        <t t_type="phrase">välkähdellä valkoisena, valkeana</t>
       </tg>
     </mg>
   </e>
@@ -572968,8 +572901,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t t_type="phrase">välkähtää valkoisena</t>
-        <t pos="Adv">valkeana</t>
+        <t t_type="phrase">välkähtää valkoisena, valkeana</t>
       </tg>
     </mg>
   </e>
@@ -572980,8 +572912,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>erit. jossakin kauempana olevasta</re>
-        <t t_type="phrase">liikkua valkoisena</t>
-        <t pos="Adv">valkeana</t>
+        <t t_type="phrase">liikkua valkoisena, valkeana</t>
       </tg>
     </mg>
   </e>
@@ -572992,8 +572923,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>erit. jossakin kauempana olevasta</re>
-        <t t_type="phrase">liikkua valkoisena</t>
-        <t pos="Adv">valkeana</t>
+        <t t_type="phrase">liikkua valkoisena, valkeana</t>
       </tg>
     </mg>
   </e>
@@ -573020,8 +572950,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>jostakin liikkuvasta</re>
-        <t t_type="phrase">paistaa valkoisena</t>
-        <t pos="Adv">valkeana</t>
+        <t t_type="phrase">paistaa valkoisena, valkeana</t>
       </tg>
     </mg>
   </e>
