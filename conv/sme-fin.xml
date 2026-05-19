@@ -9791,7 +9791,7 @@
   </e>
   <e>
     <lg>
-      <l>atoma-</l>
+      <l pos="N" type="Cmp/SplitR">atoma-</l>
     </lg>
     <mg>
       <tg xml:lang="fin"/>
@@ -9799,7 +9799,7 @@
   </e>
   <e>
     <lg>
-      <l>váimmus-</l>
+      <l pos="N" type="Cmp/SplitR">váimmus-</l>
     </lg>
     <mg>
       <tg xml:lang="fin"/>
@@ -11909,7 +11909,7 @@
   </e>
   <e>
     <lg>
-      <l>águrká</l>
+      <l pos="N">agurka</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -20420,7 +20420,7 @@
   </e>
   <e>
     <lg>
-      <l>álkkes/álkis</l>
+      <l>álkkes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -21317,7 +21317,7 @@
   </e>
   <e>
     <lg>
-      <l>álu-</l>
+      <l pos="N" type="Cmp/SplitR">álu-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -21800,7 +21800,7 @@
   </e>
   <e>
     <lg>
-      <l>ámmozan!</l>
+      <l pos="Interj">ámmozan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -28400,7 +28400,7 @@
   </e>
   <e>
     <lg>
-      <l>ávjo-</l>
+      <l pos="N" type="Cmp/SplitR">ávjo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -32400,7 +32400,7 @@
   </e>
   <e>
     <lg>
-      <l>bahčahái-</l>
+      <l pos="N" type="Cmp/SplitR">bahčahái-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -37018,7 +37018,7 @@
   </e>
   <e>
     <lg>
-      <l>barfe-</l>
+      <l pos="N" type="Cmp/SplitR">barfe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -37029,7 +37029,7 @@
   </e>
   <e>
     <lg>
-      <l>barfá/i</l>
+      <l>barfái</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -47720,7 +47720,7 @@
   </e>
   <e>
     <lg>
-      <l>bálvalan-</l>
+      <l pos="N" type="Cmp/SplitR">bálvalan-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -47844,7 +47844,7 @@
   </e>
   <e>
     <lg>
-      <l>bálvalus-</l>
+      <l pos="N" type="Cmp/SplitR">bálvalus-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -48484,7 +48484,7 @@
   </e>
   <e>
     <lg>
-      <l>báŋko-</l>
+      <l pos="N" type="Cmp/SplitR">báŋko-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -59044,7 +59044,7 @@
   </e>
   <e>
     <lg>
-      <l>beasse-</l>
+      <l pos="N" type="Cmp/SplitR">beasse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -65092,7 +65092,7 @@
   </e>
   <e>
     <lg>
-      <l>bierfe-</l>
+      <l pos="N" type="Cmp/SplitR">bierfe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -65103,7 +65103,7 @@
   </e>
   <e>
     <lg>
-      <l>bierfá/i</l>
+      <l>bierfái</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -68275,7 +68275,7 @@
   </e>
   <e>
     <lg>
-      <l>billje-</l>
+      <l pos="N" type="Cmp/SplitR">billje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -68879,7 +68879,7 @@
   </e>
   <e>
     <lg>
-      <l>bilto-</l>
+      <l pos="N" type="Cmp/SplitR">bilto-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -71027,7 +71027,7 @@
   </e>
   <e>
     <lg>
-      <l>birze-</l>
+      <l pos="N" type="Cmp/SplitR">birze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -74337,7 +74337,7 @@
   </e>
   <e>
     <lg>
-      <l>boahkke-</l>
+      <l pos="N" type="Cmp/SplitR">boahkke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -75298,7 +75298,7 @@
   </e>
   <e>
     <lg>
-      <l>boagge-</l>
+      <l pos="N" type="Cmp/SplitR">boagge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -75534,7 +75534,7 @@
   </e>
   <e>
     <lg>
-      <l>boalbe-</l>
+      <l pos="N" type="Cmp/SplitR">boalbe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -75720,7 +75720,7 @@
   </e>
   <e>
     <lg>
-      <l>boalče-</l>
+      <l pos="N" type="Cmp/SplitR">boalče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -76524,7 +76524,7 @@
   </e>
   <e>
     <lg>
-      <l>boandá/i</l>
+      <l pos="A">boandái</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -78794,7 +78794,7 @@
   </e>
   <e>
     <lg>
-      <l>bođu-</l>
+      <l pos="N" type="Cmp/SplitR">bođu-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -80331,7 +80331,7 @@
   </e>
   <e>
     <lg>
-      <l>bogge-</l>
+      <l pos="N" type="Cmp/SplitR">bogge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -81023,7 +81023,7 @@
   </e>
   <e>
     <lg>
-      <l>bolfe-</l>
+      <l pos="N" type="Cmp/SplitR">bolfe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -81128,7 +81128,7 @@
   </e>
   <e>
     <lg>
-      <l>bolko-</l>
+      <l pos="N" type="Cmp/SplitR">bolko-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -81751,7 +81751,7 @@
   </e>
   <e>
     <lg>
-      <l>bonju-</l>
+      <l pos="N" type="Cmp/SplitR">bonju-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -82996,7 +82996,7 @@
   </e>
   <e>
     <lg>
-      <l>borge-</l>
+      <l pos="N" type="Cmp/SplitR">borge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -85176,7 +85176,7 @@
   </e>
   <e>
     <lg>
-      <l>botká-</l>
+      <l pos="N" type="Cmp/SplitR">botká-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -88088,7 +88088,7 @@
   </e>
   <e>
     <lg>
-      <l>buhtten-</l>
+      <l pos="N" type="Cmp/SplitR">buhtten-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -88196,7 +88196,7 @@
   </e>
   <e>
     <lg>
-      <l>buice-</l>
+      <l pos="N" type="Cmp/SplitR">buice-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -88559,7 +88559,7 @@
   </e>
   <e>
     <lg>
-      <l>bugge-</l>
+      <l pos="N" type="Cmp/SplitR">bugge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -89016,7 +89016,7 @@
   </e>
   <e>
     <lg>
-      <l>buldo-</l>
+      <l pos="N" type="Cmp/SplitR">buldo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -89226,7 +89226,7 @@
   </e>
   <e>
     <lg>
-      <l>bullje-</l>
+      <l pos="N" type="Cmp/SplitR">bullje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -89318,7 +89318,7 @@
   </e>
   <e>
     <lg>
-      <l>bulke-</l>
+      <l pos="N" type="Cmp/SplitR">bulke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -89365,7 +89365,7 @@
   </e>
   <e>
     <lg>
-      <l>bulle-</l>
+      <l pos="N" type="Cmp/SplitR">bulle-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -89849,7 +89849,7 @@
   </e>
   <e>
     <lg>
-      <l>bulse-</l>
+      <l pos="N" type="Cmp/SplitR">bulse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -93894,7 +93894,7 @@
   </e>
   <e>
     <lg>
-      <l>buorat!</l>
+      <l pos="Interj">buorat</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -93905,7 +93905,7 @@
   </e>
   <e>
     <lg>
-      <l>buorát!</l>
+      <l pos="Interj">buorát</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -94064,7 +94064,7 @@
   </e>
   <e>
     <lg>
-      <l>buorážan!</l>
+      <l pos="Interj">buorážan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -96040,7 +96040,7 @@
   </e>
   <e>
     <lg>
-      <l>bures!</l>
+      <l pos="Interj">bures</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -96092,7 +96092,7 @@
   </e>
   <e>
     <lg>
-      <l>buresboahtin!</l>
+      <l pos="Interj">buresboahtin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -96231,7 +96231,7 @@
   </e>
   <e>
     <lg>
-      <l>burgin-</l>
+      <l pos="N" type="Cmp/SplitR">burgin-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -99813,7 +99813,7 @@
   </e>
   <e>
     <lg>
-      <l>cáico-</l>
+      <l pos="N" type="Cmp/SplitR">cáico-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -100878,7 +100878,7 @@
   </e>
   <e>
     <lg>
-      <l>ceakko-</l>
+      <l pos="N" type="Cmp/SplitR">ceakko-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -101095,7 +101095,7 @@
   </e>
   <e>
     <lg>
-      <l>ceakko-</l>
+      <l pos="N" type="Cmp/SplitR">ceakko-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -103505,7 +103505,7 @@
   </e>
   <e>
     <lg>
-      <l>cirke-</l>
+      <l pos="N" type="Cmp/SplitR">cirke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -105096,7 +105096,7 @@
   </e>
   <e>
     <lg>
-      <l>cohcce-</l>
+      <l pos="N" type="Cmp/SplitR">cohcce-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -106248,7 +106248,7 @@
   </e>
   <e>
     <lg>
-      <l>cuipe-</l>
+      <l pos="N" type="Cmp/SplitR">cuipe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -106388,7 +106388,7 @@
   </e>
   <e>
     <lg>
-      <l>cugga-</l>
+      <l pos="N" type="Cmp/SplitR">cugga-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -107478,7 +107478,7 @@
   </e>
   <e>
     <lg>
-      <l>curbme-</l>
+      <l pos="N" type="Cmp/SplitR">curbme-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -112443,7 +112443,7 @@
   </e>
   <e>
     <lg>
-      <l>čavde-</l>
+      <l pos="N" type="Cmp/SplitR">čavde-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -112659,7 +112659,7 @@
   </e>
   <e>
     <lg>
-      <l>čavges/čavga</l>
+      <l pos="A" type="Attr>čavges/čavga</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -115860,7 +115860,7 @@
   </e>
   <e>
     <lg>
-      <l>čáihmá/i</l>
+      <l>čáihmái</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -115871,7 +115871,7 @@
   </e>
   <e>
     <lg>
-      <l>čáihná/i</l>
+      <l>čáihnái</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -115882,7 +115882,7 @@
   </e>
   <e>
     <lg>
-      <l>čáđbmá/i</l>
+      <l>čáđbmái</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -118535,7 +118535,7 @@
   </e>
   <e>
     <lg>
-      <l>čáhce-</l>
+      <l pos="N" type="Cmp/SplitR">čáhce-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -119403,7 +119403,7 @@
   </e>
   <e>
     <lg>
-      <l>čeagŋe-</l>
+      <l pos="N" type="Cmp/SplitR">čeagŋe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -120125,7 +120125,7 @@
   </e>
   <e>
     <lg>
-      <l>čearse-</l>
+      <l pos="N" type="Cmp/SplitR">čearse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -120145,7 +120145,7 @@
   </e>
   <e>
     <lg>
-      <l>čirse-</l>
+      <l pos="N" type="Cmp/SplitR">čirse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -120960,7 +120960,7 @@
   </e>
   <e>
     <lg>
-      <l>čeazážan!</l>
+      <l pos="Interj">čeazážan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -125573,7 +125573,7 @@
   </e>
   <e>
     <lg>
-      <l>čille-</l>
+      <l pos="N" type="Cmp/SplitR">čille-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -125788,7 +125788,7 @@
   </e>
   <e>
     <lg>
-      <l>čilve-</l>
+      <l pos="N" type="Cmp/SplitR">čilve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -126511,7 +126511,7 @@
   </e>
   <e>
     <lg>
-      <l>čivhle-</l>
+      <l pos="N" type="Cmp/SplitR">čivhle-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -127991,7 +127991,7 @@
   </e>
   <e>
     <lg>
-      <l>čoalče-</l>
+      <l pos="N" type="Cmp/SplitR">čoalče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -128578,7 +128578,7 @@
   </e>
   <e>
     <lg>
-      <l>čoabme-</l>
+      <l pos="N" type="Cmp/SplitR">čoabme-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -132535,7 +132535,7 @@
   </e>
   <e>
     <lg>
-      <l>čopme-</l>
+      <l pos="N" type="Cmp/SplitR">čopme-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -133128,7 +133128,7 @@
   </e>
   <e>
     <lg>
-      <l>čorges/čorgadis</l>
+      <l pos="A" type="Attr>čorges/čorgadis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -138609,7 +138609,7 @@
   </e>
   <e>
     <lg>
-      <l>čuolo-</l>
+      <l pos="N" type="Cmp/SplitR">čuolo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -139103,7 +139103,7 @@
   </e>
   <e>
     <lg>
-      <l>čuorre-</l>
+      <l pos="N" type="Cmp/SplitR">čuorre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -139441,7 +139441,7 @@
   </e>
   <e>
     <lg>
-      <l>čudnes/čuotnadis</l>
+      <l pos="A" type="Attr>čudnes/čuotnadis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -141265,7 +141265,7 @@
   </e>
   <e>
     <lg>
-      <l>čurte-</l>
+      <l pos="N" type="Cmp/SplitR">čurte-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -142808,7 +142808,7 @@
   </e>
   <e>
     <lg>
-      <l>dahku-</l>
+      <l pos="N" type="Cmp/SplitR">dahku-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -143798,7 +143798,7 @@
   </e>
   <e>
     <lg>
-      <l>danheakka!</l>
+      <l pos="Interj">danheakka</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -144265,7 +144265,7 @@
   </e>
   <e>
     <lg>
-      <l>darre-</l>
+      <l pos="N" type="Cmp/SplitR">darre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -144533,7 +144533,7 @@
   </e>
   <e>
     <lg>
-      <l>darve-</l>
+      <l pos="N" type="Cmp/SplitR">darve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -146596,7 +146596,7 @@
   </e>
   <e>
     <lg>
-      <l>dáđđe-</l>
+      <l pos="N" type="Cmp/SplitR">dáđđe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -148425,7 +148425,7 @@
   </e>
   <e>
     <lg>
-      <l>dákte-</l>
+      <l pos="N" type="Cmp/SplitR">dákte-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -150343,7 +150343,7 @@
   </e>
   <e>
     <lg>
-      <l>dálve-</l>
+      <l pos="N" type="Cmp/SplitR">dálve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -156300,7 +156300,7 @@
   </e>
   <e>
     <lg>
-      <l>dearvva!</l>
+      <l pos="Interj">dearvva</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -157947,7 +157947,7 @@
   </e>
   <e>
     <lg>
-      <l>desi-</l>
+      <l pos="N" type="Cmp/SplitR">desi-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -159097,7 +159097,7 @@
   </e>
   <e>
     <lg>
-      <l>diehppe-</l>
+      <l pos="N" type="Cmp/SplitR">diehppe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -159790,7 +159790,7 @@
   </e>
   <e>
     <lg>
-      <l>dieige-</l>
+      <l pos="N" type="Cmp/SplitR">dieige-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -167842,7 +167842,7 @@
   </e>
   <e>
     <lg>
-      <l>doaŋge-</l>
+      <l pos="N" type="Cmp/SplitR">doaŋge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -167999,7 +167999,7 @@
   </e>
   <e>
     <lg>
-      <l>dobmes/doapmadis</l>
+      <l pos="A" type="Attr>dobmes/doapmadis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -168152,7 +168152,7 @@
   </e>
   <e>
     <lg>
-      <l>doares-</l>
+      <l pos="N" type="Cmp/SplitR">doares-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -169074,7 +169074,7 @@
   </e>
   <e>
     <lg>
-      <l>doarse-</l>
+      <l pos="N" type="Cmp/SplitR">doarse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -171067,7 +171067,7 @@
   </e>
   <e>
     <lg>
-      <l>dolde-</l>
+      <l pos="N" type="Cmp/SplitR">dolde-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -172548,7 +172548,7 @@
   </e>
   <e>
     <lg>
-      <l>dorre-</l>
+      <l pos="N" type="Cmp/SplitR">dorre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -175617,7 +175617,7 @@
   </e>
   <e>
     <lg>
-      <l>duipe-</l>
+      <l pos="N" type="Cmp/SplitR">duipe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -175792,7 +175792,7 @@
   </e>
   <e>
     <lg>
-      <l>duive-</l>
+      <l pos="N" type="Cmp/SplitR">duive-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -176273,7 +176273,7 @@
   </e>
   <e>
     <lg>
-      <l>dulpe-</l>
+      <l pos="N" type="Cmp/SplitR">dulpe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -176502,7 +176502,7 @@
   </e>
   <e>
     <lg>
-      <l>dulve-</l>
+      <l pos="N" type="Cmp/SplitR">dulve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -178450,7 +178450,7 @@
   </e>
   <e>
     <lg>
-      <l>duogge-</l>
+      <l pos="N" type="Cmp/SplitR">duogge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -179258,7 +179258,7 @@
   </e>
   <e>
     <lg>
-      <l>duolladis/dulles</l>
+      <l pos="A" type="Attr>duolladis/dulles</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -179817,7 +179817,7 @@
   </e>
   <e>
     <lg>
-      <l>duopmo-</l>
+      <l pos="N" type="Cmp/SplitR">duopmo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -180332,7 +180332,7 @@
   </e>
   <e>
     <lg>
-      <l>duorše-</l>
+      <l pos="N" type="Cmp/SplitR">duorše-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -181269,7 +181269,7 @@
   </e>
   <e>
     <lg>
-      <l>durde-</l>
+      <l pos="N" type="Cmp/SplitR">durde-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -182268,7 +182268,7 @@
   </e>
   <e>
     <lg>
-      <l>dutkan-</l>
+      <l pos="N" type="Cmp/SplitR">dutkan-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -183191,7 +183191,7 @@
   </e>
   <e>
     <lg>
-      <l>eagážan!</l>
+      <l pos="Interj">eagážan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -185383,7 +185383,7 @@
   </e>
   <e>
     <lg>
-      <l>ealihan-</l>
+      <l pos="N" type="Cmp/SplitR">ealihan-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -189822,7 +189822,7 @@
   </e>
   <e>
     <lg>
-      <l>eatnážan!</l>
+      <l pos="Interj">eatnážan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -189907,7 +189907,7 @@
   </e>
   <e>
     <lg>
-      <l>eatnigiel-</l>
+      <l pos="N" type="Cmp/SplitR">eatnigiel-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -190285,7 +190285,7 @@
   </e>
   <e>
     <lg>
-      <l>ednožan!</l>
+      <l pos="Interj">ednožan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -191304,7 +191304,7 @@
   </e>
   <e>
     <lg>
-      <l>elljuivuohta</l>
+      <l pos="N">elljuivuohta</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -196253,7 +196253,7 @@
   </e>
   <e>
     <lg>
-      <l>fánten!</l>
+      <l pos="Interj">fánten</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -198938,7 +198938,7 @@
   </e>
   <e>
     <lg>
-      <l>ficce!</l>
+      <l pos="Interj">ficce</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -202027,7 +202027,7 @@
   </e>
   <e>
     <lg>
-      <l>fiš!</l>
+      <l pos="Interj">fiš</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -203299,7 +203299,7 @@
   </e>
   <e>
     <lg>
-      <l>fuoi!</l>
+      <l pos="Interj">fuoi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -208234,7 +208234,7 @@
   </e>
   <e>
     <lg>
-      <l>gaŋke-</l>
+      <l pos="N" type="Cmp/SplitR">gaŋke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -209079,7 +209079,7 @@
   </e>
   <e>
     <lg>
-      <l>garpe-</l>
+      <l pos="N" type="Cmp/SplitR">garpe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -212730,7 +212730,7 @@
   </e>
   <e>
     <lg>
-      <l>gavže-</l>
+      <l pos="N" type="Cmp/SplitR">gavže-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -212778,7 +212778,7 @@
   </e>
   <e>
     <lg>
-      <l>skavže-</l>
+      <l pos="N" type="Cmp/SplitR">skavže-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -214298,7 +214298,8 @@
   </e>
   <e>
     <lg>
-      <l>gággadis/gágges</l>
+      <l pos="A" type="Attr">gággadis</l>
+      <l pos="A" type="Attr">gágges</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -215621,7 +215622,7 @@
   </e>
   <e>
     <lg>
-      <l>gáire-</l>
+      <l pos="N" type="Cmp/SplitR">gáire-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -219831,7 +219832,7 @@
   </e>
   <e>
     <lg>
-      <l>gárgŋe-</l>
+      <l pos="N" type="Cmp/SplitR">gárgŋe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -221343,7 +221344,7 @@
   </e>
   <e>
     <lg>
-      <l>gássa-</l>
+      <l pos="N" type="Cmp/SplitR">gássa-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -222276,7 +222277,7 @@
   </e>
   <e>
     <lg>
-      <l>gávde-</l>
+      <l pos="N" type="Cmp/SplitR">gávde-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -223104,7 +223105,7 @@
   </e>
   <e>
     <lg>
-      <l>gávdnje-</l>
+      <l pos="N" type="Cmp/SplitR">gávdnje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -223767,7 +223768,7 @@
   </e>
   <e>
     <lg>
-      <l>gávre-</l>
+      <l pos="N" type="Cmp/SplitR">gávre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -223842,7 +223843,7 @@
   </e>
   <e>
     <lg>
-      <l>gávu-</l>
+      <l pos="N" type="Cmp/SplitR">gávu-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -224080,7 +224081,7 @@
   </e>
   <e>
     <lg>
-      <l>gávze-</l>
+      <l pos="N" type="Cmp/SplitR">gávze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -224314,7 +224315,8 @@
   </e>
   <e>
     <lg>
-      <l>geađđadis/geđđes</l>
+      <l pos="A" type="Attr">geađđadis</l>
+      <l pos="A" type="Attr">geđđes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -226716,7 +226718,7 @@
   </e>
   <e>
     <lg>
-      <l>geaiggo-</l>
+      <l pos="N" type="Cmp/SplitR">geaiggo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -228323,7 +228325,8 @@
   </e>
   <e>
     <lg>
-      <l>geargadis/gerges</l>
+      <l pos="A" type="Attr">geargadis</l>
+      <l pos="A" type="Attr">gerges</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -230114,7 +230117,7 @@
   </e>
   <e>
     <lg>
-      <l>geatke-</l>
+      <l pos="N" type="Cmp/SplitR">geatke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -230671,7 +230674,7 @@
   </e>
   <e>
     <lg>
-      <l>geavle-</l>
+      <l pos="N" type="Cmp/SplitR">geavle-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -230858,7 +230861,7 @@
   </e>
   <e>
     <lg>
-      <l>geavre-</l>
+      <l pos="N" type="Cmp/SplitR">geavre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -231044,7 +231047,7 @@
   </e>
   <e>
     <lg>
-      <l>geavze-</l>
+      <l pos="N" type="Cmp/SplitR">geavze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -240242,7 +240245,7 @@
   </e>
   <e>
     <lg>
-      <l>gilše-</l>
+      <l pos="N" type="Cmp/SplitR">gilše-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -243312,7 +243315,7 @@
   </e>
   <e>
     <lg>
-      <l>givre-</l>
+      <l pos="N" type="Cmp/SplitR">givre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -246109,7 +246112,7 @@
   </e>
   <e>
     <lg>
-      <l>goalve-</l>
+      <l pos="N" type="Cmp/SplitR">goalve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -246523,7 +246526,7 @@
   </e>
   <e>
     <lg>
-      <l>goanze-</l>
+      <l pos="N" type="Cmp/SplitR">goanze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -246605,7 +246608,7 @@
   </e>
   <e>
     <lg>
-      <l>goaŋke-</l>
+      <l pos="N" type="Cmp/SplitR">goaŋke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin"/>
@@ -247210,7 +247213,8 @@
   </e>
   <e>
     <lg>
-      <l>goargadis/gorges</l>
+      <l pos="A" type="Attr">goargadis</l>
+      <l pos="A" type="Attr">gorges</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -247935,7 +247939,8 @@
   </e>
   <e>
     <lg>
-      <l>goarradis/gorres</l>
+      <l pos="A" type="Attr">goarradis</l>
+      <l pos="A" type="Attr">gorres</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -248961,7 +248966,7 @@
   </e>
   <e>
     <lg>
-      <l>goaste-</l>
+      <l pos="N" type="Cmp/SplitR">goaste-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -249037,7 +249042,7 @@
   </e>
   <e>
     <lg>
-      <l>goadne-</l>
+      <l pos="N" type="Cmp/SplitR">goadne-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -249367,7 +249372,7 @@
   </e>
   <e>
     <lg>
-      <l>goavke-</l>
+      <l pos="N" type="Cmp/SplitR">goavke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -249455,7 +249460,7 @@
   </e>
   <e>
     <lg>
-      <l>goavre-</l>
+      <l pos="N" type="Cmp/SplitR">goavre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -249721,7 +249726,7 @@
   </e>
   <e>
     <lg>
-      <l>gohpe-</l>
+      <l pos="N" type="Cmp/SplitR">gohpe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -250266,7 +250271,8 @@
   </e>
   <e>
     <lg>
-      <l>godjadis/goddjes</l>
+      <l pos="A" type="Attr">godjadis</l>
+      <l pos="A" type="Attr">goddjes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -253673,7 +253679,7 @@
   </e>
   <e>
     <lg>
-      <l>golle-</l>
+      <l pos="N" type="Cmp/SplitR">golle-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -254701,7 +254707,7 @@
   </e>
   <e>
     <lg>
-      <l>gomu-</l>
+      <l pos="N" type="Cmp/SplitR">gomu-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -256291,7 +256297,7 @@
   </e>
   <e>
     <lg>
-      <l>gordne-</l>
+      <l pos="N" type="Cmp/SplitR">gordne-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -257247,7 +257253,8 @@
   </e>
   <e>
     <lg>
-      <l>govda/govdes</l>
+      <l pos="A" type="Attr">govda</l>
+      <l pos="A" type="Attr">govdes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -260040,7 +260047,7 @@
   </e>
   <e>
     <lg>
-      <l>guhkesáigge-</l>
+      <l pos="N" type="Cmp/SplitR">guhkesáigge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -264680,7 +264687,7 @@
   </e>
   <e>
     <lg>
-      <l>guogge-</l>
+      <l pos="N" type="Cmp/SplitR">guogge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -269620,7 +269627,7 @@
   </e>
   <e>
     <lg>
-      <l>guovdnje-</l>
+      <l pos="N" type="Cmp/SplitR">guovdnje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -270497,7 +270504,7 @@
   </e>
   <e>
     <lg>
-      <l>gubbe-</l>
+      <l pos="N" type="Cmp/SplitR">gubbe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -270763,7 +270770,7 @@
   </e>
   <e>
     <lg>
-      <l>gurce-</l>
+      <l pos="N" type="Cmp/SplitR">gurce-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -271398,7 +271405,7 @@
   </e>
   <e>
     <lg>
-      <l>gurpe-</l>
+      <l pos="N" type="Cmp/SplitR">gurpe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -272970,7 +272977,7 @@
   </e>
   <e>
     <lg>
-      <l>guvdnje-</l>
+      <l pos="N" type="Cmp/SplitR">guvdnje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -273086,7 +273093,7 @@
   </e>
   <e>
     <lg>
-      <l>guvre-</l>
+      <l pos="N" type="Cmp/SplitR">guvre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -276191,7 +276198,7 @@
   </e>
   <e>
     <lg>
-      <l>hálljo-</l>
+      <l pos="N" type="Cmp/SplitR">hálljo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -276363,7 +276370,7 @@
   </e>
   <e>
     <lg>
-      <l>hállan-</l>
+      <l pos="N" type="Cmp/SplitR">hállan-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -276649,7 +276656,7 @@
   </e>
   <e>
     <lg>
-      <l>hálse-</l>
+      <l pos="N" type="Cmp/SplitR">hálse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -280253,7 +280260,7 @@
   </e>
   <e>
     <lg>
-      <l>headja-</l>
+      <l pos="N" type="Cmp/SplitR">headja-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -280847,7 +280854,8 @@
   </e>
   <e>
     <lg>
-      <l>heahkasis/heahkka</l>
+      <l pos="A" type="Attr">heahkasis</l>
+      <l pos="A" type="Attr">heahkka</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -282818,7 +282826,7 @@
   </e>
   <e>
     <lg>
-      <l>heamse-</l>
+      <l pos="N" type="Cmp/SplitR">heamse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -288016,7 +288024,7 @@
   </e>
   <e>
     <lg>
-      <l>hirre-</l>
+      <l pos="N" type="Cmp/SplitR">hirre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -288653,7 +288661,7 @@
   </e>
   <e>
     <lg>
-      <l>hoahppo-</l>
+      <l pos="N" type="Cmp/SplitR">hoahppo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -291322,7 +291330,7 @@
   </e>
   <e>
     <lg>
-      <l>huksen-</l>
+      <l pos="N" type="Cmp/SplitR">huksen-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -291752,7 +291760,7 @@
   </e>
   <e>
     <lg>
-      <l>humpe-</l>
+      <l pos="N" type="Cmp/SplitR">humpe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -291939,7 +291947,7 @@
   </e>
   <e>
     <lg>
-      <l>hupman-</l>
+      <l pos="N" type="Cmp/SplitR">hupman-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -292370,7 +292378,7 @@
   </e>
   <e>
     <lg>
-      <l>hurve-</l>
+      <l pos="N" type="Cmp/SplitR">hurve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -296883,7 +296891,7 @@
   </e>
   <e>
     <lg>
-      <l>imážan!</l>
+      <l pos="Interj">imážan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -299034,7 +299042,7 @@
   </e>
   <e>
     <lg>
-      <l>iskkus-</l>
+      <l pos="N" type="Cmp/SplitR">iskkus-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -300188,7 +300196,7 @@
   </e>
   <e>
     <lg>
-      <l>jagge-</l>
+      <l pos="N" type="Cmp/SplitR">jagge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -300356,7 +300364,8 @@
   </e>
   <e>
     <lg>
-      <l>jalges/jalga</l>
+      <l pos="A" type="Attr">jalges</l>
+      <l pos="A" type="Attr">jalga</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -300892,7 +300901,7 @@
   </e>
   <e>
     <lg>
-      <l>janze-</l>
+      <l pos="N" type="Cmp/SplitR">janze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -301118,7 +301127,7 @@
   </e>
   <e>
     <lg>
-      <l>jarfe-</l>
+      <l pos="N" type="Cmp/SplitR">jarfe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -301222,7 +301231,7 @@
   </e>
   <e>
     <lg>
-      <l>jargŋe-</l>
+      <l pos="N" type="Cmp/SplitR">jargŋe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -303102,7 +303111,8 @@
   </e>
   <e>
     <lg>
-      <l>jámma/jámmisis</l>
+      <l pos="A" type="Attr">jámma</l>
+      <l pos="A" type="Attr">jámmisis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -306755,7 +306765,7 @@
   </e>
   <e>
     <lg>
-      <l>jienastan-</l>
+      <l pos="N" type="Cmp/SplitR">jienastan-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -306866,7 +306876,7 @@
   </e>
   <e>
     <lg>
-      <l>jiekŋa-</l>
+      <l pos="N" type="Cmp/SplitR">jiekŋa-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -310189,7 +310199,7 @@
   </e>
   <e>
     <lg>
-      <l>johtolat-</l>
+      <l pos="N" type="Cmp/SplitR">johtolat-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -310810,7 +310820,7 @@
   </e>
   <e>
     <lg>
-      <l>jolle-</l>
+      <l pos="N" type="Cmp/SplitR">jolle-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -312224,7 +312234,7 @@
   </e>
   <e>
     <lg>
-      <l>jorggo-</l>
+      <l pos="N" type="Cmp/SplitR">jorggo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -312310,7 +312320,7 @@
   </e>
   <e>
     <lg>
-      <l>jorggu-</l>
+      <l pos="N" type="Cmp/SplitR">jorggu-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -317012,7 +317022,7 @@
   </e>
   <e>
     <lg>
-      <l>juovze-</l>
+      <l pos="N" type="Cmp/SplitR">juovze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -319327,7 +319337,7 @@
   </e>
   <e>
     <lg>
-      <l>kilo-</l>
+      <l pos="N" type="Cmp/SplitR">kilo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -321785,7 +321795,7 @@
   </e>
   <e>
     <lg>
-      <l>kultur-</l>
+      <l pos="N" type="Cmp/SplitR">kultur-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -322332,7 +322342,8 @@
   </e>
   <e>
     <lg>
-      <l>ladjadis/laddjes</l>
+      <l pos="A" type="Attr">ladjadis</l>
+      <l pos="A" type="Attr">laddjes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -322971,7 +322982,7 @@
   </e>
   <e>
     <lg>
-      <l>lagas-</l>
+      <l pos="N" type="Cmp/SplitR">lagas-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -324239,7 +324250,7 @@
   </e>
   <e>
     <lg>
-      <l>lapme-</l>
+      <l pos="N" type="Cmp/SplitR">lapme-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -326239,7 +326250,8 @@
   </e>
   <e>
     <lg>
-      <l>láđđa/láđas</l>
+      <l pos="A" type="Attr">láđđa</l>
+      <l pos="A" type="Attr">láđas</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -330183,7 +330195,7 @@
   </e>
   <e>
     <lg>
-      <l>láskko-</l>
+      <l pos="N" type="Cmp/SplitR">láskko-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -330774,7 +330786,8 @@
   </e>
   <e>
     <lg>
-      <l>lášmadis/lášmes</l>
+      <l pos="A" type="Attr">lášmadis</l>
+      <l pos="A" type="Attr">lášmes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -331012,7 +331025,7 @@
   </e>
   <e>
     <lg>
-      <l>látta-</l>
+      <l pos="N" type="Cmp/SplitR">látta-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -334135,7 +334148,7 @@
   </e>
   <e>
     <lg>
-      <l>leagge-</l>
+      <l pos="N" type="Cmp/SplitR">leagge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -334313,7 +334326,7 @@
   </e>
   <e>
     <lg>
-      <l>leamse-</l>
+      <l pos="N" type="Cmp/SplitR">leamse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -334562,7 +334575,7 @@
   </e>
   <e>
     <lg>
-      <l>leanze-</l>
+      <l pos="N" type="Cmp/SplitR">leanze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -334724,7 +334737,7 @@
   </e>
   <e>
     <lg>
-      <l>leappo-</l>
+      <l pos="N" type="Cmp/SplitR">leappo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -336049,7 +336062,8 @@
   </e>
   <e>
     <lg>
-      <l>liđbmes/liđbma</l>
+      <l pos="A" type="Attr">liđbmes</l>
+      <l pos="A" type="Attr">liđbma</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -336158,7 +336172,7 @@
   </e>
   <e>
     <lg>
-      <l>liđve-</l>
+      <l pos="N" type="Cmp/SplitR">liđve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -338470,7 +338484,7 @@
   </e>
   <e>
     <lg>
-      <l>liige-</l>
+      <l pos="N" type="Cmp/SplitR">liige-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -339601,7 +339615,7 @@
   </e>
   <e>
     <lg>
-      <l>limške-</l>
+      <l pos="N" type="Cmp/SplitR">limške-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -339741,7 +339755,8 @@
   </e>
   <e>
     <lg>
-      <l>lince-/linco-</l>
+      <l pos="A" type="Attr">lince-</l>
+      <l pos="A" type="Attr">linco-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -341224,7 +341239,7 @@
   </e>
   <e>
     <lg>
-      <l>livze-</l>
+      <l pos="N" type="Cmp/SplitR">livze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -342633,7 +342648,7 @@
   </e>
   <e>
     <lg>
-      <l>loagge-</l>
+      <l pos="N" type="Cmp/SplitR">loagge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -342840,7 +342855,7 @@
   </e>
   <e>
     <lg>
-      <l>loamše-</l>
+      <l pos="N" type="Cmp/SplitR">loamše-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -343025,7 +343040,7 @@
   </e>
   <e>
     <lg>
-      <l>loarfe-</l>
+      <l pos="N" type="Cmp/SplitR">loarfe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -343645,7 +343660,7 @@
   </e>
   <e>
     <lg>
-      <l>loavsko-</l>
+      <l pos="N" type="Cmp/SplitR">loavsko-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -343752,7 +343767,8 @@
   </e>
   <e>
     <lg>
-      <l>loažžadis/ložžes</l>
+      <l pos="A" type="Attr">loažžadis</l>
+      <l pos="A" type="Attr">ložžes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -345915,7 +345931,8 @@
   </e>
   <e>
     <lg>
-      <l>lohttes/lohttesis</l>
+      <l pos="A" type="Attr">lohttes</l>
+      <l pos="A" type="Attr">lohttesis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -347426,7 +347443,8 @@
   </e>
   <e>
     <lg>
-      <l>lossa/losses</l>
+      <l pos="A" type="Attr">lossa</l>
+      <l pos="A" type="Attr">losses</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -350079,7 +350097,7 @@
   </e>
   <e>
     <lg>
-      <l>luŋke-</l>
+      <l pos="N" type="Cmp/SplitR">luŋke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -353472,7 +353490,8 @@
   </e>
   <e>
     <lg>
-      <l>luotkkos/luotkko-</l>
+      <l pos="A" type="Attr">luotkkos</l>
+      <l pos="A" type="Attr">luotkko-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -354328,7 +354347,7 @@
   </e>
   <e>
     <lg>
-      <l>lurfe-</l>
+      <l pos="N" type="Cmp/SplitR">lurfe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -354350,7 +354369,7 @@
   </e>
   <e>
     <lg>
-      <l>lurve-</l>
+      <l pos="N" type="Cmp/SplitR">lurve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -354991,7 +355010,7 @@
   </e>
   <e>
     <lg>
-      <l>luvdnje-</l>
+      <l pos="N" type="Cmp/SplitR">luvdnje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -356559,7 +356578,7 @@
   </e>
   <e>
     <lg>
-      <l>manjážan!</l>
+      <l pos="Interj">manjážan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -358056,7 +358075,7 @@
   </e>
   <e>
     <lg>
-      <l>maŋŋe-</l>
+      <l pos="N" type="Cmp/SplitR">maŋŋe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -359251,7 +359270,7 @@
   </e>
   <e>
     <lg>
-      <l>marše-</l>
+      <l pos="N" type="Cmp/SplitR">marše-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -360120,7 +360139,7 @@
   </e>
   <e>
     <lg>
-      <l>mágažan!</l>
+      <l pos="Interj">mágažan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -366305,7 +366324,7 @@
   </e>
   <e>
     <lg>
-      <l>meađđen-</l>
+      <l pos="N" type="Cmp/SplitR">meađđen-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -366473,7 +366492,7 @@
   </e>
   <e>
     <lg>
-      <l>meahcástan-</l>
+      <l pos="N" type="Cmp/SplitR">meahcástan-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -371533,7 +371552,7 @@
   </e>
   <e>
     <lg>
-      <l>mielamiel-</l>
+      <l pos="N" type="Cmp/SplitR">mielamiel-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -375194,7 +375213,7 @@
   </e>
   <e>
     <lg>
-      <l>moagge-</l>
+      <l pos="N" type="Cmp/SplitR">moagge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -375358,7 +375377,7 @@
   </e>
   <e>
     <lg>
-      <l>moalke-</l>
+      <l pos="N" type="Cmp/SplitR">moalke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -376831,7 +376850,7 @@
   </e>
   <e>
     <lg>
-      <l>mohtor-</l>
+      <l pos="N" type="Cmp/SplitR">mohtor-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -377109,7 +377128,7 @@
   </e>
   <e>
     <lg>
-      <l>moive-</l>
+      <l pos="N" type="Cmp/SplitR">moive-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -377292,7 +377311,7 @@
   </e>
   <e>
     <lg>
-      <l>molde-</l>
+      <l pos="N" type="Cmp/SplitR">molde-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -377989,7 +378008,7 @@
   </e>
   <e>
     <lg>
-      <l>monimuš-</l>
+      <l pos="N" type="Cmp/SplitR">monimuš-</l>
     </lg>
     <mg>
       <tg xml:lang="fin"/>
@@ -377997,7 +378016,7 @@
   </e>
   <e>
     <lg>
-      <l>manimuš-</l>
+      <l pos="N" type="Cmp/SplitR">manimuš-</l>
     </lg>
     <mg>
       <tg xml:lang="fin"/>
@@ -378815,7 +378834,7 @@
   </e>
   <e>
     <lg>
-      <l>moskku-</l>
+      <l pos="N" type="Cmp/SplitR">moskku-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -378961,7 +378980,7 @@
   </e>
   <e>
     <lg>
-      <l>moskku-</l>
+      <l pos="N" type="Cmp/SplitR">moskku-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -380556,7 +380575,7 @@
   </e>
   <e>
     <lg>
-      <l>mukka-</l>
+      <l pos="N" type="Cmp/SplitR">mukka-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -385895,7 +385914,8 @@
   </e>
   <e>
     <lg>
-      <l>nana/nanu</l>
+      <l pos="A" type="Attr">nana</l>
+      <l pos="A" type="Attr">nanu</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -388082,7 +388102,8 @@
   </e>
   <e>
     <lg>
-      <l>nálggasis/nálga</l>
+      <l pos="A" type="Attr">nálggasis</l>
+      <l pos="A" type="Attr">nálga</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -388950,7 +388971,7 @@
   </e>
   <e>
     <lg>
-      <l>nárve-</l>
+      <l pos="N" type="Cmp/SplitR">nárve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -390145,7 +390166,7 @@
   </e>
   <e>
     <lg>
-      <l>nealge-</l>
+      <l pos="N" type="Cmp/SplitR">nealge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -391752,7 +391773,7 @@
   </e>
   <e>
     <lg>
-      <l>nievke-</l>
+      <l pos="N" type="Cmp/SplitR">nievke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -392423,7 +392444,7 @@
   </e>
   <e>
     <lg>
-      <l>nirpe-</l>
+      <l pos="N" type="Cmp/SplitR">nirpe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -392525,7 +392546,7 @@
   </e>
   <e>
     <lg>
-      <l>nirve-</l>
+      <l pos="N" type="Cmp/SplitR">nirve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -394526,7 +394547,7 @@
   </e>
   <e>
     <lg>
-      <l>njalse-</l>
+      <l pos="N" type="Cmp/SplitR">njalse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -394944,7 +394965,7 @@
   </e>
   <e>
     <lg>
-      <l>njaŋge-</l>
+      <l pos="N" type="Cmp/SplitR">njaŋge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -395207,7 +395228,7 @@
   </e>
   <e>
     <lg>
-      <l>njarve-</l>
+      <l pos="N" type="Cmp/SplitR">njarve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -395416,7 +395437,7 @@
   </e>
   <e>
     <lg>
-      <l>njakče-</l>
+      <l pos="N" type="Cmp/SplitR">njakče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -396461,7 +396482,8 @@
   </e>
   <e>
     <lg>
-      <l>njálbmenana/njálbmenanu</l>
+      <l pos="A" type="Attr">njálbmenana</l>
+      <l pos="A" type="Attr">njálbmenanu</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -397474,7 +397496,7 @@
   </e>
   <e>
     <lg>
-      <l>njáŋge-</l>
+      <l pos="N" type="Cmp/SplitR">njáŋge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -398104,7 +398126,7 @@
   </e>
   <e>
     <lg>
-      <l>njáške-</l>
+      <l pos="N" type="Cmp/SplitR">njáške-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -398550,7 +398572,7 @@
   </e>
   <e>
     <lg>
-      <l>njeazze-</l>
+      <l pos="N" type="Cmp/SplitR">njeazze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -399373,7 +399395,7 @@
   </e>
   <e>
     <lg>
-      <l>njeašše-</l>
+      <l pos="N" type="Cmp/SplitR">njeašše-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -399427,7 +399449,7 @@
   </e>
   <e>
     <lg>
-      <l>njeakce-</l>
+      <l pos="N" type="Cmp/SplitR">njeakce-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -400716,7 +400738,7 @@
   </e>
   <e>
     <lg>
-      <l>njivle-</l>
+      <l pos="N" type="Cmp/SplitR">njivle-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -401094,7 +401116,7 @@
   </e>
   <e>
     <lg>
-      <l>njoađve-</l>
+      <l pos="N" type="Cmp/SplitR">njoađve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -401228,7 +401250,7 @@
   </e>
   <e>
     <lg>
-      <l>njoaiddo-</l>
+      <l pos="N" type="Cmp/SplitR">njoaiddo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -401363,7 +401385,7 @@
   </e>
   <e>
     <lg>
-      <l>njoalce-</l>
+      <l pos="N" type="Cmp/SplitR">njoalce-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -401497,7 +401519,7 @@
   </e>
   <e>
     <lg>
-      <l>njoalpe-</l>
+      <l pos="N" type="Cmp/SplitR">njoalpe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -402461,7 +402483,7 @@
   </e>
   <e>
     <lg>
-      <l>njolve-</l>
+      <l pos="N" type="Cmp/SplitR">njolve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -404567,7 +404589,7 @@
   </e>
   <e>
     <lg>
-      <l>njuogge-</l>
+      <l pos="N" type="Cmp/SplitR">njuogge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -405431,7 +405453,7 @@
   </e>
   <e>
     <lg>
-      <l>njuolve-</l>
+      <l pos="N" type="Cmp/SplitR">njuolve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -405909,7 +405931,7 @@
   </e>
   <e>
     <lg>
-      <l>njuoršo-</l>
+      <l pos="N" type="Cmp/SplitR">njuoršo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -408876,7 +408898,7 @@
   </e>
   <e>
     <lg>
-      <l>norke-</l>
+      <l pos="N" type="Cmp/SplitR">norke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -411782,7 +411804,7 @@
   </e>
   <e>
     <lg>
-      <l>nurde-</l>
+      <l pos="N" type="Cmp/SplitR">nurde-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -411893,7 +411915,7 @@
   </e>
   <e>
     <lg>
-      <l>nurse-</l>
+      <l pos="N" type="Cmp/SplitR">nurse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -411926,7 +411948,7 @@
   </e>
   <e>
     <lg>
-      <l>nuršo-</l>
+      <l pos="N" type="Cmp/SplitR">nuršo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -412614,7 +412636,7 @@
   </e>
   <e>
     <lg>
-      <l>oadjo-</l>
+      <l pos="N" type="Cmp/SplitR">oadjo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -413791,7 +413813,7 @@
   </e>
   <e>
     <lg>
-      <l>oahppa-</l>
+      <l pos="N" type="Cmp/SplitR">oahppa-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -417285,7 +417307,7 @@
   </e>
   <e>
     <lg>
-      <l>oapme-</l>
+      <l pos="N" type="Cmp/SplitR">oapme-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -417524,7 +417546,7 @@
   </e>
   <e>
     <lg>
-      <l>oanehisáigge-</l>
+      <l pos="N" type="Cmp/SplitR">oanehisáigge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -418178,7 +418200,7 @@
   </e>
   <e>
     <lg>
-      <l>oardnje-</l>
+      <l pos="N" type="Cmp/SplitR">oardnje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -423690,7 +423712,7 @@
   </e>
   <e>
     <lg>
-      <l>olbmážan!</l>
+      <l pos="Interj">olbmážan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -428046,7 +428068,7 @@
   </e>
   <e>
     <lg>
-      <l>orjješ-</l>
+      <l pos="N" type="Cmp/SplitR">orjješ-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -430030,7 +430052,7 @@
   </e>
   <e>
     <lg>
-      <l>ovdadutkan-</l>
+      <l pos="N" type="Cmp/SplitR">ovdadutkan-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -432538,7 +432560,7 @@
   </e>
   <e>
     <lg>
-      <l>ovttageardde-</l>
+      <l pos="N" type="Cmp/SplitR">ovttageardde-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -433099,7 +433121,7 @@
   </e>
   <e>
     <lg>
-      <l>ovttamohtor-</l>
+      <l pos="N" type="Cmp/SplitR">ovttamohtor-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -433190,7 +433212,7 @@
   </e>
   <e>
     <lg>
-      <l>ovttaruovttu-</l>
+      <l pos="N" type="Cmp/SplitR">ovttaruovttu-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -435738,7 +435760,7 @@
   </e>
   <e>
     <lg>
-      <l>prenten-</l>
+      <l pos="N" type="Cmp/SplitR">prenten-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -437566,7 +437588,8 @@
   </e>
   <e>
     <lg>
-      <l>rahkadis/rahkkes</l>
+      <l pos="A" type="Attr">rahkadis</l>
+      <l pos="A" type="Attr">rahkkes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -442715,7 +442738,8 @@
   </e>
   <e>
     <lg>
-      <l>ráhpadis/ráhpa</l>
+      <l pos="A" type="Attr">ráhpadis</l>
+      <l pos="A" type="Attr">ráhpa</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -443405,7 +443429,7 @@
   </e>
   <e>
     <lg>
-      <l>ráige-</l>
+      <l pos="N" type="Cmp/SplitR">ráige-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -443610,7 +443634,7 @@
   </e>
   <e>
     <lg>
-      <l>ráiko-</l>
+      <l pos="N" type="Cmp/SplitR">ráiko-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -443804,7 +443828,7 @@
   </e>
   <e>
     <lg>
-      <l>ráisko-</l>
+      <l pos="N" type="Cmp/SplitR">ráisko-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -444846,7 +444870,7 @@
   </e>
   <e>
     <lg>
-      <l>rámske-</l>
+      <l pos="N" type="Cmp/SplitR">rámske-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -444894,7 +444918,7 @@
   </e>
   <e>
     <lg>
-      <l>rámso-</l>
+      <l pos="N" type="Cmp/SplitR">rámso-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -444991,7 +445015,7 @@
   </e>
   <e>
     <lg>
-      <l>rámške-</l>
+      <l pos="N" type="Cmp/SplitR">rámške-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -445210,7 +445234,7 @@
   </e>
   <e>
     <lg>
-      <l>rámšo-</l>
+      <l pos="N" type="Cmp/SplitR">rámšo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -445384,7 +445408,7 @@
   </e>
   <e>
     <lg>
-      <l>ránče-</l>
+      <l pos="N" type="Cmp/SplitR">ránče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -448008,7 +448032,7 @@
   </e>
   <e>
     <lg>
-      <l>reahcce-</l>
+      <l pos="N" type="Cmp/SplitR">reahcce-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -448688,7 +448712,7 @@
   </e>
   <e>
     <lg>
-      <l>realse-</l>
+      <l pos="N" type="Cmp/SplitR">realse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -448816,7 +448840,7 @@
   </e>
   <e>
     <lg>
-      <l>reanze-</l>
+      <l pos="N" type="Cmp/SplitR">reanze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -449036,7 +449060,7 @@
   </e>
   <e>
     <lg>
-      <l>reatka-</l>
+      <l pos="N" type="Cmp/SplitR">reatka-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -449199,7 +449223,7 @@
   </e>
   <e>
     <lg>
-      <l>reavre-</l>
+      <l pos="N" type="Cmp/SplitR">reavre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -449346,7 +449370,7 @@
   </e>
   <e>
     <lg>
-      <l>reavže-</l>
+      <l pos="N" type="Cmp/SplitR">reavže-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -452338,7 +452362,8 @@
   </e>
   <e>
     <lg>
-      <l>riektadis/riktes</l>
+      <l pos="A" type="Attr">riektadis</l>
+      <l pos="A" type="Attr">riktes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -452363,7 +452388,8 @@
   </e>
   <e>
     <lg>
-      <l>rivttes/rievttes</l>
+      <l pos="A" type="Attr">rivttes</l>
+      <l pos="A" type="Attr">rievttes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -453356,7 +453382,7 @@
   </e>
   <e>
     <lg>
-      <l>rievssat/heapme</l>
+      <l pos="A">rievssatheapme</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -455139,7 +455165,7 @@
   </e>
   <e>
     <lg>
-      <l>riikkabeai-</l>
+      <l pos="N" type="Cmp/SplitR">riikkabeai-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -455914,7 +455940,7 @@
   </e>
   <e>
     <lg>
-      <l>rimse-</l>
+      <l pos="N" type="Cmp/SplitR">rimse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -456038,7 +456064,7 @@
   </e>
   <e>
     <lg>
-      <l>rimške-</l>
+      <l pos="N" type="Cmp/SplitR">rimške-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -456079,7 +456105,7 @@
   </e>
   <e>
     <lg>
-      <l>rinče-</l>
+      <l pos="N" type="Cmp/SplitR">rinče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -456099,7 +456125,7 @@
   </e>
   <e>
     <lg>
-      <l>ranče-</l>
+      <l pos="N" type="Cmp/SplitR">ranče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -456215,7 +456241,7 @@
   </e>
   <e>
     <lg>
-      <l>rinze-</l>
+      <l pos="N" type="Cmp/SplitR">rinze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -457809,7 +457835,7 @@
   </e>
   <e>
     <lg>
-      <l>rivze-</l>
+      <l pos="N" type="Cmp/SplitR">rivze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -458015,7 +458041,8 @@
   </e>
   <e>
     <lg>
-      <l>roaffadis/roffes</l>
+      <l pos="A" type="Attr">roaffadis</l>
+      <l pos="A" type="Attr">roffes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -458368,7 +458395,8 @@
   </e>
   <e>
     <lg>
-      <l>roahkkadis/rohkkes</l>
+      <l pos="A" type="Attr">roahkkadis</l>
+      <l pos="A" type="Attr">rohkkes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -458765,7 +458793,7 @@
   </e>
   <e>
     <lg>
-      <l>roaibe-</l>
+      <l pos="N" type="Cmp/SplitR">roaibe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -458917,7 +458945,7 @@
   </e>
   <e>
     <lg>
-      <l>roaiskko-</l>
+      <l pos="N" type="Cmp/SplitR">roaiskko-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -459151,7 +459179,7 @@
   </e>
   <e>
     <lg>
-      <l>roamse-</l>
+      <l pos="N" type="Cmp/SplitR">roamse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -459216,7 +459244,7 @@
   </e>
   <e>
     <lg>
-      <l>roamše-</l>
+      <l pos="N" type="Cmp/SplitR">roamše-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -459312,7 +459340,7 @@
   </e>
   <e>
     <lg>
-      <l>roance-</l>
+      <l pos="N" type="Cmp/SplitR">roance-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -459445,7 +459473,7 @@
   </e>
   <e>
     <lg>
-      <l>roanžo-</l>
+      <l pos="N" type="Cmp/SplitR">roanžo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -459543,7 +459571,7 @@
   </e>
   <e>
     <lg>
-      <l>roaŋke-</l>
+      <l pos="N" type="Cmp/SplitR">roaŋke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -460157,7 +460185,7 @@
   </e>
   <e>
     <lg>
-      <l>roavdnje-</l>
+      <l pos="N" type="Cmp/SplitR">roavdnje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -460654,7 +460682,8 @@
   </e>
   <e>
     <lg>
-      <l>rohčadis/rohččes</l>
+      <l pos="A" type="Attr">rohčadis</l>
+      <l pos="A" type="Attr">rohččes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -461768,7 +461797,7 @@
   </e>
   <e>
     <lg>
-      <l>rogge-</l>
+      <l pos="N" type="Cmp/SplitR">rogge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -462703,7 +462732,7 @@
   </e>
   <e>
     <lg>
-      <l>ružžo-</l>
+      <l pos="N" type="Cmp/SplitR">ružžo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -463952,7 +463981,7 @@
   </e>
   <e>
     <lg>
-      <l>ruibe-</l>
+      <l pos="N" type="Cmp/SplitR">ruibe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -464239,7 +464268,7 @@
   </e>
   <e>
     <lg>
-      <l>ruive-</l>
+      <l pos="N" type="Cmp/SplitR">ruive-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -464974,7 +465003,7 @@
   </e>
   <e>
     <lg>
-      <l>rumšo-</l>
+      <l pos="N" type="Cmp/SplitR">rumšo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -466973,7 +467002,7 @@
   </e>
   <e>
     <lg>
-      <l>ruobbe-</l>
+      <l pos="N" type="Cmp/SplitR">ruobbe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -468741,7 +468770,7 @@
   </e>
   <e>
     <lg>
-      <l>ruovtto-</l>
+      <l pos="N" type="Cmp/SplitR">ruovtto-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -469597,7 +469626,7 @@
   </e>
   <e>
     <lg>
-      <l>ruska-</l>
+      <l pos="N" type="Cmp/SplitR">ruska-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -470211,7 +470240,7 @@
   </e>
   <e>
     <lg>
-      <l>rudde-</l>
+      <l pos="N" type="Cmp/SplitR">rudde-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -473792,7 +473821,7 @@
   </e>
   <e>
     <lg>
-      <l>sarte-</l>
+      <l pos="N" type="Cmp/SplitR">sarte-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -475338,7 +475367,8 @@
   </e>
   <e>
     <lg>
-      <l>sáhkadis/sáhkkes</l>
+      <l pos="A" type="Attr">sáhkadis</l>
+      <l pos="A" type="Attr">sáhkkes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -476392,7 +476422,7 @@
   </e>
   <e>
     <lg>
-      <l>sáigo-</l>
+      <l pos="N" type="Cmp/SplitR">sáigo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -476853,7 +476883,7 @@
   </e>
   <e>
     <lg>
-      <l>ságge-</l>
+      <l pos="N" type="Cmp/SplitR">ságge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -477337,7 +477367,7 @@
   </e>
   <e>
     <lg>
-      <l>sáltegurká</l>
+      <l pos="N">sáltegurká</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -477517,7 +477547,7 @@
   </e>
   <e>
     <lg>
-      <l>sálte-</l>
+      <l pos="N" type="Cmp/SplitR">sálte-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -479085,7 +479115,7 @@
   </e>
   <e>
     <lg>
-      <l>sásažan!</l>
+      <l pos="Interj">sásažan</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -484652,7 +484682,8 @@
   </e>
   <e>
     <lg>
-      <l>seavdnjadis/sevdnjes</l>
+      <l pos="A" type="Attr">seavdnjadis</l>
+      <l pos="A" type="Attr">sevdnjes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -486507,7 +486538,7 @@
   </e>
   <e>
     <lg>
-      <l>siđve-</l>
+      <l pos="N" type="Cmp/SplitR">siđve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -487730,7 +487761,7 @@
   </e>
   <e>
     <lg>
-      <l>siesážan!</l>
+      <l pos="Interj">siesážan!</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -491289,7 +491320,7 @@
   </e>
   <e>
     <lg>
-      <l>sisabeassan-</l>
+      <l pos="N" type="Cmp/SplitR">sisabeassan-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -494193,7 +494224,7 @@
   </e>
   <e>
     <lg>
-      <l>skáhpposiepman-</l>
+      <l pos="N" type="Cmp/SplitR">skáhpposiepman-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -494907,7 +494938,7 @@
   </e>
   <e>
     <lg>
-      <l>skálve-</l>
+      <l pos="N" type="Cmp/SplitR">skálve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -495137,7 +495168,7 @@
   </e>
   <e>
     <lg>
-      <l>skárba-</l>
+      <l pos="N" type="Cmp/SplitR">skárba-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -495398,7 +495429,7 @@
   </e>
   <e>
     <lg>
-      <l>skárta-</l>
+      <l pos="N" type="Cmp/SplitR">skárta-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -496187,7 +496218,7 @@
   </e>
   <e>
     <lg>
-      <l>skeavže-</l>
+      <l pos="N" type="Cmp/SplitR">skeavže-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -497346,7 +497377,7 @@
   </e>
   <e>
     <lg>
-      <l>skihčče-</l>
+      <l pos="N" type="Cmp/SplitR">skihčče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -498595,7 +498626,7 @@
   </e>
   <e>
     <lg>
-      <l>skirre-</l>
+      <l pos="N" type="Cmp/SplitR">skirre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -498957,7 +498988,7 @@
   </e>
   <e>
     <lg>
-      <l>skivdnje-</l>
+      <l pos="N" type="Cmp/SplitR">skivdnje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -499101,7 +499132,7 @@
   </e>
   <e>
     <lg>
-      <l>skivže-</l>
+      <l pos="N" type="Cmp/SplitR">skivže-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -499699,7 +499730,7 @@
   </e>
   <e>
     <lg>
-      <l>skoalbme-</l>
+      <l pos="N" type="Cmp/SplitR">skoalbme-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -500078,7 +500109,7 @@
   </e>
   <e>
     <lg>
-      <l>skoarre-</l>
+      <l pos="N" type="Cmp/SplitR">skoarre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -500228,7 +500259,7 @@
   </e>
   <e>
     <lg>
-      <l>skoavde-</l>
+      <l pos="N" type="Cmp/SplitR">skoavde-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -500415,7 +500446,7 @@
   </e>
   <e>
     <lg>
-      <l>skoavhle-</l>
+      <l pos="N" type="Cmp/SplitR">skoavhle-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -501063,7 +501094,7 @@
   </e>
   <e>
     <lg>
-      <l>skolpe-</l>
+      <l pos="N" type="Cmp/SplitR">skolpe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -501825,7 +501856,7 @@
   </e>
   <e>
     <lg>
-      <l>skuibe-</l>
+      <l pos="N" type="Cmp/SplitR">skuibe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -502333,7 +502364,7 @@
   </e>
   <e>
     <lg>
-      <l>skuŋka-</l>
+      <l pos="N" type="Cmp/SplitR">skuŋka-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -503176,7 +503207,7 @@
   </e>
   <e>
     <lg>
-      <l>skurčo-</l>
+      <l pos="N" type="Cmp/SplitR">skurčo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -503188,7 +503219,7 @@
   </e>
   <e>
     <lg>
-      <l>skurče-</l>
+      <l pos="N" type="Cmp/SplitR">skurče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -503457,7 +503488,7 @@
   </e>
   <e>
     <lg>
-      <l>skurdnje-</l>
+      <l pos="N" type="Cmp/SplitR">skurdnje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -504217,7 +504248,7 @@
   </e>
   <e>
     <lg>
-      <l>skuvdnje-</l>
+      <l pos="N" type="Cmp/SplitR">skuvdnje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -504330,7 +504361,7 @@
   </e>
   <e>
     <lg>
-      <l>skuhče-</l>
+      <l pos="N" type="Cmp/SplitR">skuhče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -504749,7 +504780,7 @@
   </e>
   <e>
     <lg>
-      <l>smarve-</l>
+      <l pos="N" type="Cmp/SplitR">smarve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -504779,7 +504810,7 @@
   </e>
   <e>
     <lg>
-      <l>smarfe-</l>
+      <l pos="N" type="Cmp/SplitR">smarfe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -505814,7 +505845,7 @@
   </e>
   <e>
     <lg>
-      <l>smilče-</l>
+      <l pos="N" type="Cmp/SplitR">smilče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -506166,7 +506197,7 @@
   </e>
   <e>
     <lg>
-      <l>smogge-</l>
+      <l pos="N" type="Cmp/SplitR">smogge-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -506621,7 +506652,7 @@
   </e>
   <e>
     <lg>
-      <l>smurve-</l>
+      <l pos="N" type="Cmp/SplitR">smurve-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -506821,7 +506852,7 @@
   </e>
   <e>
     <lg>
-      <l>snarre-</l>
+      <l pos="N" type="Cmp/SplitR">snarre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -507193,7 +507224,7 @@
   </e>
   <e>
     <lg>
-      <l>snárke-</l>
+      <l pos="N" type="Cmp/SplitR">snárke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -507274,7 +507305,8 @@
   </e>
   <e>
     <lg>
-      <l>snávgadis/snávges</l>
+      <l pos="A" type="Attr">snávgadis</l>
+      <l pos="A" type="Attr">snávges</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -507838,7 +507870,7 @@
   </e>
   <e>
     <lg>
-      <l>snirke-</l>
+      <l pos="N" type="Cmp/SplitR">snirke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -508078,7 +508110,8 @@
   </e>
   <e>
     <lg>
-      <l>snoakkisis/snoagga</l>
+      <l pos="A" type="Attr">snoakkisis</l>
+      <l pos="A" type="Attr">snoagga</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -508371,7 +508404,7 @@
   </e>
   <e>
     <lg>
-      <l>snolke-</l>
+      <l pos="N" type="Cmp/SplitR">snolke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -508528,7 +508561,7 @@
   </e>
   <e>
     <lg>
-      <l>snorre-</l>
+      <l pos="N" type="Cmp/SplitR">snorre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -509145,7 +509178,7 @@
   </e>
   <e>
     <lg>
-      <l>snuordo-</l>
+      <l pos="N" type="Cmp/SplitR">snuordo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -511898,7 +511931,7 @@
   </e>
   <e>
     <lg>
-      <l>soalse-</l>
+      <l pos="N" type="Cmp/SplitR">soalse-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -512826,7 +512859,7 @@
   </e>
   <e>
     <lg>
-      <l>soavle-</l>
+      <l pos="N" type="Cmp/SplitR">soavle-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -512852,7 +512885,7 @@
   </e>
   <e>
     <lg>
-      <l>šoavle-</l>
+      <l pos="N" type="Cmp/SplitR">šoavle-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -513340,7 +513373,7 @@
   </e>
   <e>
     <lg>
-      <l>sođđe-</l>
+      <l pos="N" type="Cmp/SplitR">sođđe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -513362,7 +513395,7 @@
   </e>
   <e>
     <lg>
-      <l>sohte-</l>
+      <l pos="N" type="Cmp/SplitR">sohte-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -514893,7 +514926,7 @@
   </e>
   <e>
     <lg>
-      <l>solde-</l>
+      <l pos="N" type="Cmp/SplitR">solde-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -515479,7 +515512,7 @@
   </e>
   <e>
     <lg>
-      <l>sorre-</l>
+      <l pos="N" type="Cmp/SplitR">sorre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -517112,7 +517145,8 @@
   </e>
   <e>
     <lg>
-      <l>spatnadis/spadnes</l>
+      <l pos="A" type="Attr">spatnadis</l>
+      <l pos="A" type="Attr">spadnes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -521793,7 +521827,8 @@
   </e>
   <e>
     <lg>
-      <l>stargadis/starges</l>
+      <l pos="A" type="Attr">stargadis</l>
+      <l pos="A" type="Attr">starges</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -522021,7 +522056,7 @@
   </e>
   <e>
     <lg>
-      <l>stážžo-</l>
+      <l pos="N" type="Cmp/SplitR">stážžo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -522844,7 +522879,7 @@
   </e>
   <e>
     <lg>
-      <l>stáipe-</l>
+      <l pos="N" type="Cmp/SplitR">stáipe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -523465,7 +523500,7 @@
   </e>
   <e>
     <lg>
-      <l>stánže-</l>
+      <l pos="N" type="Cmp/SplitR">stánže-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -524301,7 +524336,7 @@
   </e>
   <e>
     <lg>
-      <l>steanže-</l>
+      <l pos="N" type="Cmp/SplitR">steanže-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -524537,7 +524572,7 @@
   </e>
   <e>
     <lg>
-      <l>steavže-</l>
+      <l pos="N" type="Cmp/SplitR">steavže-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -525178,7 +525213,7 @@
   </e>
   <e>
     <lg>
-      <l>stiila-</l>
+      <l pos="N" type="Cmp/SplitR">stiila-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -526389,7 +526424,7 @@
   </e>
   <e>
     <lg>
-      <l>stohkke-</l>
+      <l pos="N" type="Cmp/SplitR">stohkke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -527791,7 +527826,7 @@
   </e>
   <e>
     <lg>
-      <l>stumpo-</l>
+      <l pos="N" type="Cmp/SplitR">stumpo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -528598,7 +528633,7 @@
   </e>
   <e>
     <lg>
-      <l>sturce-</l>
+      <l pos="N" type="Cmp/SplitR">sturce-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -528681,7 +528716,7 @@
   </e>
   <e>
     <lg>
-      <l>sturje-</l>
+      <l pos="N" type="Cmp/SplitR">sturje-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -530918,7 +530953,7 @@
   </e>
   <e>
     <lg>
-      <l>sulte-</l>
+      <l pos="N" type="Cmp/SplitR">sulte-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -530939,7 +530974,7 @@
   </e>
   <e>
     <lg>
-      <l>sulto-</l>
+      <l pos="N" type="Cmp/SplitR">sulto-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -531592,7 +531627,8 @@
   </e>
   <e>
     <lg>
-      <l>suohkadis/suhkkes</l>
+      <l pos="A" type="Attr">suohkadis</l>
+      <l pos="A" type="Attr">suhkkes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -534209,7 +534245,7 @@
   </e>
   <e>
     <lg>
-      <l>suonte-</l>
+      <l pos="N" type="Cmp/SplitR">suonte-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -534268,7 +534304,8 @@
   </e>
   <e>
     <lg>
-      <l>suopmadis/submes</l>
+      <l pos="A" type="Attr">suopmadis</l>
+      <l pos="A" type="Attr">submes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -534952,7 +534989,7 @@
   </e>
   <e>
     <lg>
-      <l>suorte-</l>
+      <l pos="N" type="Cmp/SplitR">suorte-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -535197,7 +535234,7 @@
   </e>
   <e>
     <lg>
-      <l>suosto-</l>
+      <l pos="N" type="Cmp/SplitR">suosto-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -535861,7 +535898,7 @@
   </e>
   <e>
     <lg>
-      <l>suovre-</l>
+      <l pos="N" type="Cmp/SplitR">suovre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -536348,7 +536385,8 @@
   </e>
   <e>
     <lg>
-      <l>surgadis/surges</l>
+      <l pos="A" type="Attr">surgadis</l>
+      <l pos="A" type="Attr">surges</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -538853,7 +538891,8 @@
   </e>
   <e>
     <lg>
-      <l>šalladis/šalles</l>
+      <l pos="A" type="Attr">šalladis</l>
+      <l pos="A" type="Attr">šalles</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -540279,7 +540318,8 @@
   </e>
   <e>
     <lg>
-      <l>šearradis/šerres</l>
+      <l pos="A" type="Attr">šearradis</l>
+      <l pos="A" type="Attr">šerres</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -542633,7 +542673,7 @@
   </e>
   <e>
     <lg>
-      <l>šleađga-</l>
+      <l pos="N" type="Cmp/SplitR">šleađga-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -543068,7 +543108,7 @@
   </e>
   <e>
     <lg>
-      <l>šleance-</l>
+      <l pos="N" type="Cmp/SplitR">šleance-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -543239,7 +543279,7 @@
   </e>
   <e>
     <lg>
-      <l>šleakče-</l>
+      <l pos="N" type="Cmp/SplitR">šleakče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -544086,7 +544126,7 @@
   </e>
   <e>
     <lg>
-      <l>šlimpe-</l>
+      <l pos="N" type="Cmp/SplitR">šlimpe-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -544174,7 +544214,7 @@
   </e>
   <e>
     <lg>
-      <l>šlince-</l>
+      <l pos="N" type="Cmp/SplitR">šlince-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -544234,7 +544274,7 @@
   </e>
   <e>
     <lg>
-      <l>šlinze-</l>
+      <l pos="N" type="Cmp/SplitR">šlinze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -544791,7 +544831,7 @@
   </e>
   <e>
     <lg>
-      <l>šloance-</l>
+      <l pos="N" type="Cmp/SplitR">šloance-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -545846,7 +545886,7 @@
   </e>
   <e>
     <lg>
-      <l>šluŋke-</l>
+      <l pos="N" type="Cmp/SplitR">šluŋke-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -545991,7 +546031,7 @@
   </e>
   <e>
     <lg>
-      <l>šlubbo-</l>
+      <l pos="N" type="Cmp/SplitR">šlubbo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -548221,7 +548261,7 @@
   </e>
   <e>
     <lg>
-      <l>šumpo-</l>
+      <l pos="N" type="Cmp/SplitR">šumpo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -549543,7 +549583,7 @@
   </e>
   <e>
     <lg>
-      <l>telefon-</l>
+      <l pos="N" type="Cmp/SplitR">telefon-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -560103,7 +560143,7 @@
   </e>
   <e>
     <lg>
-      <l>váimmoguovdo-</l>
+      <l pos="N" type="Cmp/SplitR">váimmoguovdo-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -562124,7 +562164,7 @@
   </e>
   <e>
     <lg>
-      <l>válga-</l>
+      <l pos="N" type="Cmp/SplitR">válga-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -564054,7 +564094,7 @@
   </e>
   <e>
     <lg>
-      <l>várre-</l>
+      <l pos="N" type="Cmp/SplitR">várre-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -567520,7 +567560,7 @@
   </e>
   <e>
     <lg>
-      <l>veaiddalas-</l>
+      <l pos="N" type="Cmp/SplitR">veaiddalas-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -567988,7 +568028,7 @@
   </e>
   <e>
     <lg>
-      <l>vealče-</l>
+      <l pos="N" type="Cmp/SplitR">vealče-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -568685,7 +568725,7 @@
   </e>
   <e>
     <lg>
-      <l>veanze-</l>
+      <l pos="N" type="Cmp/SplitR">veanze-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -570123,7 +570163,7 @@
   </e>
   <e>
     <lg>
-      <l>veasta-</l>
+      <l pos="N" type="Cmp/SplitR">veasta-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -578339,7 +578379,7 @@
   </e>
   <e>
     <lg>
-      <l>vuolá-</l>
+      <l pos="N" type="Cmp/SplitR">vuolá-</l>
     </lg>
     <mg>
       <tg xml:lang="fin"/>
@@ -586302,7 +586342,8 @@
   </e>
   <e>
     <lg>
-      <l>vuopmadis/vubmes</l>
+      <l pos="A" type="Attr">vuopmadis</l>
+      <l pos="A" type="Attr">vubmes</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
