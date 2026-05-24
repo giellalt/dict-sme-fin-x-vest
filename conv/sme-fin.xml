@@ -8420,7 +8420,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">arvves</l>
+      <t pos="A">arvves</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -29029,7 +29029,7 @@
   </e>
   <e>
     <lg>
-      <t pos="N">ávnnasoahpaheaddji</l>
+      <t pos="N">ávnnasoahpaheaddji</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -64056,7 +64056,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">bigges</l>
+      <t pos="A">bigges</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -76872,7 +76872,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">boarkkas</l>
+      <t pos="A">boarkkas</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -98999,7 +98999,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">cakkas</l>
+      <t pos="A">cakkas</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -100396,7 +100396,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">ceaggás</l>
+      <t pos="A">ceaggás</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -104385,7 +104385,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">coages</l>
+      <t pos="A">coages</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -109716,7 +109716,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">čalla</l>
+      <t pos="A">čalla</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -112659,7 +112659,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A" type="Attr>čavges/čavga</l>
+      <l pos="A" type="Attr">čavges/čavga</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -112907,7 +112907,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">čába</l>
+      <t pos="A">čába</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -127246,7 +127246,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">čohkkes</l>
+      <t pos="A">čohkkes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -131545,7 +131545,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">čohkkes</l>
+      <t pos="A">čohkkes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -132706,15 +132706,15 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">kasassa</t>
-        <t pos="Adv>kasattuna</t>
+        <t pos="Adv">kasattuna</t>
         <t pos="Adv">kekona</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv>kasaksi</t>
-        <t pos="Adv>kasatuksi</t>
-        <t pos="Adv>keoksi</t>
+        <t pos="Adv">kasaksi</t>
+        <t pos="Adv">kasatuksi</t>
+        <t pos="Adv">keoksi</t>
       </tg>
     </mg>
   </e>
@@ -132731,9 +132731,9 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv>kasaksi</t>
-        <t pos="Adv>kasatuksi</t>
-        <t pos="Adv>keoksi</t>
+        <t pos="Adv">kasaksi</t>
+        <t pos="Adv">kasatuksi</t>
+        <t pos="Adv">keoksi</t>
       </tg>
     </mg>
   </e>
@@ -133128,7 +133128,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A" type="Attr>čorges/čorgadis</l>
+      <l pos="A" type="Attr">čorges/čorgadis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -139441,7 +139441,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A" type="Attr>čudnes/čuotnadis</l>
+      <l pos="A" type="Attr">čudnes/čuotnadis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -139841,7 +139841,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">čuvges</l>
+      <t pos="A">čuvges</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -146183,7 +146183,7 @@
   </e>
   <e>
     <lg>
-      <t pos="N">dábálašoahpaheaddji</l>
+      <t pos="N">dábálašoahpaheaddji</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -161842,7 +161842,7 @@
   </e>
   <e>
     <lg>
-      <t pos="N">diibmooahpaheaddji</l>
+      <t pos="N">diibmooahpaheaddji</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -162048,7 +162048,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">diides</l>
+      <t pos="A">diides</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -167999,7 +167999,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A" type="Attr>dobmes/doapmadis</l>
+      <l pos="A" type="Attr">dobmes/doapmadis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -178760,7 +178760,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">dulbes</l>
+      <t pos="A">dulbes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -179258,7 +179258,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A" type="Attr>duolladis/dulles</l>
+      <l pos="A" type="Attr">duolladis/dulles</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -184013,7 +184013,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">eahpenjulges</l>
+      <t pos="A">eahpenjulges</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -187386,7 +187386,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">eanas</l>
+      <t pos="A">eanas</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -197978,7 +197978,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">fávrros</l>
+      <t pos="A">fávrros</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -213726,7 +213726,7 @@
   </e>
   <e>
     <lg>
-      <l pos=A">gáddil</l>
+      <l pos="A">gáddil</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -227592,7 +227592,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">geamppas</l>
+      <t pos="A">geamppas</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -228607,7 +228607,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">gerres</l>
+      <t pos="A">gerres</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -232806,7 +232806,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">giddes</l>
+      <t pos="A">giddes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -274596,7 +274596,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">hágas</l>
+      <t pos="A">hágas</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -275451,7 +275451,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">háittes</l>
+      <t pos="A">háittes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -278588,7 +278588,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">hárve</l>
+      <t pos="A">hárve</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -280336,7 +280336,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">heajos</l>
+      <t pos="A">heajos</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -283849,7 +283849,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">hearvás</l>
+      <t pos="A">hearvás</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -283863,7 +283863,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">hearvás</l>
+      <t pos="A">hearvás</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -295251,7 +295251,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">ivttá</l>
+      <t pos="A">ivttá</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -302433,7 +302433,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">jálddos</l>
+      <t pos="A">jálddos</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -302593,7 +302593,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">jálos</l>
+      <t pos="A">jálos</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -308773,7 +308773,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">joavga</l>
+      <t pos="A">joavga</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -310688,7 +310688,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">jolges</l>
+      <t pos="A">jolges</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -311305,7 +311305,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">jorbes</l>
+      <t pos="A">jorbes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -322464,7 +322464,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">ladnjes</l>
+      <t pos="A">ladnjes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -325584,7 +325584,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">ladnjes</l>
+      <t pos="A">ladnjes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -333002,7 +333002,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">lebbes</l>
+      <t pos="A">lebbes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -335152,7 +335152,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <gramm>tav. pl.: leksosat</re>
+        <gramm>tav. pl.: leksosat</gramm>
         <t t_type="phrase">mahapaita, rasva pötsin ja verkkomahan ympärillä</t>
       </tg>
     </mg>
@@ -343503,7 +343503,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">loavddes</l>
+      <t pos="A">loavddes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -347890,7 +347890,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">lodnjes</l>
+      <t pos="A">lodnjes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -360768,7 +360768,7 @@
   </e>
   <e>
     <lg>
-      <t pos="N">máhttájeaddji</l>
+      <t pos="N">máhttájeaddji</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -376283,7 +376283,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">moddjás</l>
+      <t pos="A">moddjás</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -383665,7 +383665,7 @@
   </e>
   <e>
     <lg>
-      <t pos="N">musihkkaoahpaheaddji</l>
+      <t pos="N">musihkkaoahpaheaddji</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -396208,7 +396208,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">njáiggos</l>
+      <t pos="A">njáiggos</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -404731,7 +404731,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">njulges</l>
+      <t pos="A">njulges</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -406186,7 +406186,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">njuoska</l>
+      <t pos="A">njuoska</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -410109,7 +410109,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">nuolos</l>
+      <t pos="A">nuolos</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -421494,7 +421494,7 @@
         <t pos="N">rinnushalkio</t>
         <t pos="N">kaula-aukko</t>
         <xg>
-          <x>ozas gieđaid<x>
+          <x>ozas gieđaid</x>
           <xt>kädet (lapintakin tms. rinnushalkiossa)</xt>
         </xg>
       </tg>
@@ -425875,7 +425875,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">olles</l>
+      <t pos="A">olles</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -439931,7 +439931,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">rábmás</l>
+      <t pos="A">rábmás</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -439961,7 +439961,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">rábmás</l>
+      <t pos="A">rábmás</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -439991,7 +439991,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">rábmás</l>
+      <t pos="A">rábmás</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -442377,7 +442377,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">ráhkes</l>
+      <t pos="A">ráhkes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -460116,7 +460116,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">roava</l>
+      <t pos="A">roava</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -462283,7 +462283,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">rosses</l>
+      <t pos="A">rosses</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -470332,7 +470332,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">ruvdes</l>
+      <t pos="A">ruvdes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -475479,7 +475479,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">sáhkkes</l>
+      <t pos="A">sáhkkes</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -483004,7 +483004,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="G3>sealla</l>
+      <l pos="N" type="G3">sealla</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -486966,6 +486966,7 @@
         <t pos="N" type="Prop">Siekkis</t>
       </tg>
     </mg>
+    <mg>
       <tg xml:lang="fin">
         <t pos="N">kannusjalka</t>
       </tg>
@@ -487545,7 +487546,7 @@
   </e>
   <e>
     <lg>
-      <t pos="N">sierraoahpaheaddji</l>
+      <t pos="N">sierraoahpaheaddji</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -490271,7 +490272,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">silles</l>
+      <t pos="A">silles</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -492792,7 +492793,7 @@
     <mg>
       <tg xml:lang="fin">
         <x>sivaheapme son lei dien áššái</x>
-        <xt>syytön hän oli siihen asiaan<xt>
+        <xt>syytön hän oli siihen asiaan</xt>
       </tg>
     </mg>
   </e>
@@ -492808,7 +492809,7 @@
     <mg>
       <tg xml:lang="fin">
         <x>sivaheapme son lei dien áššái</x>
-        <xt>syytön hän oli siihen asiaan<xt>
+        <xt>syytön hän oli siihen asiaan</xt>
       </tg>
     </mg>
   </e>
@@ -501998,7 +501999,7 @@
     <mg>
       <tg xml:lang="fin">
         <x>skuldohalai eadnásis</x>
-        <xt>sai äidiltään toruja<xt>
+        <xt>sai äidiltään toruja</xt>
       </tg>
     </mg>
   </e>
@@ -512443,7 +512444,7 @@
         <t pos="V">loukata</t>
         <xg>
           <x>soardit iežas</x>
-          <xt>tehdä itsemurha<xt>
+          <xt>tehdä itsemurha</xt>
         </xg>
       </tg>
     </mg>
@@ -539899,7 +539900,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">šelges</l>
+      <t pos="A">šelges</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -563195,7 +563196,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">vánttas</l>
+      <t pos="A">vánttas</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -568897,7 +568898,7 @@
       <tg xml:lang="fin">
         <t t_type="phrase">verrattavissa oleva</t>
         <x>-veardásaš</x>
-        <xt">-veroinen, -vertainen</xt>
+        <xt>-veroinen, -vertainen</xt>
       </tg>
     </mg>
   </e>
@@ -575684,7 +575685,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">villa</l>
+      <t pos="A">villa</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -578537,7 +578538,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">vuoddjás</l>
+      <t pos="A">vuoddjás</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -581169,7 +581170,7 @@
   </e>
   <e>
     <lg>
-      <t pos="A">vuiges</l>
+      <t pos="A">vuiges</t>
     </lg>
     <mg>
       <tg xml:lang="fin">
